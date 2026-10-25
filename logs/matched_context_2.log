@@ -1,0 +1,18 @@
+random pool size: 1532
+[skip] c1q_none 已完成
+[skip] c1q_c1docs 已完成
+[skip] c1q_c2docs 已完成
+[skip] c1q_c3docs 已完成
+[skip] c1q_c5docs 已完成
+[skip] c1q_random 已完成
+[skip] c2q_none 已完成
+[skip] c3q_c2docs 已完成
+c5q_c2docs run 1: 0.445
+c5q_c2docs run 2: 0.440
+c5q_c2docs run 3: 0.435
+=== c5q_c2docs majority: 0.435 ===
+
+sanity: c1q_c1docs 与原 pred_c1 一致 196/200
+q_c2docs majority: 0.440 ===
+
+sanity: c1q_c1docs 与原 pred_c1 一致 196/200

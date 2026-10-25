@@ -1,0 +1,4804 @@
+[
+  {
+    "id": 1939,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "呼吸内科高级职称",
+    "question": "呼吸衰竭时，二氧化碳潴留，下列变化哪项是不正确的",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "酸中毒",
+      "B": "脑血流减少",
+      "C": "肾脏保留碳酸氢盐",
+      "D": "神志模糊",
+      "E": "脑脊液压力增加"
+    },
+    "answer": "B",
+    "question_mt": "In case of respiratory failure, which of the following changes is not correct.",
+    "option_mt": {
+      "A": "Acid poisoning",
+      "B": "Hemorrhage is decreasing.",
+      "C": "Keep hydrocarbons in the kidneys.",
+      "D": "I don't know what I'm talking about.",
+      "E": "The cerebral fluid pressure is increasing."
+    }
+  },
+  {
+    "id": 432,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "临床执业助理医师",
+    "question": "晚期肺癌患者刘某，经抢救无效死亡。刘某的亲属对其死因以及医院的诊疗行为无异议，尸体随后火化。但两周后，刘某的家属以医院的抢救过程存在严重问题导致刘某死亡为由，向当地人民法院起诉。法院委托当地市医学会对本案进行医疗事故技术鉴定。鉴定专家应当",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "以未进行尸检，不能确定死因为由，将案件退回法院",
+      "B": "认定由刘某的亲属承担因未进行尸检而不能确定死因的责任",
+      "C": "认定由医方承担因未进行尸检而不能确定死因的举证不能",
+      "D": "根据病历资料，依法对医方的医疗行为是否构成医疗事故进行鉴定",
+      "E": "让医方拿出充分的证据证明自己的医疗行为无过错"
+    },
+    "answer": "E",
+    "question_mt": "But two weeks later, Liu’s family sued the local people’s court for serious problems in the rescue process leading to Liu’s death. The court commissioned the local municipality’s medical board to carry out a technical medical accident evaluation of the case.",
+    "option_mt": {
+      "A": "The case could not be returned to court on the grounds that the cause of death could not be established without a post-mortem examination",
+      "B": "Concludes that Liu's relatives bear responsibility for the failure to determine the cause of death due to the absence of an autopsy",
+      "C": "No proof that the cause of death could not be established due to the absence of a post-mortem examination was found to have been borne by the medical authorities.",
+      "D": "On the basis of medical records, an assessment of whether the medical behaviour of the medical provider constitutes a medical accident is carried out in accordance with the law",
+      "E": "Get the medical team to prove that there's no fault in their medical behavior."
+    }
+  },
+  {
+    "id": 4850,
+    "exam_type": "药师考试",
+    "exam_class": "初级药师",
+    "exam_subject": "药师初级考试",
+    "question": "下列药物可用于治疗恶性贫血的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "硫酸亚铁",
+      "B": "维生素K",
+      "C": "维生素B12",
+      "D": "维生素B6",
+      "E": "红细胞生成素"
+    },
+    "answer": "C",
+    "question_mt": "The following drugs can be used to treat malignant anaemia:",
+    "option_mt": {
+      "A": "Iron sulphate.",
+      "B": "Vitamin K",
+      "C": "Vitamin B12",
+      "D": "Vitamin B6",
+      "E": "Red Cell Generater"
+    }
+  },
+  {
+    "id": 4353,
+    "exam_type": "药师考试",
+    "exam_class": "执业中药师",
+    "exam_subject": "执业中药师",
+    "question": "茎枝圆柱形，表面黄绿色或金黄色，节膨大，断面不平坦，髄部常偏向一边，叶对生于枝梢的药材是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "槲寄生",
+      "B": "荆芥",
+      "C": "青蒿",
+      "D": "益母草",
+      "E": "金钱草"
+    },
+    "answer": "A",
+    "question_mt": "Twisted cylindrical, yellow or yellow on the surface, condensed, uneven, tending to one side, and leaves for the medicine that comes out of the branch.",
+    "option_mt": {
+      "A": "The thugs.",
+      "B": "Mustard.",
+      "C": "Artemis",
+      "D": "Weed.",
+      "E": "Money weeds."
+    }
+  },
+  {
+    "id": 3957,
+    "exam_type": "药师考试",
+    "exam_class": "执业西药师",
+    "exam_subject": "执业西药师",
+    "question": "有较好证据支持的药物信息属于",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "EBDIA类",
+      "B": "EBDIB类",
+      "C": "EBDIC类",
+      "D": "EBDID类",
+      "E": "EBDIE类"
+    },
+    "answer": "B",
+    "question_mt": "Drug information with better evidence to support it.",
+    "option_mt": {
+      "A": "EBDIA class",
+      "B": "EBDIB class",
+      "C": "EBDIC class",
+      "D": "EBDID class",
+      "E": "EBDIE class"
+    }
+  },
+  {
+    "id": 2417,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question": "典型急性心梗与典型心绞痛患者在症状上最大的区别是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "疼痛的放射部位",
+      "B": "疼痛的部位",
+      "C": "疼痛的持续时间",
+      "D": "疼痛的性质",
+      "E": "伴随症状"
+    },
+    "answer": "C",
+    "question_mt": "The greatest difference between the symptoms of a typical acute heart attack and those of a typical heartache patient is that",
+    "option_mt": {
+      "A": "The radiation part of the pain.",
+      "B": "The pain.",
+      "C": "Duration of pain",
+      "D": "Nature of pain",
+      "E": "Accompanies symptoms."
+    }
+  },
+  {
+    "id": 1758,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "呼吸内科高级职称",
+    "question": "女性，29岁，右胸痛2周，伴发热38.5℃，有干咳。胸痛开始为尖锐针刺样，深呼吸时及咳嗽时加剧。近3日觉胸痛减轻，但活动后有气促。体检右下肺呼吸音减低，叩诊浊音。可能的诊断是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "大叶性肺炎",
+      "B": "右侧气胸",
+      "C": "肺梗死",
+      "D": "右侧胸腔积液",
+      "E": "肝脓肿"
+    },
+    "answer": "D",
+    "question_mt": "Females, 29 years old, right chest ache for 2 weeks, accompanied by a fever of 38.5 °C, coughing. Chest ache starts to sting with sharp needles and increases during deep breaths and coughs.",
+    "option_mt": {
+      "A": "Leaf pneumonia.",
+      "B": "Right air chest.",
+      "C": "Pulmonary infarction.",
+      "D": "Right breast cavity fluid.",
+      "E": "Hepatitis."
+    }
+  },
+  {
+    "id": 9582,
+    "exam_type": "专业知识考试",
+    "exam_class": "中医学与中药学",
+    "exam_subject": "金匮要略讲义",
+    "question": "患者喘息咳唾，胸背痛，短气，寸脉沉迟，关脉弦急者，治宜",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "栝楼薤白白酒汤",
+      "B": "栝楼薤白半夏汤",
+      "C": "枳实薤白桂枝汤",
+      "D": "橘枳姜汤",
+      "E": "人参汤"
+    },
+    "answer": "A",
+    "question_mt": "Patients coughing and coughing, chest pains, short breaths, dilatory veins, arteries of arteries, cures.",
+    "option_mt": {
+      "A": "I've got white and white soup.",
+      "B": "It's half-basin soup.",
+      "C": "It's a white cinnamon soup.",
+      "D": "Orange ginger soup.",
+      "E": "Fong-chung soup."
+    }
+  },
+  {
+    "id": 1467,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "疼痛科主治医师",
+    "question": "三环类抗抑郁药的禁忌证不包括",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "严重心脏病",
+      "B": "青光眼",
+      "C": "前列腺肥大",
+      "D": "孕妇",
+      "E": "老年人"
+    },
+    "answer": "E",
+    "question_mt": "The three-ring antidepressants are not covered by the taboo.",
+    "option_mt": {
+      "A": "Severe heart attack.",
+      "B": "Cyan-Eye.",
+      "C": "The prostate is fat.",
+      "D": "Pregnant women",
+      "E": "Older persons"
+    }
+  },
+  {
+    "id": 10651,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question": "下列哪一项不符合肿瘤性生长",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "生长旺盛",
+      "B": "常形成肿块",
+      "C": "细胞分化成熟能力正常",
+      "D": "不需致癌因素持续存在",
+      "E": ""
+    },
+    "answer": "C",
+    "question_mt": "Which of the following does not match tumor growth?",
+    "option_mt": {
+      "A": "Growing up.",
+      "B": "It's always swollen.",
+      "C": "Cell separation maturity is normal.",
+      "D": "There's no need for cancer to persist.",
+      "E": ""
+    }
+  },
+  {
+    "id": 7297,
+    "exam_type": "医技考试",
+    "exam_class": "医技师",
+    "exam_subject": "肿瘤学技术（师）",
+    "question": "实施调强治疗时，加速器控制界面上的MUs表示",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "标准剂量",
+      "B": "吸收剂量",
+      "C": "照射量",
+      "D": "剂量仪的跳数",
+      "E": "处方剂量"
+    },
+    "answer": "D",
+    "question_mt": "MUs on the accelerator control interface when intensive treatment is performed",
+    "option_mt": {
+      "A": "Standard dose",
+      "B": "Absorption dose",
+      "C": "Exposure",
+      "D": "Dosimeter jumps",
+      "E": "Prescription dose"
+    }
+  },
+  {
+    "id": 543,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "公共卫生执业助理医师",
+    "question": "我国政府参与签署的《烟草控制框架公约》（WHO FCTC），在我国正式生效的日期为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "2005年7月1日",
+      "B": "2006年1月9日",
+      "C": "2007年5月31日",
+      "D": "2008年5月1日",
+      "E": "2009年1月1日"
+    },
+    "answer": "B",
+    "question_mt": "The Framework Convention on Tobacco Control (WHO FCTC), signed with the participation of my Government, entered into force in my country on the date of its entry into force",
+    "option_mt": {
+      "A": "1 July 2005",
+      "B": "9 January 2006",
+      "C": "31 May 2007",
+      "D": "1 May 2008",
+      "E": "1 January 2009"
+    }
+  },
+  {
+    "id": 511,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "口腔执业助理医师",
+    "question": "关于血糖来源的叙述，错误的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "肠道吸收的葡萄糖",
+      "B": "肝糖原分解成葡萄糖入血液",
+      "C": "肌糖原分解成葡萄糖入血液",
+      "D": "非糖物质在肝脏异生成糖入血液",
+      "E": "乳酸循环中的乳酸在肝成糖后入血液"
+    },
+    "answer": "C",
+    "question_mt": "The story about the source of blood sugar is wrong.",
+    "option_mt": {
+      "A": "Glucose in the intestinal tract.",
+      "B": "The liver sugar is decomposed into glucose into blood.",
+      "C": "The magnesium is broken into glucose into blood.",
+      "D": "Non-sugar matter produces sugar into blood in the liver.",
+      "E": "The emulsifiable acid in the circulatory cycle enters the blood after hepatic sugar."
+    }
+  },
+  {
+    "id": 1580,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "眼科主治医师",
+    "question": "视觉神经冲动经三级神经元传递的顺序是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "双极细胞-节细胞-光感受器细胞",
+      "B": "光感受器细胞-双极细胞-节细胞",
+      "C": "光感受器细胞-节细胞-双极细胞",
+      "D": "节细胞-光感受器细胞-双级细胞",
+      "E": "节细胞-双极细胞-光感受器细胞"
+    },
+    "answer": "B",
+    "question_mt": "The order in which the visual nerve impulse passes through the third degree neuron is:",
+    "option_mt": {
+      "A": "Bipolar cell-tempocytes-light senser cells",
+      "B": "Photoreser cells - bipolar cells - cellular cells",
+      "C": "Light receptor cells, knot cells, bipolar cells",
+      "D": "Modular cells - light receptors cells - two-stage cells",
+      "E": "Modular - Bipolar - Light Sensor Cells"
+    }
+  },
+  {
+    "id": 3870,
+    "exam_type": "药师考试",
+    "exam_class": "执业西药师",
+    "exam_subject": "执业西药师",
+    "question": "2型肥胖型糖尿病者宜首选",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "胰岛素",
+      "B": "格列喹酮",
+      "C": "二甲双胍",
+      "D": "普伐他汀",
+      "E": "阿卡波糖"
+    },
+    "answer": "C",
+    "question_mt": "Obesity type 2 diabetics are preferred",
+    "option_mt": {
+      "A": "Insulin",
+      "B": "Grketone.",
+      "C": "Two As and two As.",
+      "D": "Puvertin.",
+      "E": "A cappuccino."
+    }
+  },
+  {
+    "id": 4126,
+    "exam_type": "药师考试",
+    "exam_class": "执业中药师",
+    "exam_subject": "执业中药师",
+    "question": "饮食不调最易损伤",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "心",
+      "B": "肺",
+      "C": "胆",
+      "D": "脾",
+      "E": "肝"
+    },
+    "answer": "D",
+    "question_mt": "It's easy to hurt if you don't adjust your diet.",
+    "option_mt": {
+      "A": "Heart.",
+      "B": "Lung.",
+      "C": "Courage.",
+      "D": "Spleen.",
+      "E": "The liver."
+    }
+  },
+  {
+    "id": 8827,
+    "exam_type": "专业知识考试",
+    "exam_class": "预防医学与公共卫生学",
+    "exam_subject": "预防医学",
+    "question": "卫生法学是20世纪60年代后期随着哪种医学模式的出现而产生的一门新兴的边缘学科",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "社会-心理-生物",
+      "B": "心理-生物-社会",
+      "C": "生理-心理-社会",
+      "D": "生理-社会-心理",
+      "E": "生物-心理-社会"
+    },
+    "answer": "E",
+    "question_mt": "Health law is an emerging marginal discipline that emerged in the late 1960s with the emergence of a medical model.",
+    "option_mt": {
+      "A": "Socio-psychological-biological",
+      "B": "Psycho-biological-social",
+      "C": "Physico-psychological-social",
+      "D": "Physico-social-psychological",
+      "E": "Bio-psychological-social"
+    }
+  },
+  {
+    "id": 10930,
+    "exam_type": "医学考研",
+    "exam_class": "中医综合",
+    "exam_subject": "考研中医综合",
+    "question": "有“方书之祖”之称的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "《千金方》",
+      "B": "《五十二病方》",
+      "C": "《伤寒杂病论》",
+      "D": "《黄帝内经》",
+      "E": ""
+    },
+    "answer": "C",
+    "question_mt": "In the name of the Father of the Book,",
+    "option_mt": {
+      "A": "\"Kinjin Fong\"",
+      "B": "Fifty-two Paths.",
+      "C": "typhoid disease.",
+      "D": "The Episode of the Emperor.",
+      "E": ""
+    }
+  },
+  {
+    "id": 457,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "临床执业助理医师",
+    "question": "稳定型股骨颈骨折是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "头下骨折",
+      "B": "经颈骨折",
+      "C": "基底骨折",
+      "D": "内收骨折",
+      "E": "外展骨折"
+    },
+    "answer": "E",
+    "question_mt": "Stabilized femur fracture.",
+    "option_mt": {
+      "A": "He's got a broken skull.",
+      "B": "He's got a broken neck.",
+      "C": "Substrate fracture.",
+      "D": "It's a broken internal bone.",
+      "E": "Outreach fracture"
+    }
+  },
+  {
+    "id": 9886,
+    "exam_type": "医学考研",
+    "exam_class": "护理学",
+    "exam_subject": "基础护理学",
+    "question": "女性病人，85岁，因肺炎不治而死亡，诊断临床死亡标准是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "心跳，呼吸停止，各种反射消失",
+      "B": "深度昏迷状态",
+      "C": "神经系统停止活动",
+      "D": "各器官新陈代谢停止",
+      "E": "出现尸斑"
+    },
+    "answer": "A",
+    "question_mt": "Female patient, 85 years of age, died of pneumonia.",
+    "option_mt": {
+      "A": "Heart beats, breathing stops, all kinds of reflections disappear.",
+      "B": "Deep coma.",
+      "C": "Neurological system shut down.",
+      "D": "The metabolism of the organs stopped.",
+      "E": "There's a body."
+    }
+  },
+  {
+    "id": 3460,
+    "exam_type": "护理考试",
+    "exam_class": "高级护师",
+    "exam_subject": "副主任、主任护师资格考试",
+    "question": "新生儿生理性黄疸自然消退的时间为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "3～4日",
+      "B": "5～6日",
+      "C": "10～14日",
+      "D": "15～18日",
+      "E": "19～23日"
+    },
+    "answer": "C",
+    "question_mt": "The time of natural degeneration of a newborn's physiology",
+    "option_mt": {
+      "A": "3-4 p.m.",
+      "B": "5-6 September",
+      "C": "10-14 September",
+      "D": "15-18 September",
+      "E": "19-23 September"
+    }
+  },
+  {
+    "id": 9575,
+    "exam_type": "专业知识考试",
+    "exam_class": "中医学与中药学",
+    "exam_subject": "温病学",
+    "question": "湿温病过程中出现湿从寒化而见脘腹胀满，大便不爽，或溏泄，食少无味，苔白腻，或白腻而滑，脉缓。方用",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "四加减正气散",
+      "B": "参附汤",
+      "C": "附子理中汤",
+      "D": "藿朴夏苓汤",
+      "E": "茯苓皮汤"
+    },
+    "answer": "A",
+    "question_mt": "Wet-temperature diseases occur in the course of which the hysteria is soaked from the cold that the hysteria is so full, the excruciating, or excruciating, tasteless, greasy, or greasy, and the pulse is so slow.",
+    "option_mt": {
+      "A": "Four plus positive.",
+      "B": "♪ Join the soup ♪",
+      "C": "Attached to the broth.",
+      "D": "PARK Ha Yu soup",
+      "E": "Skin soup."
+    }
+  },
+  {
+    "id": 7258,
+    "exam_type": "医技考试",
+    "exam_class": "医技师",
+    "exam_subject": "放射学技术（师）",
+    "question": "脉冲序列不包括",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "射频脉冲",
+      "B": "层面选择梯度场",
+      "C": "相位编码梯度场",
+      "D": "频率编码梯度场",
+      "E": "主磁场"
+    },
+    "answer": "E",
+    "question_mt": "Pulse sequences don't include.",
+    "option_mt": {
+      "A": "Radio frequency pulse.",
+      "B": "Level Selection Gradient Fields",
+      "C": "Phase Encoding Gradient Field",
+      "D": "Frequency Encoding Gradient Field",
+      "E": "Main magnetic field"
+    }
+  },
+  {
+    "id": 3905,
+    "exam_type": "药师考试",
+    "exam_class": "执业西药师",
+    "exam_subject": "执业西药师",
+    "question": "根据《药品注册管理办法》，进一步验证药物对目标适应证患者的治疗作用和安全性的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "Ⅰ期临床试验",
+      "B": "Ⅱ期临床试验",
+      "C": "Ⅲ期临床试验",
+      "D": "Ⅳ期临床试验",
+      "E": "生物等效性试验"
+    },
+    "answer": "C",
+    "question_mt": "Further validation of the therapeutic role and safety of drugs for target-adaptation patients under the Medicines Register Management Scheme",
+    "option_mt": {
+      "A": "I Clinical Trials",
+      "B": "Clinical Trial II",
+      "C": "Clinical trial III",
+      "D": "IV Clinical Trials",
+      "E": "Biological Equivalence Tests"
+    }
+  },
+  {
+    "id": 7745,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "输血技术主管技师",
+    "question": "平均每个核小体重复单位占DNA的长度约为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "100bp",
+      "B": "200bp",
+      "C": "300bp",
+      "D": "400bp",
+      "E": "500bp"
+    },
+    "answer": "B",
+    "question_mt": "The average amount of DNA per nuclear small repeat unit is about",
+    "option_mt": {
+      "A": "100bp",
+      "B": "200bp",
+      "C": "300bp",
+      "D": "400bp",
+      "E": "500bp"
+    }
+  },
+  {
+    "id": 10627,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question": "负有对国家和本地区卫生政策咨询、伦理研究、对下级机构伦理委员会监督指导和对特殊重大项目的伦理审查批准等功能",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "卫生管理部门的专家伦理委员会",
+      "B": "卫生管理部门的机构伦理委员会",
+      "C": "伦理审查委员会",
+      "D": "医院伦理委员会",
+      "E": "机构审查委员会"
+    },
+    "answer": "A",
+    "question_mt": "In charge of advisory functions on national and regional health policies, ethical research, supervision of subordinate institutional ethics committees and approval of ethical reviews of special major projects",
+    "option_mt": {
+      "A": "Committee of Experts on Ethics in the Health Administration",
+      "B": "Institutional Ethics Committee for the Health Administration",
+      "C": "Ethics Review Committee",
+      "D": "Hospital Ethics Committee",
+      "E": "Institutional Review Committee"
+    }
+  },
+  {
+    "id": 4901,
+    "exam_type": "药师考试",
+    "exam_class": "初级药师",
+    "exam_subject": "药师初级考试",
+    "question": "下列描述中不符合熔点判断的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "初熔和全熔两个读数均应报告",
+      "B": "供试品受热出现发毛收缩及软化等变化，应作初熔判断",
+      "C": "全熔温度指供试品全部液化时的温度",
+      "D": "初熔温度指供试品开始局部液化有明显液滴时的温度",
+      "E": "供试品受热出现发毛收缩及软化等变化，均不作初熔判断"
+    },
+    "answer": "B",
+    "question_mt": "The following description does not correspond to the melting point:",
+    "option_mt": {
+      "A": "Both the first and the full melting readings should be reported.",
+      "B": "Changes such as hair contraction and softening of the heat for the test should be judged as initial melting.",
+      "C": "Full melting temperature means the temperature at which all the samples are liquefied.",
+      "D": "The initial melting temperature refers to the temperature at which the test begins to liquefied locally with a distinct droplets of liquid.",
+      "E": "Changes such as hair contraction and softening of the heat for the test products are not subject to initial molten judgement."
+    }
+  },
+  {
+    "id": 117,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "皮肤科",
+    "question": "患者男，78岁。因“中风”瘫痪半年，神志不清，近一月出现躯干、四肢红斑丘疹、丘疱疹，初起在四肢屈侧及腹部，予外用复方醋酸地塞米松乳膏等无效，皮疹增多加重，渐发展为红皮病样表现，表面大量鳞屑、结痂，有臭味。其护工一月前曾患“疥疮”，已治愈。诊断最可能是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "湿疹继发感染",
+      "B": "淋巴瘤",
+      "C": "红皮病性银屑病",
+      "D": "挪威疥",
+      "E": "药疹"
+    },
+    "answer": "D",
+    "question_mt": "The patient is a male, 78 years old. As a result of a six-month period of paralysis caused by a stroke, confusion, the recent appearance in January of a torso, a four-legged red rash, acne herpes, abdominal abdominal gluten, etc., which is not valid for external use of the combination acetic acetic cerebral cerebral creams, the increase in rash rashes, which has gradually become an expression of red-skinned disease, with a large amount of scabies and scabies on the surface and the smell of scabies.",
+    "option_mt": {
+      "A": "Wet rash co-infection.",
+      "B": "lymphoma.",
+      "C": "Hemorrhage of silver crumbs.",
+      "D": "Norwegian sorghum.",
+      "E": "Herpes."
+    }
+  },
+  {
+    "id": 2746,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question": "患者，男，82岁，习惯性便秘，遵医嘱行小量不保留灌肠，操作不当的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "可选用“1、2、3”溶液",
+      "B": "灌肠液温度39〜41℃",
+      "C": "灌肠筒液面距肛门40〜60cm",
+      "D": "肛管插入直肠7〜10cm",
+      "E": "灌肠后嘱患者保留溶液10〜20分钟再排便"
+    },
+    "answer": "C",
+    "question_mt": "Patients, men, 82 years old, habitual constipation, medically ordered not to keep enemas.",
+    "option_mt": {
+      "A": "Optional solution \"1, 2, 3\"",
+      "B": "Enema temperature 39  41 °C",
+      "C": "The intestinal fluid is 40, 60 cm from the anus.",
+      "D": "Anal tubes are inserted into a rectum of 7 cm, 10 cm.",
+      "E": "After enema, the patient is ordered to retain the solution for 10 to 20 minutes before defecation."
+    }
+  },
+  {
+    "id": 7309,
+    "exam_type": "医技考试",
+    "exam_class": "医技师",
+    "exam_subject": "肿瘤学技术（师）",
+    "question": "由机器本身设计造成的半影包括",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "几何半影",
+      "B": "穿射半影",
+      "C": "散射半影",
+      "D": "几何半影和穿射半影",
+      "E": "几何半影和散射半影"
+    },
+    "answer": "D",
+    "question_mt": "It's part of the machine's design.",
+    "option_mt": {
+      "A": "Geometric Half-Memorial",
+      "B": "It's half-witted.",
+      "C": "Scatter half-way.",
+      "D": "It's geometry and penetration.",
+      "E": "Geometry and scattering."
+    }
+  },
+  {
+    "id": 5928,
+    "exam_type": "药师考试",
+    "exam_class": "初级中药师",
+    "exam_subject": "中药学（师）",
+    "question": "下列剂型属于主动靶向制剂的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "纳米球",
+      "B": "脂质体",
+      "C": "微囊",
+      "D": "β-环糊精包合物",
+      "E": "靶向乳剂"
+    },
+    "answer": "D",
+    "question_mt": "The following formulations are active target formulations:",
+    "option_mt": {
+      "A": "Nanoball.",
+      "B": "Lithium",
+      "C": "Microcapsule.",
+      "D": "Beta-ring confectionery",
+      "E": "Target for emulsion."
+    }
+  },
+  {
+    "id": 4896,
+    "exam_type": "药师考试",
+    "exam_class": "初级药师",
+    "exam_subject": "药师初级考试",
+    "question": "口服具有抗凝效果的药物是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "低分子肝素",
+      "B": "华法林",
+      "C": "维生素K",
+      "D": "尿激酶",
+      "E": "枸橼酸钠"
+    },
+    "answer": "B",
+    "question_mt": "The oral anti-convulsive drug is...",
+    "option_mt": {
+      "A": "Low molecular hep.",
+      "B": "Wafalin.",
+      "C": "Vitamin K",
+      "D": "Urinal enzyme.",
+      "E": "Sodium thorium sodium sodium sodium"
+    }
+  },
+  {
+    "id": 2678,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question": "饮食中含铁量最少的食物是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "奶类",
+      "B": "海带",
+      "C": "木耳",
+      "D": "香菇",
+      "E": "瘦肉"
+    },
+    "answer": "A",
+    "question_mt": "The least iron-bearing food in the diet is",
+    "option_mt": {
+      "A": "Milk",
+      "B": "Seaweed.",
+      "C": "Mule.",
+      "D": "Shrooms.",
+      "E": "Thin meat."
+    }
+  },
+  {
+    "id": 3806,
+    "exam_type": "药师考试",
+    "exam_class": "执业西药师",
+    "exam_subject": "执业西药师",
+    "question": "为避免引起大面积中毒性表皮坏死松解症，服用前提倡做人体白细胞抗原等位基(HLA-B×1502)检测的抗癫痫药是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "卡马西平",
+      "B": "丙戊酸钠",
+      "C": "氯硝西泮",
+      "D": "托吡酯",
+      "E": "加巴喷丁"
+    },
+    "answer": "A",
+    "question_mt": "In order to avoid causing toxic surface hypothermia in a large area, pre-testing anti-epidemiological drugs such as HLA-Bx1502, which promote testing of human white cell antigens, are:",
+    "option_mt": {
+      "A": "Camasi Ping.",
+      "B": "Sodium perpenic acid",
+      "C": "Clonazepam.",
+      "D": "Tetrilineal",
+      "E": "Gaba Spraying."
+    }
+  },
+  {
+    "id": 5868,
+    "exam_type": "药师考试",
+    "exam_class": "初级中药师",
+    "exam_subject": "中药学（师）",
+    "question": "珍珠药材的鉴别特征不包括",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "表面类白色，浅粉红色或浅蓝色",
+      "B": "半透明，具特有的彩色光泽",
+      "C": "质地坚硬，断面可见辐射状纹理，粉性",
+      "D": "磨片可见“珍珠结构环”及“珍珠虹光环”",
+      "E": "无臭，味淡"
+    },
+    "answer": "C",
+    "question_mt": "The identifying characteristics of pearls are not included.",
+    "option_mt": {
+      "A": "Surface white, light pink or light blue",
+      "B": "It's translucent. It's uniquely colored.",
+      "C": "Technically hard, transect visible radiation texture, pinky.",
+      "D": "The film can be seen in Pearl Structure Rings and Pearl Rainbow Halo.",
+      "E": "It's not smelly. It's not smelly."
+    }
+  },
+  {
+    "id": 1753,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "骨科高级职称",
+    "question": "316型不锈钢优点是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "价格低",
+      "B": "耐蚀性好",
+      "C": "强度高",
+      "D": "生物相容性好",
+      "E": "耐疲劳性好"
+    },
+    "answer": "B",
+    "question_mt": "The advantage of type 316 stainless steel is...",
+    "option_mt": {
+      "A": "Low price",
+      "B": "It's good for corrosive.",
+      "C": "Intensity",
+      "D": "Biocompatibility is good.",
+      "E": "It's good to be tired."
+    }
+  },
+  {
+    "id": 1564,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "预防医学主治医师",
+    "question": "下列阴道炎与雌激素低下有关的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "滴虫阴道炎",
+      "B": "念珠菌阴道炎",
+      "C": "细菌性阴道炎",
+      "D": "老年性阴道炎",
+      "E": "真菌性阴道炎"
+    },
+    "answer": "D",
+    "question_mt": "The following vaginal inflammation is related to the low estrogen.",
+    "option_mt": {
+      "A": "Vaginal inflammation of the trichocercia.",
+      "B": "Pulse vaginal inflammation.",
+      "C": "Bacterial vaginal inflammation",
+      "D": "Old-age vaginal inflammation",
+      "E": "Fungi vaginal inflammation."
+    }
+  },
+  {
+    "id": 6608,
+    "exam_type": "药师考试",
+    "exam_class": "主管中药师",
+    "exam_subject": "主管中药师",
+    "question": "治疗实热积滞，大便燥结难下，首选的中药是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "芦荟",
+      "B": "巴豆霜",
+      "C": "火麻仁",
+      "D": "大黄",
+      "E": "芒硝"
+    },
+    "answer": "E",
+    "question_mt": "It's the first Chinese medicine to treat the heat. It's hard to get a lot of shit.",
+    "option_mt": {
+      "A": "Americium",
+      "B": "Bazooka.",
+      "C": "Flaming.",
+      "D": "Yellow.",
+      "E": "Man-nim."
+    }
+  },
+  {
+    "id": 1642,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "普通外科高级职称",
+    "question": "诊断原发性下肢深静脉瓣膜功能不全，最可靠的检查方法是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "深静脉通畅试验",
+      "B": "CT三维成像",
+      "C": "静脉造影",
+      "D": "下肢静脉超声多普勒检查",
+      "E": "深浅静脉交通支瓣膜功能试验"
+    },
+    "answer": "C",
+    "question_mt": "The most reliable method of detection is the incompetence of the pulmonary valves in the diagnosis of the preponderant lower limbs.",
+    "option_mt": {
+      "A": "A deep vein test.",
+      "B": "CT 3D imaging",
+      "C": "I.V.I.S.",
+      "D": "Ultrasound Doppler in the lower limbs.",
+      "E": "A deep-skinned I.V.T. Pulse function test."
+    }
+  },
+  {
+    "id": 6256,
+    "exam_type": "药师考试",
+    "exam_class": "主管药师",
+    "exam_subject": "主管药师资格考试",
+    "question": "氨苄西林在含乳酸根的复方氯化钠注射液中，氨苄西林的水解加快，其原因是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "注射液溶媒组成改变",
+      "B": "电解质的盐析作用",
+      "C": "pH改变",
+      "D": "聚合反应",
+      "E": "效价下降"
+    },
+    "answer": "E",
+    "question_mt": "The hydrolysis of ammoniaicillin accelerated in a cotrimoxazole sodium chloride injection fluid containing the roots of emulsion, as a result of which",
+    "option_mt": {
+      "A": "Changes in the composition of injectable fluids",
+      "B": "Salinization of electrolysis",
+      "C": "pH Change",
+      "D": "Aggregation response",
+      "E": "Falling value."
+    }
+  },
+  {
+    "id": 5989,
+    "exam_type": "药师考试",
+    "exam_class": "初级中药师",
+    "exam_subject": "中药学（师）",
+    "question": "呈卵圆形，具三棱，表面灰黄色，内有三室，每室一粒种子，呈椭圆形，一端有种脐，另一端有种阜，此药材是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "使君子",
+      "B": "巴豆",
+      "C": "砂仁",
+      "D": "肉豆蔻",
+      "E": "益智"
+    },
+    "answer": "B",
+    "question_mt": "It's ovary, it's ambiguous, it's gray, it's yellow, it's three rooms, it's a seed in each room, it's an elliptical, it's a umbilical, it's a umbilical, it's a titanium, it's a potion.",
+    "option_mt": {
+      "A": "Make a gentleman.",
+      "B": "Paddy.",
+      "C": "Saar.",
+      "D": "The nutmeg.",
+      "E": "Wisdom."
+    }
+  },
+  {
+    "id": 10963,
+    "exam_type": "医学考研",
+    "exam_class": "中医综合",
+    "exam_subject": "考研中综错题top1500",
+    "question": "川牛膝与怀牛膝功效的主要不同点是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "川牛膝偏清上部火热，怀牛膝偏清下部湿热",
+      "B": "川牛膝偏补肝肾，怀牛膝偏祛风湿",
+      "C": "川牛膝偏于活血通经，怀牛膝偏于利尿通淋",
+      "D": "川牛膝偏强腰膝，怀牛膝偏于活血通经",
+      "E": "以上都不是"
+    },
+    "answer": "E",
+    "question_mt": "The main difference between the knuckles and the knees of the knuckles is...",
+    "option_mt": {
+      "A": "It's hot on the top and wet on the lower on the knees.",
+      "B": "He's got a liver and kidney on his knees. He's got a humid knee.",
+      "C": "The oxen's knees are full of living blood, and the oxen's knees are full of urinal.",
+      "D": "He's got a strong knee. He's got a strong knee. He's got a strong knee.",
+      "E": "None of them."
+    }
+  },
+  {
+    "id": 4677,
+    "exam_type": "药师考试",
+    "exam_class": "初级药士",
+    "exam_subject": "药士初级考试",
+    "question": "《ADR监测报告》报告程序应该是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "自愿报告制度",
+      "B": "定期报告制度",
+      "C": "越级报告制度",
+      "D": "不定期报告制度",
+      "E": "逐级定期报告制度"
+    },
+    "answer": "E",
+    "question_mt": "The ADR monitoring report reporting procedure should be:",
+    "option_mt": {
+      "A": "Voluntary reporting system",
+      "B": "Periodic reporting system",
+      "C": "Over-the-horizon reporting system",
+      "D": "Non-reporting system",
+      "E": "Level-by-level periodic reporting system"
+    }
+  },
+  {
+    "id": 734,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "中西医结合执业助理医师",
+    "question": "属于膀胱经的穴组是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "天柱、攒竹、睛明、光明",
+      "B": "昆仑、京骨、丘墟、至阴",
+      "C": "承扶、肺俞、心俞、大肠俞",
+      "D": "承扶、委中、大抒、风市",
+      "E": "睛明、肾俞、承山、光明"
+    },
+    "answer": "C",
+    "question_mt": "The cave group that belongs to the bladder is...",
+    "option_mt": {
+      "A": "The pillars of heaven, the stock of bamboo, the light, the light.",
+      "B": "Quinlon, Kyobone, Dynasty, Dynasty.",
+      "C": "Support, pulmonary, heart, intestinal.",
+      "D": "I'll take care of it. I'll take care of it. I'll take care of it. I'll take care of it.",
+      "E": "The eyes, the kidneys, the mountains, the light."
+    }
+  },
+  {
+    "id": 7913,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "临床医学检验主管技师",
+    "question": "肥达反应是一种",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "直接凝集试验",
+      "B": "间接凝集试验",
+      "C": "间接凝集抑制试验",
+      "D": "沉淀反应",
+      "E": "补体结合试验"
+    },
+    "answer": "A",
+    "question_mt": "Fatty's reaction is...",
+    "option_mt": {
+      "A": "Direct condensation test",
+      "B": "Indirect condensation test",
+      "C": "Indirect condensation suppression test",
+      "D": "Sediment Reaction",
+      "E": "Complementary Combining Test"
+    }
+  },
+  {
+    "id": 9394,
+    "exam_type": "专业知识考试",
+    "exam_class": "中医学与中药学",
+    "exam_subject": "中医诊断学",
+    "question": "30-肝胆三焦之火循经上扰会造成",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "耳鸣",
+      "B": "耳聋",
+      "C": "重听",
+      "D": "脓耳",
+      "E": "以上均不对"
+    },
+    "answer": "A",
+    "question_mt": "30- Combustion of the burning fire.",
+    "option_mt": {
+      "A": "Ears.",
+      "B": "Deaf.",
+      "C": "Rehearsal",
+      "D": "Puss.",
+      "E": "That's not right."
+    }
+  },
+  {
+    "id": 2176,
+    "exam_type": "护理考试",
+    "exam_class": "护士执业资格",
+    "exam_subject": "护士执业资格考试",
+    "question": "患者男，70岁。因肾功能衰竭住院。护士观察其24小时尿量为360ml，该患者的排尿状况是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "正常无尿",
+      "B": "尿量偏少",
+      "C": "无尿",
+      "D": "少尿",
+      "E": "尿潴留"
+    },
+    "answer": "D",
+    "question_mt": "The patient is 70 years old. He is hospitalized for kidney failure.",
+    "option_mt": {
+      "A": "Normal no urine.",
+      "B": "I don't have a lot of urine.",
+      "C": "No urine.",
+      "D": "Don't pee.",
+      "E": "Pee-pee."
+    }
+  },
+  {
+    "id": 6585,
+    "exam_type": "药师考试",
+    "exam_class": "主管中药师",
+    "exam_subject": "主管中药师",
+    "question": "制备片剂时，适用于油类和浸膏类药物的润滑剂是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "硬脂酸镁",
+      "B": "滑石粉",
+      "C": "聚乙二醇4000",
+      "D": "氢化植物油",
+      "E": "微粉硅胶"
+    },
+    "answer": "E",
+    "question_mt": "For the preparation of tablets, the lubricant applicable to oil and ointment drugs is:",
+    "option_mt": {
+      "A": "Rigid magnesium.",
+      "B": "Quartz powder.",
+      "C": "Polyethylene diol 4000",
+      "D": "Hydrogen vegetable oil",
+      "E": "Microplegic silicone"
+    }
+  },
+  {
+    "id": 1327,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "康复医学主治医师",
+    "question": "耗氧量7ml/（kg·min）相当于多少MET",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "question_mt": "7ml/(kg.min) equivalent to MET",
+    "option_mt": {
+      "A": "One.",
+      "B": "2",
+      "C": "Three.",
+      "D": "Four.",
+      "E": "Five."
+    }
+  },
+  {
+    "id": 9708,
+    "exam_type": "医学考研",
+    "exam_class": "护理学",
+    "exam_subject": "外科护理学",
+    "question": "行胸腔闭式引流术，哪项是错误的",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "如胸膜腔内为液体，选在腋中线和腋后线之间的第6-8肋间插管引流",
+      "B": "如为气体，在锁骨中线第2肋间前上方部引流为宜",
+      "C": "病人取平卧位",
+      "D": "拔管时，待病人深吸气后屏气，再迅速拔出",
+      "E": "为保持管腔通畅，要常挤压引流管"
+    },
+    "answer": "C",
+    "question_mt": "What's wrong with the closed flow of the chest cavity?",
+    "option_mt": {
+      "A": "If liquid in the plethoracic cavity, select the 6-8 rib tube between the armpit line and the back of the armpit",
+      "B": "In the case of gas, the upper part of the upper rib in the middle of the collarbone is appropriate.",
+      "C": "Patients take flat beds.",
+      "D": "When you pull the tube, you wait for the patient to breathe in and get out quickly.",
+      "E": "In order to keep the tube open, you have to press the current."
+    }
+  },
+  {
+    "id": 5147,
+    "exam_type": "药师考试",
+    "exam_class": "初级药师",
+    "exam_subject": "药师初级考试",
+    "question": "对药物的纯度要求为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "不允许含有生理性杂质",
+      "B": "符合光谱纯的规定",
+      "C": "不允许有对人体有害的物质存在",
+      "D": "符合色谱纯的规定",
+      "E": "不超过药品质量标准对该药杂质限量的规定"
+    },
+    "answer": "E",
+    "question_mt": "The purity of the drug requires that",
+    "option_mt": {
+      "A": "No physical impurities allowed.",
+      "B": "Conforms with spectral purity.",
+      "C": "The presence of substances harmful to the human body is not permitted.",
+      "D": "It's in line with the code of pure chromatography.",
+      "E": "The requirement to limit the impurity of a drug beyond its quality standards"
+    }
+  },
+  {
+    "id": 6305,
+    "exam_type": "药师考试",
+    "exam_class": "主管药师",
+    "exam_subject": "主管药师资格考试",
+    "question": "对于以下病症，氯丙嗪的疗效最好的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "抑郁症",
+      "B": "精神分裂症",
+      "C": "焦虑症",
+      "D": "精神紧张症",
+      "E": "其他精神病"
+    },
+    "answer": "B",
+    "question_mt": "The best cure for the following conditions is chlorpromium.",
+    "option_mt": {
+      "A": "Depressive.",
+      "B": "Schizophrenia.",
+      "C": "Anxieties.",
+      "D": "Psychiatry.",
+      "E": "Other mental illness"
+    }
+  },
+  {
+    "id": 10359,
+    "exam_type": "医学考研",
+    "exam_class": "考研政治",
+    "exam_subject": "考研政治",
+    "question": "走中国工业化道路的思想是党在社会主义建设道路初步探索中取得的理论成果之一。毛泽东在《论十大关系》中论述的第一大关系，即重工业、轻工业和农业的关系。在《关于正确处理人民内部矛盾的问题》一文中，毛泽东又明确提出要走一条中国工业化道路。毛泽东所说的中国工业化道路，是有别于",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "美国的工业化道路",
+      "B": "欧洲和日本的工业化道路",
+      "C": "苏联的工业化道路",
+      "D": "旧中国的工业化道路",
+      "E": ""
+    },
+    "answer": "C",
+    "question_mt": "The idea of taking China’s path of industrialization is one of the theoretical achievements of the Party in the initial exploration of the path of socialist construction. Mao’s first relationship, the relationship between heavy industry, light industry, and agriculture, was discussed in the Ten-Year Relationships. Mao’s message on the right way to deal with people’s internal contradictions was clearly directed towards a path of Chinese industrialization. Mao’s reference to China’s path of industrialization is different.",
+    "option_mt": {
+      "A": "America’s Industrialization Path",
+      "B": "The path to industrialization in Europe and Japan",
+      "C": "The Industrialization Path of the Soviet Union",
+      "D": "The Industrialization Path of the Old China",
+      "E": ""
+    }
+  },
+  {
+    "id": 3312,
+    "exam_type": "护理考试",
+    "exam_class": "高级护师",
+    "exam_subject": "副主任、主任护师资格考试",
+    "question": "预防溶血反应的措施不包括",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "严格执行查对制度",
+      "B": "做好血液质量检查",
+      "C": "输血前肌内注射异丙嗪",
+      "D": "血液中勿随意加入药物",
+      "E": "血液不能加温、振荡"
+    },
+    "answer": "C",
+    "question_mt": "Measures to prevent soluble blood reactions do not include",
+    "option_mt": {
+      "A": "Strict enforcement of the check-and-check system",
+      "B": "Do a blood quality check.",
+      "C": "I'll give you an isopropyl in the pre-refusion muscle.",
+      "D": "Don't randomly add drugs to your blood.",
+      "E": "The blood can't get warmer. It's oscillating."
+    }
+  },
+  {
+    "id": 1164,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question": "8个月男婴，一直母乳喂养，未添加辅食。近1月来出现面色苍白，查外周血象示小细胞低色素性贫血，白细胞和血小板正常。该患儿诊断首先考虑（ ）。",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "生理性贫血",
+      "B": "营养性缺铁性贫血",
+      "C": "营养性巨幼红细胞性贫血",
+      "D": "再生障碍性贫血",
+      "E": "地中海贫血"
+    },
+    "answer": "B",
+    "question_mt": "Eight-month-old boys have been breastfed without food supplements.",
+    "option_mt": {
+      "A": "Physical anaemia",
+      "B": "Nutritional iron deficiency anaemia",
+      "C": "Nutrient mega-red cell anaemia",
+      "D": "Re-emerging obstructive anaemia",
+      "E": "thalassaemia"
+    }
+  },
+  {
+    "id": 773,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "中西医结合执业助理医师",
+    "question": "老年习惯性便秘适当选取大肠俞、天枢、支沟、上巨虚外还应酌情加配",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "合谷、曲池",
+      "B": "中脘、行间",
+      "C": "神阙、合谷",
+      "D": "脾俞、胃俞",
+      "E": "小肠俞、下巨虚"
+    },
+    "answer": "D",
+    "question_mt": "Old-age constipation should be suitable for intestines, entrails, ditches, and, where appropriate, for additions.",
+    "option_mt": {
+      "A": "Goya, Cube.",
+      "B": "In the middle, in the middle, in the middle.",
+      "C": "The temple, the valley.",
+      "D": "Spleen, stomach.",
+      "E": "Little intestines, great vanity."
+    }
+  },
+  {
+    "id": 4041,
+    "exam_type": "药师考试",
+    "exam_class": "执业中药师",
+    "exam_subject": "执业中药师",
+    "question": "下列不属白痦表现的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "红活润泽",
+      "B": "透明小疱疹",
+      "C": "擦破流水",
+      "D": "高出皮肤",
+      "E": "晶莹如粟"
+    },
+    "answer": "A",
+    "question_mt": "Here's something that's not white.",
+    "option_mt": {
+      "A": "Yuzawa Red.",
+      "B": "Twisty Herpes.",
+      "C": "Scrub the current.",
+      "D": "It's taller than the skin.",
+      "E": "It's like a twilight."
+    }
+  },
+  {
+    "id": 5085,
+    "exam_type": "药师考试",
+    "exam_class": "初级药师",
+    "exam_subject": "药师初级考试",
+    "question": "弱效利尿药作用于远曲小管末端和集合管，通过拮抗醛固酮受体，对抗醛固酮的保Na+排K+作用，阻滞钠通道而减少Na+的重吸收，抑制Na+-K+交换，使Na+和水排出增加而利尿。阻滞钠通道而减少Na+的重吸收，抑制Na+-K+交换的药物是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "乙酰唑胺",
+      "B": "呋塞米",
+      "C": "氢氯噻嗪",
+      "D": "螺内酯",
+      "E": "氨苯蝶啶"
+    },
+    "answer": "E",
+    "question_mt": "Weakly urinary medicine works at the end of small tubes and in the assembly tubes, fighting the effects of ellipsine steroids via antagonoid receptors, preventing the re-absorption of Na+ by blocking the sodium channel and discouraging the re-absorption of Na+-K+ exchange, causing the Na+ and the water to drain more urinately. The sodium barrier reduces the re-absorption of Na+-K+ by reducing the re-absorption of Na+-K+.",
+    "option_mt": {
+      "A": "Acetylhydrazine",
+      "B": "Fusemi.",
+      "C": "Hydrochlorinated naphthalenes",
+      "D": "Neutron esters",
+      "E": "Ammonium butterflies."
+    }
+  },
+  {
+    "id": 1343,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "病理科主治医师",
+    "question": "对诊断阴道葡萄状肉瘤最具有诊断意义的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "肿瘤组织呈葡萄样外观充满阴道",
+      "B": "紧邻上皮表面的线形排列的“环形层”",
+      "C": "发生于幼女",
+      "D": "镜下未分化的圆形或梭形细胞",
+      "E": "黏液样、水肿状疏松的结缔组织"
+    },
+    "answer": "B",
+    "question_mt": "One of the most important diagnostics for diagnosing vine tumors in vagina.",
+    "option_mt": {
+      "A": "Oncological tissue is vine-like, full of vaginas.",
+      "B": "\"Circle layer\" lined adjacent to the upper surface of the skin",
+      "C": "It happens to young girls.",
+      "D": "Undivided circular or shuttle cells under the mirror",
+      "E": "The bond organization of slime samples, swollen dredging"
+    }
+  },
+  {
+    "id": 4129,
+    "exam_type": "药师考试",
+    "exam_class": "执业中药师",
+    "exam_subject": "执业中药师",
+    "question": "主含番泻苷A、B、C、D及芦荟大黄素双蒽酮苷成分的药材是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "大青叶",
+      "B": "蓼大青叶",
+      "C": "番泻叶",
+      "D": "石韦",
+      "E": "紫苏"
+    },
+    "answer": "C",
+    "question_mt": "The main ingredients containing diazine A, B, C, D and thorium safrole are:",
+    "option_mt": {
+      "A": "Taiqing Yip",
+      "B": "Taiqing Ye.",
+      "C": "Leather leaves.",
+      "D": "Stoneway.",
+      "E": "Zisu."
+    }
+  },
+  {
+    "id": 1731,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "内分泌科高级职称",
+    "question": "下列哪一种疾病可与Graves病伴发",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "1型糖尿病",
+      "B": "慢性特发性肾上腺皮质功能减退症",
+      "C": "特发性血小板减少性紫癜",
+      "D": "重症肌无力",
+      "E": "以上都是"
+    },
+    "answer": "E",
+    "question_mt": "Which of the following diseases can accompany Graves?",
+    "option_mt": {
+      "A": "Type 1 diabetes",
+      "B": "Chronic epinephrine decomposition",
+      "C": "E.V.P.U.S.U.",
+      "D": "I can't handle it.",
+      "E": "That's all there is to it."
+    }
+  },
+  {
+    "id": 6611,
+    "exam_type": "药师考试",
+    "exam_class": "主管中药师",
+    "exam_subject": "主管中药师",
+    "question": "药品的生产企业、经营企业或者医疗机构从无《药品生产许可证》、《药品经营许可证》的企业购进药品的，责令改正，没收违法购进的药品，并处罚款是违法购进药品货值金额的",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "二倍以下",
+      "B": "一倍以上五倍以下",
+      "C": "一倍以上三倍以下",
+      "D": "二倍以上五倍以下",
+      "E": "三倍以上五倍以下"
+    },
+    "answer": "D",
+    "question_mt": "The purchase of medicines by manufacturing enterprises, operating enterprises or medical institutions from enterprises that do not have a pharmaceutical production permit or a pharmaceutical operating licence is corrected by confiscation of medicines purchased in violation of the law, with a penalty of the value of medicines purchased in violation of the law.",
+    "option_mt": {
+      "A": "Two times below.",
+      "B": "More than half and less than five times.",
+      "C": "More than twice and more than three times.",
+      "D": "Two times more than five times more than.",
+      "E": "More than three times and less than five times."
+    }
+  },
+  {
+    "id": 4898,
+    "exam_type": "药师考试",
+    "exam_class": "初级药师",
+    "exam_subject": "药师初级考试",
+    "question": "糖酵解的最终产物是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "乳酸",
+      "B": "丙酮酸",
+      "C": "H2O",
+      "D": "酮体",
+      "E": "乙酰CoA"
+    },
+    "answer": "A",
+    "question_mt": "The final product of gluten fermentation is",
+    "option_mt": {
+      "A": "Emulsifiable acid",
+      "B": "Acetone Acid",
+      "C": "H2O",
+      "D": "Acetone.",
+      "E": "Acetic CoA"
+    }
+  },
+  {
+    "id": 7814,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "病理学主管技师",
+    "question": "丙二酸对琥珀酸脱氢酶的抑制属于",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "反馈抑制",
+      "B": "底物抑制",
+      "C": "竞争性抑制",
+      "D": "非竞争性抑制",
+      "E": "别构抑制"
+    },
+    "answer": "C",
+    "question_mt": "The inhibition of acrylic acid to amber dehydrase belongs to",
+    "option_mt": {
+      "A": "Feedback inhibition",
+      "B": "Substrate inhibition.",
+      "C": "Competitive inhibition",
+      "D": "Non-competitive inhibition",
+      "E": "Don't try to suppress it."
+    }
+  },
+  {
+    "id": 6359,
+    "exam_type": "药师考试",
+    "exam_class": "主管药师",
+    "exam_subject": "主管药师资格考试",
+    "question": "关于医疗机构配制制剂，下列叙述错误的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "医疗机构配制制剂，必须取得医疗机构制剂许可证",
+      "B": "医疗机构制剂许可证由省级卫生行政部门批准颁发",
+      "C": "医疗机构配制的制剂不能在市场上销售",
+      "D": "医疗机构配制的制剂不能进行广告宣传",
+      "E": "制剂品种必须经省级药品监督管理部门批准后方可配制"
+    },
+    "answer": "B",
+    "question_mt": "With regard to formulations prepared by medical institutions, the following is wrongly described:",
+    "option_mt": {
+      "A": "Preparation of preparations in a medical institution, subject to a licence for the formulation in a medical institution",
+      "B": "Licences for preparations in medical institutions are approved by provincial health administrations",
+      "C": "Preparations made by medical institutions cannot be marketed",
+      "D": "Preparations in medical institutions cannot be advertised.",
+      "E": "The formulations must be approved by the provincial drug surveillance authorities before they can be formulated"
+    }
+  },
+  {
+    "id": 2795,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question": "葡萄胎患者随访时必须进行的检查项目是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "诊断性刮宫",
+      "B": "测尿中的HCG值",
+      "C": "B型超声检查有无胎囊",
+      "D": "CT检查转移灶情况",
+      "E": "多普勒超声检查听取胎心"
+    },
+    "answer": "B",
+    "question_mt": "The check-up project that must be carried out during the follow-up visit of the vine patient is:",
+    "option_mt": {
+      "A": "Diagnosed shaver palace",
+      "B": "HCG in urine",
+      "C": "Type B ultrasound check for fetal bladders.",
+      "D": "CT check the transfer stove.",
+      "E": "Doppler's ultrasound to hear the heart."
+    }
+  },
+  {
+    "id": 6449,
+    "exam_type": "药师考试",
+    "exam_class": "主管中药师",
+    "exam_subject": "主管中药师",
+    "question": "下列哪个方剂主治下焦虚寒之膏淋、白浊",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "萆薢分清饮",
+      "B": "肾气汤",
+      "C": "真武汤",
+      "D": "肾着汤",
+      "E": "缩泉丸"
+    },
+    "answer": "A",
+    "question_mt": "Which one of the following formulations will cure the ointment of the cold, the gloom.",
+    "option_mt": {
+      "A": "Let's have a drink.",
+      "B": "Kidney soup.",
+      "C": "It's real kung fu soup.",
+      "D": "Kidney soup.",
+      "E": "Quantico."
+    }
+  },
+  {
+    "id": 6186,
+    "exam_type": "药师考试",
+    "exam_class": "主管药师",
+    "exam_subject": "主管药师资格考试",
+    "question": "下列药物中，属于血管紧张素转化酶抑制药的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "美托洛尔",
+      "B": "呋塞米",
+      "C": "卡托普利",
+      "D": "氨氯地平",
+      "E": "可乐定"
+    },
+    "answer": "C",
+    "question_mt": "Among the following drugs, they are vascular tension-transformation enzyme inhibitors.",
+    "option_mt": {
+      "A": "Metorol.",
+      "B": "Fusemi.",
+      "C": "Catoply.",
+      "D": "Amino flat.",
+      "E": "Coca-Cola-Cola-Cola-Cola-Cola-Cola-Cola-Cola-Cola-Cola-Cola-Cola-Cola-Cola-Cola-Cola-Cola-Cola-Cola-Cola."
+    }
+  },
+  {
+    "id": 3697,
+    "exam_type": "药师考试",
+    "exam_class": "执业西药师",
+    "exam_subject": "执业西药师",
+    "question": "苯甲酸附加剂的作用为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "极性溶剂",
+      "B": "非极性溶剂",
+      "C": "防腐剂",
+      "D": "矫味剂",
+      "E": "半极性溶剂"
+    },
+    "answer": "C",
+    "question_mt": "The effect of the benzoate adjunct is",
+    "option_mt": {
+      "A": "Polar solvents",
+      "B": "Non-polar solvents",
+      "C": "Preservatives",
+      "D": "Orthopaedics.",
+      "E": "Semipolar solvents"
+    }
+  },
+  {
+    "id": 4718,
+    "exam_type": "药师考试",
+    "exam_class": "初级药士",
+    "exam_subject": "药士初级考试",
+    "question": "药品广告须经",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "省级药监部门批准，发给证书",
+      "B": "审批，发给药品广告批准文号",
+      "C": "企业所在地省级药监部门批准，并发给药品广告批准文号",
+      "D": "国家药监部门批准，可在全国任何地方做广告",
+      "E": "所在地的县级药监部门批准，发给证明"
+    },
+    "answer": "C",
+    "question_mt": "Advertisements for pharmaceuticals.",
+    "option_mt": {
+      "A": "Approval by the provincial drug control authorities and issuance of certificates",
+      "B": "Approval and approval for pharmaceutical advertising",
+      "C": "Approved by the provincial drug service of the enterprise ' s location and issued with a drug advertising approval number",
+      "D": "It's approved by the National Pharmacy Service. It can be advertised anywhere in the country.",
+      "E": "Approved by the District Drug Enforcement Unit in the locality and issued with certification"
+    }
+  },
+  {
+    "id": 1194,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "中西医结合执业医师",
+    "question": "下列各穴中常用于保健并具有强壮作用的穴位是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "百会",
+      "B": "肾俞",
+      "C": "脾俞",
+      "D": "足三里",
+      "E": "气海俞"
+    },
+    "answer": "D",
+    "question_mt": "The following caves are often used for health care and have a strong role to play:",
+    "option_mt": {
+      "A": "Hundred.",
+      "B": "Kidney radium.",
+      "C": "Spleen!",
+      "D": "Three miles.",
+      "E": "Aerosol."
+    }
+  },
+  {
+    "id": 11111,
+    "exam_type": "医学考研",
+    "exam_class": "中医综合",
+    "exam_subject": "考研中医综合",
+    "question": "患者胸胁疼痛，如灼如刺，胸闷不舒，呼吸不畅，或有闷咳，甚则迁延，经久不已，阴雨更甚，可见病侧胸廓变形，舌苔薄，质黯，脉弦。治当选用",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "血府逐瘀汤",
+      "B": "香附旋覆花汤",
+      "C": "柴胡疏肝散",
+      "D": "丹栀逍遥散",
+      "E": ""
+    },
+    "answer": "B",
+    "question_mt": "The patient's chest pains, such as burns, strangulation, breathing, or coughing, are prolonged, and the rain is even worse. It can be seen that the side of the patient's chest is deformed, the tongue is thin, the skin is dark, the strung.",
+    "option_mt": {
+      "A": "The bloodbath has swollen soup.",
+      "B": "♪ The fragrant wobbly soup ♪",
+      "C": "Chai Hu has lost his liver.",
+      "D": "The Danzigs are scattered.",
+      "E": ""
+    }
+  },
+  {
+    "id": 2934,
+    "exam_type": "护理考试",
+    "exam_class": "主管护师",
+    "exam_subject": "主管护师资格考试",
+    "question": "患者，男性，37岁，1年来每日发生空腹痛，进食后疼痛缓解。平时伴有恶心、打嗝、反酸，査体在剑突右侧有局限压痛，无反跳痛。做何种检查可以确诊",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "化验胃酸",
+      "B": "胃镜",
+      "C": "CT",
+      "D": "B超",
+      "E": "化验血常规"
+    },
+    "answer": "B",
+    "question_mt": "Patients, men, are 37 years old, have had daily empty abdominal pains for one year, and the pain after eating is alleviated.",
+    "option_mt": {
+      "A": "Diagnosis of stomach acid",
+      "B": "Stomach mirror.",
+      "C": "CT",
+      "D": "B Super.",
+      "E": "Blood control routine."
+    }
+  },
+  {
+    "id": 9350,
+    "exam_type": "专业知识考试",
+    "exam_class": "中医学与中药学",
+    "exam_subject": "金匮要略讲义",
+    "question": "据《金匮要略》五脏病“各随其所不喜者为病”精神，肝阴血虚时最不喜",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "酸",
+      "B": "辛",
+      "C": "咸",
+      "D": "苦",
+      "E": "甘"
+    },
+    "answer": "B",
+    "question_mt": "According to Goldblind, it's a disease that's “everyone's sick” and it's the worst thing that happens when his liver and blood go missing.",
+    "option_mt": {
+      "A": "Acid",
+      "B": "Sin.",
+      "C": "Salt.",
+      "D": "Pain.",
+      "E": "Gump."
+    }
+  },
+  {
+    "id": 4351,
+    "exam_type": "药师考试",
+    "exam_class": "执业中药师",
+    "exam_subject": "执业中药师",
+    "question": "杭白芷根上部的形成层呈",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "圆形",
+      "B": "近方形",
+      "C": "多角形",
+      "D": "三角形",
+      "E": "波状"
+    },
+    "answer": "B",
+    "question_mt": "The top form of the Hangbeth root is present.",
+    "option_mt": {
+      "A": "Circle",
+      "B": "Near Square",
+      "C": "Polygon",
+      "D": "Triangle",
+      "E": "Waves"
+    }
+  },
+  {
+    "id": 2808,
+    "exam_type": "护理考试",
+    "exam_class": "主管护师",
+    "exam_subject": "外科主管护师",
+    "question": "符合血友病正确描述的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "血友病甲又称为血浆凝血活酶成分缺乏症",
+      "B": "血友病丙又称为血浆凝血活酶前质缺乏症",
+      "C": "血友病甲和乙为X-连锁显性遗传",
+      "D": "血友病丙为常染色体完全性隐性遗传",
+      "E": "凝血因子Ⅶ、Ⅸ、Ⅺ缺乏可导致血液凝固障碍"
+    },
+    "answer": "B",
+    "question_mt": "The correct description of hemophilia is:",
+    "option_mt": {
+      "A": "Hemophilia is also known as the lack of plasma celebratory enzyme ingredients.",
+      "B": "Hemophiliac C, also known as the preponderance of plasma coagulation enzyme.",
+      "C": "Hemophiliatic A and B is X-linkage.",
+      "D": "Hemophiliac C is fully hidden in chromosomes.",
+      "E": "The lack of coagulation factors VII, IX and XI can lead to blood coagulation disorders"
+    }
+  },
+  {
+    "id": 7961,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "超声波医学主管技师",
+    "question": "心脏于半月瓣关闭至房室瓣开放之间为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "等容舒张期",
+      "B": "快速充盈期",
+      "C": "缓慢充盈期",
+      "D": "等容收缩期",
+      "E": "快速充盈期"
+    },
+    "answer": "A",
+    "question_mt": "The heart closes in half a month between the door and the door opens.",
+    "option_mt": {
+      "A": "Waiting for the suspense period.",
+      "B": "Quick-loading period",
+      "C": "Slow-on-the-shelf period",
+      "D": "Waiting for the contraction period",
+      "E": "Quick-loading period"
+    }
+  },
+  {
+    "id": 6600,
+    "exam_type": "药师考试",
+    "exam_class": "主管中药师",
+    "exam_subject": "主管中药师",
+    "question": "下列为妊娠禁用药的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "大黄",
+      "B": "华山参",
+      "C": "郁李仁",
+      "D": "马钱子",
+      "E": "红花"
+    },
+    "answer": "D",
+    "question_mt": "Here's what's forbidden for pregnancy.",
+    "option_mt": {
+      "A": "Yellow.",
+      "B": "Wah Shan-chan!",
+      "C": "Yu Li Yin.",
+      "D": "She's rich.",
+      "E": "Saffron."
+    }
+  },
+  {
+    "id": 4766,
+    "exam_type": "药师考试",
+    "exam_class": "初级药士",
+    "exam_subject": "药士初级考试",
+    "question": "能兴奋中枢神经系统的药物是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "地西泮",
+      "B": "三唑仑",
+      "C": "咖啡因",
+      "D": "乙琥胺",
+      "E": "氯丙嗪"
+    },
+    "answer": "C",
+    "question_mt": "The drug that excites the central nervous system is...",
+    "option_mt": {
+      "A": "Dixie Pilgrim.",
+      "B": "Trichlorfon.",
+      "C": "Caffeine.",
+      "D": "Ammonium.",
+      "E": "Chlorpromazine."
+    }
+  },
+  {
+    "id": 9802,
+    "exam_type": "医学考研",
+    "exam_class": "护理学",
+    "exam_subject": "基础护理学",
+    "question": "下列哪种情况一般不会出现体温过低",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "甲状腺功能亢进",
+      "B": "早产儿",
+      "C": "休克",
+      "D": "极度衰竭",
+      "E": "重度营养不良"
+    },
+    "answer": "A",
+    "question_mt": "Which of the following do not normally show hypothermia.",
+    "option_mt": {
+      "A": "Goiter's inflammation.",
+      "B": "Premature child.",
+      "C": "It's a shock.",
+      "D": "Exhaustion.",
+      "E": "Severe malnutrition"
+    }
+  },
+  {
+    "id": 3889,
+    "exam_type": "药师考试",
+    "exam_class": "执业西药师",
+    "exam_subject": "执业西药师",
+    "question": "维生素B2",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "遇酸容易脱水生成脱水产物",
+      "B": "与空气长期接触遇光氧化生成硫色素",
+      "C": "体内代谢磷酸化后生成黄素单核苷酸",
+      "D": "有吡多醇（吡多辛）、吡多醛、吡多胺三种形式",
+      "E": "容易被氧化生成多聚糠醛，这也是其变色的主要原因"
+    },
+    "answer": "C",
+    "question_mt": "Vitamin B2",
+    "option_mt": {
+      "A": "Dehydrate easily in the case of acid. Dehydrate.",
+      "B": "Sulphur colours generated by photooxidation in long-term contact with air",
+      "C": "In vitro metabolic phosphorus acidification resulting in safrole mononucleic acid",
+      "D": "There are three forms: thorium, thorium, thorium, and thoramine.",
+      "E": "It's easy for oxidation to produce polymerium, which is also the main reason for its color transformation."
+    }
+  },
+  {
+    "id": 5667,
+    "exam_type": "药师考试",
+    "exam_class": "初级中药师",
+    "exam_subject": "中药学（师）",
+    "question": "醋炙时，一般每100kg药物用米醋",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "10～20kg",
+      "B": "20～30kg",
+      "C": "2kg",
+      "D": "10kg",
+      "E": "25kg"
+    },
+    "answer": "B",
+    "question_mt": "When you're jealous, you usually use rice vinegar for every 100 kg of drugs.",
+    "option_mt": {
+      "A": "10-20 kg",
+      "B": "20-30 kg",
+      "C": "2kg",
+      "D": "10kg",
+      "E": "25kg"
+    }
+  },
+  {
+    "id": 940,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "中医执业医师",
+    "question": "成年女性，超声检查示：乳腺内无回声结构，边界清楚，壁薄，CDFI未见血流，考虑为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "乳腺囊性癌",
+      "B": "乳腺炎",
+      "C": "乳腺脓肿",
+      "D": "乳腺囊肿",
+      "E": "乳腺纤维瘤"
+    },
+    "answer": "D",
+    "question_mt": "Adult women, ultrasound: no echo structure in breast, clear boundaries, thin walls, no blood flow in CDFI, considering",
+    "option_mt": {
+      "A": "Breast cyst cancer",
+      "B": "Breast-inflammation",
+      "C": "Breast swollen.",
+      "D": "Breast cysts.",
+      "E": "Breast fibroma"
+    }
+  },
+  {
+    "id": 4062,
+    "exam_type": "药师考试",
+    "exam_class": "执业中药师",
+    "exam_subject": "执业中药师",
+    "question": "淋巴细胞分类计数参考范围是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "0.20～0.40",
+      "B": "0.50～0.70",
+      "C": "0.03～0.08",
+      "D": "0.01～0.05",
+      "E": "0～0.01"
+    },
+    "answer": "A",
+    "question_mt": "The reference range for lymphocytes is:",
+    "option_mt": {
+      "A": "0.20 to 0.40",
+      "B": "0.50 to 0.70",
+      "C": "0.03 ~ 0.08",
+      "D": "0.01 ~ 0.05",
+      "E": "0-0.01"
+    }
+  },
+  {
+    "id": 548,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "中医执业助理医师",
+    "question": "利水渗湿作用较强，治疗水湿停滞所致小便不利，水肿，泄泻，带下，宜首选",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "石韦",
+      "B": "滑石",
+      "C": "革薜",
+      "D": "木通",
+      "E": "猪苓"
+    },
+    "answer": "E",
+    "question_mt": "The leaching effect is strong, treating urinal disadvantages caused by the stagnating of water, swelling, leaking, carrying, preferred.",
+    "option_mt": {
+      "A": "Stoneway.",
+      "B": "Quartz.",
+      "C": "Ge Li.",
+      "D": "Muldoon.",
+      "E": "Pigs."
+    }
+  },
+  {
+    "id": 5522,
+    "exam_type": "药师考试",
+    "exam_class": "初级中药士",
+    "exam_subject": "中药学（士）",
+    "question": "具有解肌退热，升阳止泻功效的药物是",
+    "question_type": "多项选择题",
+    "option": {
+      "A": "薄荷",
+      "B": "蝉蜕",
+      "C": "桑叶",
+      "D": "柴胡",
+      "E": "葛根"
+    },
+    "answer": "E",
+    "question_mt": "The drug with the decomposition of the muscles, the radiation effect, is...",
+    "option_mt": {
+      "A": "Mint",
+      "B": "Psst.",
+      "C": "Sanye!",
+      "D": "Chai-hu.",
+      "E": "Gargan."
+    }
+  },
+  {
+    "id": 6956,
+    "exam_type": "医技考试",
+    "exam_class": "医技士",
+    "exam_subject": "康复医学治疗技术（士）",
+    "question": "下肢假肢安装的目的不包括",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "预防或娇正肢体畸形",
+      "B": "将不稳定肢体保持于功能位",
+      "C": "弥补下肢缺失，代替人体支撑和行走",
+      "D": "固定及保护以促进病变的愈合",
+      "E": "给患者心理安慰"
+    },
+    "answer": "E",
+    "question_mt": "The purpose of the prostheses is not included.",
+    "option_mt": {
+      "A": "Prevention of deformities of the delicate limbs",
+      "B": "Keep unstable limbs in functional position.",
+      "C": "Make up for the loss of the lower limbs and replace human support and walking.",
+      "D": "Stabilizing and protecting for the healing of the disease",
+      "E": "Solace the patient."
+    }
+  },
+  {
+    "id": 4730,
+    "exam_type": "药师考试",
+    "exam_class": "初级药士",
+    "exam_subject": "药士初级考试",
+    "question": "对器官能产生永久损伤的不良反应是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "新的药品不良反应",
+      "B": "药品严重不良反应",
+      "C": "可疑药品不良反应",
+      "D": "药品不良反应",
+      "E": "罕见药品不良反应"
+    },
+    "answer": "B",
+    "question_mt": "The negative response to permanent damage to organs is:",
+    "option_mt": {
+      "A": "Reactions to new drugs",
+      "B": "Severe adverse effects on drugs",
+      "C": "Suspicious drug reactions",
+      "D": "Bad drug response",
+      "E": "Unusual drug reactions"
+    }
+  },
+  {
+    "id": 1109,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "中西医结合执业医师",
+    "question": "患者，女，32岁，已婚。下腹疼痛反复发作2个月，午后潮热，手足心热、月经量少，舌红，苔薄黄，脉细数。医证型、首选方药是下列哪一个",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "湿毒壅阻，仙方活命饮",
+      "B": "气滞血瘀，血府逐瘀汤",
+      "C": "阴虚血热，慢盆方",
+      "D": "肝郁化热，丹栀逍遥散",
+      "E": "湿热壅阻，银甲丸"
+    },
+    "answer": "C",
+    "question_mt": "Patients, women, 32 years old, married. The lower abdominal pain is repeated for two months, with heat in the middle of the day, a low amount of heart and menstruation, tweed, mossy yellow, veins.",
+    "option_mt": {
+      "A": "Wet venom is blocked. Fairy Fung lives to drink.",
+      "B": "Bleeding, bloodbathing.",
+      "C": "Hemorrhagic, slow-breathing.",
+      "D": "The liver's soaking, the Danzie's soaking away.",
+      "E": "Wet heat resistance, silver klepto."
+    }
+  },
+  {
+    "id": 3723,
+    "exam_type": "药师考试",
+    "exam_class": "执业西药师",
+    "exam_subject": "执业西药师",
+    "question": "3-某种或某一类药物具有抑制病原菌生长繁殖能力，而无杀灭作用的药物称为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "抑菌药",
+      "B": "杀菌药",
+      "C": "化学治疗药",
+      "D": "抗菌药",
+      "E": "抗癌药"
+    },
+    "answer": "A",
+    "question_mt": "3- A drug or group of substances has the capacity to inhibit the growth and reproduction of pathogens, and is known as an incorrigible drug.",
+    "option_mt": {
+      "A": "Anti-bacterial drugs.",
+      "B": "Microbicides.",
+      "C": "Chemical Therapeutic Medicines",
+      "D": "Antibacterial drugs",
+      "E": "Anti-cancer pills."
+    }
+  },
+  {
+    "id": 10002,
+    "exam_type": "医学考研",
+    "exam_class": "考研政治",
+    "exam_subject": "考研政治",
+    "question": "在辛亥革命爆发前，孙中山领导中国同盟会发动的武装起义中影响最大的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "黄花岗起义",
+      "B": "惠州起义",
+      "C": "萍浏醴起义",
+      "D": "镇南关起义",
+      "E": ""
+    },
+    "answer": "A",
+    "question_mt": "The most influential part of the armed uprisings that Sun's China Alliance led before the Heinhe revolution broke out was",
+    "option_mt": {
+      "A": "The Yellow Shirt Intifada.",
+      "B": "Huixiang Intifada",
+      "C": "The Ping Dynasty Intifada.",
+      "D": "Intifada south of town.",
+      "E": ""
+    }
+  },
+  {
+    "id": 5509,
+    "exam_type": "药师考试",
+    "exam_class": "初级中药士",
+    "exam_subject": "中药学（士）",
+    "question": "需要采用水飞法炮制的药材是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "石膏",
+      "B": "赭石",
+      "C": "朱砂",
+      "D": "磁石",
+      "E": "赤石脂"
+    },
+    "answer": "C",
+    "question_mt": "The medicine that needs to be made by hydro-flying is...",
+    "option_mt": {
+      "A": "The gypsum.",
+      "B": "A stone of stone.",
+      "C": "Chu-sa.",
+      "D": "Magnetic Stone",
+      "E": "Razor."
+    }
+  },
+  {
+    "id": 3755,
+    "exam_type": "药师考试",
+    "exam_class": "执业西药师",
+    "exam_subject": "执业西药师",
+    "question": "影响药物分布的合用为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "阿司匹林与抗凝血药合用",
+      "B": "辛伐他汀与环孢素合用",
+      "C": "丙磺舒与青霉素合用",
+      "D": "碳酸氢钠与氢化可的松合用",
+      "E": "含有钙、镁、铝等离子的抗酸药与四环素合用"
+    },
+    "answer": "A",
+    "question_mt": "Shares of substances affecting drug distribution as",
+    "option_mt": {
+      "A": "Aspirin and anticoagulant.",
+      "B": "It's a combination of cytocin and cytocin.",
+      "C": "Sulphur is used with penicillin.",
+      "D": "Combining sodium carbonate with hydrogenable pine",
+      "E": "Acids containing calcium, magnesium, aluminium plasma are shared with tetracyclics"
+    }
+  },
+  {
+    "id": 8713,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "医学影像学",
+    "question": "关于下叶肺不张的X线表现，错误的是：",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "肺门向下移位",
+      "B": "后前位胸片上呈底向膈面，尖端指向肺门的三角形阴影",
+      "C": "在斜位上不显示",
+      "D": "横膈向上移位",
+      "E": "右上叶或左上叶出现代偿性肺气肿"
+    },
+    "answer": "C",
+    "question_mt": "With regard to the X-line performance of the lower lobe lung, the error is:",
+    "option_mt": {
+      "A": "The lungs are moving down.",
+      "B": "On the back of the chest, there's a shadow of a bottom to the chest, with the tip pointing to the lung.",
+      "C": "Do not show on slope",
+      "D": "Move horizontally up",
+      "E": "There's a surrogate emphysema in the upper right or the upper left."
+    }
+  },
+  {
+    "id": 6866,
+    "exam_type": "医技考试",
+    "exam_class": "医技士",
+    "exam_subject": "康复医学治疗技术（士）",
+    "question": "直立性低血压的表现不包括",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "面色苍白",
+      "B": "出汗",
+      "C": "头痛",
+      "D": "心率加快",
+      "E": "脉压下降"
+    },
+    "answer": "C",
+    "question_mt": "It doesn't include the performance of a vertical low blood pressure.",
+    "option_mt": {
+      "A": "It's pale.",
+      "B": "Sweat.",
+      "C": "Headache.",
+      "D": "Heart rate's accelerating.",
+      "E": "Pulse down."
+    }
+  },
+  {
+    "id": 7903,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "心电学主管技师",
+    "question": "患者男性，43岁，心前区不适。运动平板试验中随负荷量的增加，收缩压逐渐下降，提示为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "正常血压反应",
+      "B": "无高血压病",
+      "C": "运动负荷不足",
+      "D": "冠状动脉病变较重",
+      "E": "未达最大目标心率"
+    },
+    "answer": "D",
+    "question_mt": "The patient is a 43-year-old man with a heart condition.",
+    "option_mt": {
+      "A": "Normal blood pressure response.",
+      "B": "No hypertension.",
+      "C": "We don't have enough exercise load.",
+      "D": "The coronary arteries are heavier.",
+      "E": "Unachieved maximum target heart rate"
+    }
+  },
+  {
+    "id": 2471,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question": "对3岁以上的儿童评估疼痛的程度时，选择的最佳工具是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "数学式评估工具",
+      "B": "描述式疼痛评估工具",
+      "C": "面部表情疼痛测量图",
+      "D": "道歉阈式评估工具",
+      "E": "文字式评估工具"
+    },
+    "answer": "C",
+    "question_mt": "The best tool chosen to assess the extent of pain in children over 3 years of age is",
+    "option_mt": {
+      "A": "Mathematical assessment tool",
+      "B": "Narrative pain assessment tool",
+      "C": "Diagram of facial pain.",
+      "D": "Apology threshold assessment tool",
+      "E": "Text-based assessment tool"
+    }
+  },
+  {
+    "id": 4683,
+    "exam_type": "药师考试",
+    "exam_class": "初级药士",
+    "exam_subject": "药士初级考试",
+    "question": "氧氟沙星属于",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "大环内酯类",
+      "B": "喹诺酮类",
+      "C": "林可霉素类",
+      "D": "氨基糖苷类",
+      "E": "四环素类"
+    },
+    "answer": "B",
+    "question_mt": "The Oxyfluoride Star belongs to",
+    "option_mt": {
+      "A": "Large cyclic esters",
+      "B": "Xinoxone.",
+      "C": "Lincocaroxin.",
+      "D": "Amino-sugar syrup.",
+      "E": "Tetracyclic Class"
+    }
+  },
+  {
+    "id": 2418,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question": "引起甲状腺功能亢进症的主要因素是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "病毒感染",
+      "B": "理化因素",
+      "C": "手术创伤",
+      "D": "自身免疫",
+      "E": "遗传因素"
+    },
+    "answer": "D",
+    "question_mt": "The main cause of thyroid hyperplasia is",
+    "option_mt": {
+      "A": "Virus infection",
+      "B": "Rationale factors",
+      "C": "Surgery trauma",
+      "D": "Self-immunisation",
+      "E": "Genetic factors"
+    }
+  },
+  {
+    "id": 4384,
+    "exam_type": "药师考试",
+    "exam_class": "执业中药师",
+    "exam_subject": "执业中药师",
+    "question": "远志除消散痈肿外，又能",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "定惊，安神",
+      "B": "解郁，安神",
+      "C": "平肝，安神",
+      "D": "祛痰，安神",
+      "E": "清心，安神"
+    },
+    "answer": "D",
+    "question_mt": "In addition to dissipating swollen swollen swollen, you can.",
+    "option_mt": {
+      "A": "Don't worry, God.",
+      "B": "Depressive, Angry.",
+      "C": "Helium, Angkor.",
+      "D": "Oh, God.",
+      "E": "Clear your heart, Angkor."
+    }
+  },
+  {
+    "id": 9888,
+    "exam_type": "医学考研",
+    "exam_class": "护理学",
+    "exam_subject": "基础护理学",
+    "question": "颈外静脉输液后，用肝素封管，肝素的用量为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "1-3ml",
+      "B": "2-5ml",
+      "C": "5-10ml",
+      "D": "10-12ml",
+      "E": "12-15ml"
+    },
+    "answer": "B",
+    "question_mt": "Hepatic tubes are sealed with hepatotons after the arterial fluids outside the neck.",
+    "option_mt": {
+      "A": "1-3ml",
+      "B": "2-5ml",
+      "C": "5-10ml",
+      "D": "10-12ml",
+      "E": "12-15ml"
+    }
+  },
+  {
+    "id": 9455,
+    "exam_type": "专业知识考试",
+    "exam_class": "中医学与中药学",
+    "exam_subject": "中医基础理论",
+    "question": "下列哪一项不直接属于阴阳互根的关系",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "阳在外，阴之使也",
+      "B": "孤阴不生，独阳不长",
+      "C": "阴在内，阳之守也",
+      "D": "重阴必阳，重阳必阴",
+      "E": "阴损及阳，阳损及阴"
+    },
+    "answer": "D",
+    "question_mt": "Which of the following doesn't belong directly to each other's roots.",
+    "option_mt": {
+      "A": "The sun is on the outside, the dark one is on the outside.",
+      "B": "I've never been alone. I've never been alone.",
+      "C": "Into the dark, in the sun.",
+      "D": "It's a big one. It's a big one.",
+      "E": "Invisible. Invisible. Invisible."
+    }
+  },
+  {
+    "id": 4648,
+    "exam_type": "药师考试",
+    "exam_class": "初级药士",
+    "exam_subject": "药士初级考试",
+    "question": "糖酵解的最终产物是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "乳酸",
+      "B": "丙酮酸",
+      "C": "H2O",
+      "D": "酮体",
+      "E": "乙酰CoA"
+    },
+    "answer": "A",
+    "question_mt": "The final product of gluten fermentation is",
+    "option_mt": {
+      "A": "Emulsifiable acid",
+      "B": "Acetone Acid",
+      "C": "H2O",
+      "D": "Acetone.",
+      "E": "Acetic CoA"
+    }
+  },
+  {
+    "id": 10533,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question": "预防创伤性气性坏疽的最可靠方法是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "彻底清创",
+      "B": "应用青霉素",
+      "C": "高压氧",
+      "D": "应用气性坏疽抗毒血清",
+      "E": ""
+    },
+    "answer": "A",
+    "question_mt": "The surest way to prevent traumatic anthrax.",
+    "option_mt": {
+      "A": "It's a complete clean-up.",
+      "B": "Apply penicillin",
+      "C": "Oxygen, high pressure.",
+      "D": "Apply gas noma antivenom.",
+      "E": ""
+    }
+  },
+  {
+    "id": 7404,
+    "exam_type": "医技考试",
+    "exam_class": "医技师",
+    "exam_subject": "放射学技术（师）",
+    "question": "12位（bit）的成像系统能提供的灰度级数为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "256",
+      "B": "512",
+      "C": "1024",
+      "D": "2048",
+      "E": "4096"
+    },
+    "answer": "E",
+    "question_mt": "The greyscale that 12 bits (bit) of imaging systems can provide is",
+    "option_mt": {
+      "A": "256",
+      "B": "512",
+      "C": "1024",
+      "D": "2048",
+      "E": "4096."
+    }
+  },
+  {
+    "id": 10508,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question": "全麻时，病人出现呕吐，为了避免呕吐物进入呼吸道，应置什么体位",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "头高脚低位",
+      "B": "头低脚高位",
+      "C": "侧卧位",
+      "D": "上身体位放低，头偏向一侧",
+      "E": ""
+    },
+    "answer": "D",
+    "question_mt": "At the end of the day, the patient is vomiting. In order to avoid vomiting into the respiratory tract, what position should we place?",
+    "option_mt": {
+      "A": "Head up, feet down.",
+      "B": "Keep your head down and your feet high.",
+      "C": "Side bedroom.",
+      "D": "Lower your upper body and turn your head to one side.",
+      "E": ""
+    }
+  },
+  {
+    "id": 6927,
+    "exam_type": "医技考试",
+    "exam_class": "医技士",
+    "exam_subject": "康复医学治疗技术（士）",
+    "question": "有关脊髓被膜和脊膜腔的描述，错误的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "脊髓表面被覆三层被膜，由外向内为硬脊膜、脊髓蛛网膜和软脊膜",
+      "B": "位于椎管骨膜与硬脊膜之间的窄隙是硬膜外隙",
+      "C": "位于硬脊膜与脊髓蛛网膜之间的窄隙是硬膜下隙",
+      "D": "位于脊髓蛛网膜与软脊膜之间的窄隙是蛛网膜下隙",
+      "E": "在硬膜外隙段和硬膜下隙段有脊神经根穿过"
+    },
+    "answer": "E",
+    "question_mt": "The description of the spinal cord by the membrane and the membrane cavity was wrong.",
+    "option_mt": {
+      "A": "The spinal surface is covered by three layers of membrane, from the outward interior into the membrane, the membrane membrane and the membrane.",
+      "B": "The narrow gap between the vertebrae and the membrane is the epidural gap.",
+      "C": "The narrow gap between the membrane and the membrane retina is the submersible.",
+      "D": "The narrow gap between the membrane membrane and the membrane is the bottom of the membrane.",
+      "E": "There's a spinal nerve through the outer and sub-dural segments of the membrane."
+    }
+  },
+  {
+    "id": 6310,
+    "exam_type": "药师考试",
+    "exam_class": "主管药师",
+    "exam_subject": "主管药师资格考试",
+    "question": "硫代乙酰胺检查重金属检查时的最佳的pH是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "2.5",
+      "B": "3.5",
+      "C": "4.5",
+      "D": "5.5",
+      "E": "6.5"
+    },
+    "answer": "B",
+    "question_mt": "The best pH for thiomeric acetylamine inspection of heavy metals is",
+    "option_mt": {
+      "A": "2.5",
+      "B": "3.5",
+      "C": "4.5",
+      "D": "5.5",
+      "E": "6.5"
+    }
+  },
+  {
+    "id": 3884,
+    "exam_type": "药师考试",
+    "exam_class": "执业西药师",
+    "exam_subject": "执业西药师",
+    "question": "醋酸地塞米松片剂的含量测定方法是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "两步滴定法",
+      "B": "高效液相色谱法",
+      "C": "柯柏反应比色法",
+      "D": "紫外分光光度法",
+      "E": "四氮唑比色法"
+    },
+    "answer": "B",
+    "question_mt": "The way to measure the content of the acetic acetic sermons.",
+    "option_mt": {
+      "A": "It's a two-step solution.",
+      "B": "Efficient liquid chromatography",
+      "C": "Cobb reacts like a color.",
+      "D": "Ultraviolet spectrometer method",
+      "E": "Four-nitrogen dichloride."
+    }
+  },
+  {
+    "id": 2397,
+    "exam_type": "护理考试",
+    "exam_class": "护士执业资格",
+    "exam_subject": "护士执业资格考试",
+    "question": "下列哪种药物可以引起再生障碍性贫血",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "芬太尼",
+      "B": "地西泮",
+      "C": "吗啡",
+      "D": "硫喷妥钠",
+      "E": "氯霉素"
+    },
+    "answer": "E",
+    "question_mt": "Which of the following drugs can cause regenerative anemia?",
+    "option_mt": {
+      "A": "Fentany.",
+      "B": "Dixie Pilgrim.",
+      "C": "Morphine.",
+      "D": "Sodium sulfide.",
+      "E": "Chloroxin."
+    }
+  },
+  {
+    "id": 8903,
+    "exam_type": "专业知识考试",
+    "exam_class": "预防医学与公共卫生学",
+    "exam_subject": "医学伦理学",
+    "question": "医患关系是契约关系,表明",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "医患关系不是民事法律关系",
+      "B": "医患之间是平等的",
+      "C": "医患关系的主体是来就诊的病人",
+      "D": "医患关系是病人出于无奈与医务人员及医疗机构结成的",
+      "E": "医患关系的客体是社会"
+    },
+    "answer": "B",
+    "question_mt": "A medical relationship is a contractual relationship.",
+    "option_mt": {
+      "A": "A medical relationship is not a civil law relationship.",
+      "B": "There's equality between doctors.",
+      "C": "The subject of the medical relationship is the patient who came to see you.",
+      "D": "The patient's relationship with the medical staff and the medical institutions is out of control.",
+      "E": "The object of medical relationships is society."
+    }
+  },
+  {
+    "id": 8595,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "核医学",
+    "question": "骨显像的适应证不包括",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "不明原因的骨痛",
+      "B": "前列腺癌，PSA大于10μg/L",
+      "C": "临床可疑骨折，X线阴性",
+      "D": "类风湿关节炎非活动期",
+      "E": "代谢性骨病"
+    },
+    "answer": "D",
+    "question_mt": "Absorption certificates for bone imaging are not included.",
+    "option_mt": {
+      "A": "I don't know what caused the bone pain.",
+      "B": "Prostate cancer, PSA > 10 μg/L",
+      "C": "Clinical suspicious fracture, X-line negative.",
+      "D": "Inactive period of rheumatism",
+      "E": "Metabolism."
+    }
+  },
+  {
+    "id": 1533,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "内科主治医师",
+    "question": "30岁男性，反复双眼睑浮肿伴夜尿增多2年，血压160/100mmHg，尿蛋白（+)，红细胞5～10个/HP，颗粒管型1～2/HP，血肌酐145μmol/L，血红蛋白85g/L，血清白蛋白32g/L。下列哪种药物本例不宜应用",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "双嘧达莫",
+      "B": "呋塞米",
+      "C": "硝苯地平",
+      "D": "链霉素",
+      "E": "青霉素"
+    },
+    "answer": "D",
+    "question_mt": "Males aged 30 years with repeated eye swelling with an increase of 2 years in night urine, blood pressure 160/100 mmHg, urine protein (+), red cells 5-10/HP, particle tube type 1-2/HP, blood muscle anhydride 145 μmol/L, haemoglobin 85g/L, blood-free protein 32g/L.",
+    "option_mt": {
+      "A": "Double Dharma.",
+      "B": "Fusemi.",
+      "C": "Pyramid of nitrobenzene",
+      "D": "Seroxin.",
+      "E": "penicillin."
+    }
+  },
+  {
+    "id": 794,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "中医执业助理医师",
+    "question": "以下哪项不属于妊娠肿胀的范畴",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "子肿",
+      "B": "子气",
+      "C": "子满",
+      "D": "皱脚",
+      "E": "脆脚"
+    },
+    "answer": "C",
+    "question_mt": "Which of the following does not fall within the scope of pregnancy swelling?",
+    "option_mt": {
+      "A": "Swollen.",
+      "B": "Genuine.",
+      "C": "Ziman.",
+      "D": "Wrinkles.",
+      "E": "Creature feet."
+    }
+  },
+  {
+    "id": 1906,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "妇产科学副主任、主任医师职称考试",
+    "question": "周期不规则的阴道流血，最多见于",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "宫颈癌",
+      "B": "子宫肌瘤",
+      "C": "子宫内膜癌",
+      "D": "卵巢肿瘤",
+      "E": "无排卵型功能失调性子宫出血"
+    },
+    "answer": "E",
+    "question_mt": "Circumcisional vaginal bleeding, at best.",
+    "option_mt": {
+      "A": "Cervical cancer",
+      "B": "uterus membrane.",
+      "C": "Uterine membrane cancer",
+      "D": "Neoplasm of ovarians",
+      "E": "Non-oval dysfunctioned uterus haemorrhage"
+    }
+  },
+  {
+    "id": 2635,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question": "抗休克最首要的治疗措施是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "积极处理原发疾病",
+      "B": "及时纠正酸碱平衡失调",
+      "C": "早期应用血管活性药物",
+      "D": "及时、快速、足量补充血容量",
+      "E": "应用强心药以增加心肌收缩力"
+    },
+    "answer": "D",
+    "question_mt": "The most important treatment against shock is...",
+    "option_mt": {
+      "A": "Actively dealing with pre-existing diseases",
+      "B": "Correct the acid imbalance in a timely manner",
+      "C": "Early application of angioplastic drugs",
+      "D": "Timeliness, speed and adequacy of blood supplementation",
+      "E": "I'm going to use a strong heart pill to increase myocardial constriction."
+    }
+  },
+  {
+    "id": 2752,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question": "濒死期患者的临床表现是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "瞳孔散大",
+      "B": "各种反射消失",
+      "C": "呼吸停止",
+      "D": "心跳停止",
+      "E": "呼吸衰竭"
+    },
+    "answer": "E",
+    "question_mt": "The clinical evidence of dying patients is:",
+    "option_mt": {
+      "A": "The pupils are wide open.",
+      "B": "All kinds of reflections disappear.",
+      "C": "Breathing stopped.",
+      "D": "Heart's stopped.",
+      "E": "Respiratory failure."
+    }
+  },
+  {
+    "id": 7301,
+    "exam_type": "医技考试",
+    "exam_class": "医技师",
+    "exam_subject": "放射学技术（师）",
+    "question": "导致X线照片运动模糊的因素，可暂时控制的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "呼吸",
+      "B": "心脏搏动",
+      "C": "胃肠蠕动",
+      "D": "痉挛",
+      "E": "血流"
+    },
+    "answer": "A",
+    "question_mt": "The factors that obscure the movement of X-line photographs are controlled for the time being.",
+    "option_mt": {
+      "A": "Breathe.",
+      "B": "He's got a heart attack.",
+      "C": "Gastrointestinal worms.",
+      "D": "A spasm.",
+      "E": "Blood."
+    }
+  },
+  {
+    "id": 10783,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question": "慢性支气管炎、肺气肿患者，血气分析结果为：pH 7.38，PaCO2 81mmHg,给予吸氧后，PaO2维持多少较为合适",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "95mmHg",
+      "B": "85mmHg",
+      "C": "65mmHg",
+      "D": "50mmHg",
+      "E": ""
+    },
+    "answer": "C",
+    "question_mt": "Chronic bronchitis, pneumoconiosis, blood gas analysis results: pH 7.38, PaCO2 81 mmHg, which is more appropriate for PaO2 after oxygen is given",
+    "option_mt": {
+      "A": "95mmHg",
+      "B": "85mmHg",
+      "C": "65mmHg",
+      "D": "50mmHg",
+      "E": ""
+    }
+  },
+  {
+    "id": 1065,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "公共卫生执业医师",
+    "question": "患儿18个月。平日常有咳嗽，前日感冒，发热。体温38℃。胸片肺门有椭圆形阴影，边缘模糊。PPD红肿20mm。用何种治疗方案为最佳",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "青霉素+链霉素",
+      "B": "链霉素十异烟肼",
+      "C": "青霉素+氨苄西林",
+      "D": "异烟肼+利福平",
+      "E": "异烟肼+乙胺丁醇"
+    },
+    "answer": "E",
+    "question_mt": "18 months. Every day there's a cough, a cold the previous day, a fever. The body temperature is 38°C. The chest lung has an elliptical shadow and the edge is blurred. The PPD is 20 mm red.",
+    "option_mt": {
+      "A": "penicillin + chainicillin",
+      "B": "Cyclopsil is a ten-year-old thiorium.",
+      "C": "penicillin + aminoicillin",
+      "D": "Acid thorium + Li Fuppin",
+      "E": "Iridium flu + ethylambutol"
+    }
+  },
+  {
+    "id": 6688,
+    "exam_type": "药师考试",
+    "exam_class": "主管中药师",
+    "exam_subject": "主管中药师",
+    "question": "苦杏仁祛痰、镇咳、平喘作用的主要成分是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "挥发油",
+      "B": "脂肪油",
+      "C": "苦杏仁苷",
+      "D": "蛋白酶水解物",
+      "E": "槲皮素"
+    },
+    "answer": "C",
+    "question_mt": "The main ingredients of almonds, coughs and asthma are:",
+    "option_mt": {
+      "A": "Volatile oil.",
+      "B": "Fat oil.",
+      "C": "Apricot.",
+      "D": "Protein enzyme hydrolysis",
+      "E": "Pixel."
+    }
+  },
+  {
+    "id": 6636,
+    "exam_type": "药师考试",
+    "exam_class": "主管中药师",
+    "exam_subject": "主管中药师",
+    "question": "浓缩水丸的水分不得超过",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "0.2",
+      "B": "0.15",
+      "C": "0.12",
+      "D": "0.1",
+      "E": "0.09"
+    },
+    "answer": "E",
+    "question_mt": "The water from the condensed hydrates should not exceed",
+    "option_mt": {
+      "A": "0.2",
+      "B": "0.15",
+      "C": "0.12",
+      "D": "0.1",
+      "E": "0.09"
+    }
+  },
+  {
+    "id": 10774,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question": "急性持续性腹痛、阵发性加剧并伴休克，最大可能是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "输尿管结石肾绞痛",
+      "B": "绞窄性肠梗阻",
+      "C": "急性阑尾炎",
+      "D": "急性胆囊炎",
+      "E": ""
+    },
+    "answer": "B",
+    "question_mt": "Acute and continuing abdominal pain, increased flammation and accompanying shock, most likely",
+    "option_mt": {
+      "A": "A urinary tube with a strangulation of the kidney.",
+      "B": "Narrow infarction.",
+      "C": "Acute appendicitis",
+      "D": "Acute cyborgitis",
+      "E": ""
+    }
+  },
+  {
+    "id": 8078,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "医学免疫学",
+    "question": "嵌合抗体是指",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "将鼠CDR序列移植到人抗体可变区形成的抗体",
+      "B": "一条肽链中含两个抗体可变区片段的抗体",
+      "C": "小鼠转染人抗体基因后产生的抗体",
+      "D": "双特异性抗体",
+      "E": "将鼠源抗体可变区与人抗体恒定区融合形成的抗体"
+    },
+    "answer": "E",
+    "question_mt": "Embedded antibodies mean...",
+    "option_mt": {
+      "A": "Transplant rat CDR sequences to antibodies formed in human antibody variable areas",
+      "B": "An antibody with two fragments of antibody-variable zone in a chain of thugs.",
+      "C": "It's an antibody from a mouse that turns on a human antigen.",
+      "D": "Bidirectional antibodies",
+      "E": "Antibodies formed by the integration of rat-source antibodies into human-resistible zones"
+    }
+  },
+  {
+    "id": 9262,
+    "exam_type": "专业知识考试",
+    "exam_class": "中医学与中药学",
+    "exam_subject": "中医儿科学",
+    "question": "患儿，3岁。证见发热，恶寒无汗，鼻塞流涕，微咳，兼见脘腹胀满，呕吐酸腐，口气秽浊，大便酸臭，小便短黄，舌质红，苔厚腻，脉滑。其证候是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "风热感冒",
+      "B": "感冒夹滞",
+      "C": "感冒夹惊",
+      "D": "暑邪感冒",
+      "E": "风寒感冒"
+    },
+    "answer": "B",
+    "question_mt": "The evidence is hot, cold, sweaty, snotty, small cough, full stomach, vomiting acid, salami, stench, urinal stench, short yellow, red tongue, thick moss, pulverized pulse.",
+    "option_mt": {
+      "A": "The cold is hot.",
+      "B": "The cold's ticking.",
+      "C": "I'm scared of the cold.",
+      "D": "It's a cold.",
+      "E": "It's cold and cold."
+    }
+  },
+  {
+    "id": 4463,
+    "exam_type": "药师考试",
+    "exam_class": "初级药士",
+    "exam_subject": "药士初级考试",
+    "question": "患者，男性，34岁。过度劳累后出现心慌、气短，心电图显示阵发性室性心动过速，宜选用的抗心律失常药物是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "奎尼丁",
+      "B": "利多卡因",
+      "C": "维拉帕米",
+      "D": "普萘洛尔",
+      "E": "苯妥英钠"
+    },
+    "answer": "B",
+    "question_mt": "Patient, male, 34 years old. Overstretched and short. EKG shows an impregnable room velocity.",
+    "option_mt": {
+      "A": "Quinidine.",
+      "B": "Lidocain.",
+      "C": "Villa Palmy.",
+      "D": "Prollor.",
+      "E": "Sodium benzo"
+    }
+  },
+  {
+    "id": 9729,
+    "exam_type": "医学考研",
+    "exam_class": "护理学",
+    "exam_subject": "基础护理学",
+    "question": "下列哪种情况不需要留置导尿",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "子宫切除术",
+      "B": "膀胱镜检查",
+      "C": "尿道修补术",
+      "D": "大面积烧伤",
+      "E": "前列腺肥大尿灌留"
+    },
+    "answer": "B",
+    "question_mt": "Which of the following cases does not require a urinary tutorship:",
+    "option_mt": {
+      "A": "uterus ectomy.",
+      "B": "Vesicoscope check.",
+      "C": "Urinary repair.",
+      "D": "Massive burns.",
+      "E": "The prostate's fat and pissed."
+    }
+  },
+  {
+    "id": 203,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "耳鼻咽喉科",
+    "question": "下列关于萎缩性鼻炎患者的说法不正确的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "鼻塞，即使无鼻内痂皮堵塞鼻腔",
+      "B": "可出现咽干、声嘶",
+      "C": "嗅觉丧失",
+      "D": "可有头痛",
+      "E": "呼出气中有特殊的臭味，患者本人常可闻到"
+    },
+    "answer": "E",
+    "question_mt": "The following is not correct with regard to the atrophy of nasitis.",
+    "option_mt": {
+      "A": "Nostrils, even with no innards, no nasal cavities.",
+      "B": "It's dry and squealing.",
+      "C": "I can't smell it.",
+      "D": "But there's a headache.",
+      "E": "There's a special smell in the air. Patients can smell it themselves."
+    }
+  },
+  {
+    "id": 2007,
+    "exam_type": "护理考试",
+    "exam_class": "护士执业资格",
+    "exam_subject": "护士执业资格考试",
+    "question": "患者女，30岁。妊娠35周，因阴道流血就诊，诊断为前置胎盘，拟急行剖宫产收入院。护士首先应为患者做的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "办理入院手续",
+      "B": "进行沐浴更衣",
+      "C": "检查阴道出血情况",
+      "D": "进行会阴清洗",
+      "E": "用平车送入病区"
+    },
+    "answer": "C",
+    "question_mt": "The first thing a nurse should do for the patient is:",
+    "option_mt": {
+      "A": "Processing for admission",
+      "B": "We're going to take a bath and change our clothes.",
+      "C": "Check for vaginal bleeding.",
+      "D": "Let's do a purge.",
+      "E": "We'll use the flat-car to get him to the sick zone."
+    }
+  },
+  {
+    "id": 9413,
+    "exam_type": "专业知识考试",
+    "exam_class": "中医学与中药学",
+    "exam_subject": "中医基础理论",
+    "question": "肾精化为生殖之精以施泄，依靠于",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "肾阳温煦",
+      "B": "肾阴凉润",
+      "C": "天癸促发",
+      "D": "脾胃运化",
+      "E": "肝气疏泄"
+    },
+    "answer": "C",
+    "question_mt": "The kidney is turned into a reproductive glut, dependent on",
+    "option_mt": {
+      "A": "Kidney fever.",
+      "B": "The kidneys are cool.",
+      "C": "It's a match-for-fist.",
+      "D": "Spleen spleen.",
+      "E": "Hepaste out."
+    }
+  },
+  {
+    "id": 4715,
+    "exam_type": "药师考试",
+    "exam_class": "初级药士",
+    "exam_subject": "药士初级考试",
+    "question": "不是肛门栓剂具有的特点是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "药物不受胃肠道pH或酶的破坏而失去活性",
+      "B": "使用方便",
+      "C": "适用于对胃有刺激性的药物",
+      "D": "合适给药深度可以避免首关效应",
+      "E": "可以给不服药的患者给药"
+    },
+    "answer": "B",
+    "question_mt": "It's not anal embolism.",
+    "option_mt": {
+      "A": "Drugs are not activated by gastrointestinal pH or enzymes.",
+      "B": "Accessibility",
+      "C": "It's for stomach irritant drugs.",
+      "D": "The proper depth of the drug avoids the downside effect.",
+      "E": "You can give drugs to patients who don't take them."
+    }
+  },
+  {
+    "id": 5927,
+    "exam_type": "药师考试",
+    "exam_class": "初级中药师",
+    "exam_subject": "中药学（师）",
+    "question": "小蓟饮子的君药是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "生地黄",
+      "B": "小蓟",
+      "C": "栀子",
+      "D": "滑石",
+      "E": "木通"
+    },
+    "answer": "A",
+    "question_mt": "What's the medicine for a little tasting?",
+    "option_mt": {
+      "A": "Live land, yellow.",
+      "B": "Taki!",
+      "C": "Snack.",
+      "D": "Quartz.",
+      "E": "Muldoon."
+    }
+  },
+  {
+    "id": 1942,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "妇产科学副主任、主任医师职称考试",
+    "question": "多囊卵巢综合征患者行诊断性刮宫时机应选择在",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "月经第4日",
+      "B": "月经干净后3～5日",
+      "C": "在月经前数日或月经来潮6小时内",
+      "D": "月经第2日",
+      "E": "无特殊要求"
+    },
+    "answer": "C",
+    "question_mt": "The time for diagnosis of multi-cystic ovaries syndrome patients should be chosen.",
+    "option_mt": {
+      "A": "Menstruation No. 4",
+      "B": "Three or five days after menstruation.",
+      "C": "Within six hours of the current in days or months before menstruation.",
+      "D": "2nd Menstruation",
+      "E": "No special requirements"
+    }
+  },
+  {
+    "id": 5152,
+    "exam_type": "药师考试",
+    "exam_class": "初级药师",
+    "exam_subject": "药师初级考试",
+    "question": "有关林可霉素的特点不正确的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "对耐药金黄色葡萄球菌仍具有良好的抗菌作用",
+      "B": "抗菌作用机制是与核糖体50S亚基结合，抑制肽酰基转移酶活性，从而抑制细菌蛋白质合成",
+      "C": "与红霉素相互竞争同一结合部位，两者呈拮抗作用。",
+      "D": "抗菌机制与红霉素相似，两药合用可增强抗菌作用",
+      "E": "对大多数厌氧菌也有作用"
+    },
+    "answer": "D",
+    "question_mt": "What's wrong with lincocycin?",
+    "option_mt": {
+      "A": "There's still good antibacterial effects on resistant golden-coloured gluten.",
+      "B": "Antibacterial mechanisms are associated with a nucleotide of 50 sycyl, which inhibits platinum transfer enzyme activity and thus the synthesis of bacterial proteins.",
+      "C": "Competing with redicillin in the same combination, both have an indignant effect.",
+      "D": "Antibacterial mechanisms are similar to redicillin, and the combination of two drugs enhances antibacterial effects.",
+      "E": "It also works for most anaerobics."
+    }
+  },
+  {
+    "id": 7508,
+    "exam_type": "医技考试",
+    "exam_class": "医技师",
+    "exam_subject": "康复医学治疗技术（师）",
+    "question": "关于数字疼痛评分法的叙述，正确的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "用数字计量评测疼痛的幅度或强度",
+      "B": "10代表“无痛”，0代表“最痛”",
+      "C": "不适于评测下腰痛、类风湿关节炎及癌痛",
+      "D": "临床上效度较差",
+      "E": "评价者选择一个数字来代表患者感受的痛"
+    },
+    "answer": "A",
+    "question_mt": "The description of the numeric pain scoring method is correct.",
+    "option_mt": {
+      "A": "Measuring pain by number or intensity",
+      "B": "10 for “no pain” and 0 for “most pain”",
+      "C": "It's not appropriate to assess back pain, rheumatism and cancer pain.",
+      "D": "It's not clinically effective.",
+      "E": "The evaluator selects a number to represent the pain of the patient."
+    }
+  },
+  {
+    "id": 2722,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question": "28岁已婚女性，性生活正常，婚后3年未孕，护士在指导其提高受孕率技巧时应除外",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "减轻精神压力，保持健康状态",
+      "B": "与伴侣加强沟通",
+      "C": "性交前、中、后使用阴道润滑剂",
+      "D": "性交后卧床抬高臀部",
+      "E": "排卵期适当增加性交次数"
+    },
+    "answer": "C",
+    "question_mt": "Married women at the age of 28 who have a normal sexual life and who have not been pregnant for three years after marriage, except in the case of nurses who provide guidance on their skills to increase pregnancy rates",
+    "option_mt": {
+      "A": "Healing stress and maintaining health.",
+      "B": "Enhancing communication with partners",
+      "C": "Use of vaginal lubricants before, during and after sexual intercourse",
+      "D": "Get in bed and raise your hips.",
+      "E": "An appropriate increase in the number of sexual intercourse during the ovulation period"
+    }
+  },
+  {
+    "id": 7819,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "肿瘤放射治疗主管技师",
+    "question": "软组织肿瘤中化疗有肯定价值的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "脂肪肉瘤",
+      "B": "平滑肌肉瘤",
+      "C": "滑膜肉瘤",
+      "D": "血管肉瘤",
+      "E": "尤因肉瘤"
+    },
+    "answer": "E",
+    "question_mt": "The positive value of chemotherapy in soft tissue tumors is:",
+    "option_mt": {
+      "A": "Fat magma.",
+      "B": "Smooth muscular tumor.",
+      "C": "Dramatic membrane tumor.",
+      "D": "Angioplasty.",
+      "E": "Eurasia."
+    }
+  },
+  {
+    "id": 61,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "超声科",
+    "question": "40岁，因月经量多、经期长就诊，超声检查如图，最可能的诊断为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "节育环位置下移",
+      "B": "子宫内膜癌",
+      "C": "子宫内膜下肌瘤",
+      "D": "宫腔内残留物",
+      "E": "子宫内膜钙化"
+    },
+    "answer": "A",
+    "question_mt": "At 40 years of age, due to high menstrual and long menstrual consultations, ultrasound tests are illustrated and the most likely diagnosis is",
+    "option_mt": {
+      "A": "Move birth control rings down",
+      "B": "Uterine membrane cancer",
+      "C": "Subuterine membrane membrane.",
+      "D": "Residues in the palace cavity",
+      "E": "Cervical calcification"
+    }
+  },
+  {
+    "id": 4659,
+    "exam_type": "药师考试",
+    "exam_class": "初级药士",
+    "exam_subject": "药士初级考试",
+    "question": "对全身循环很差的休克患者，抢救时宜采用的给药途径",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "口服",
+      "B": "皮下注射",
+      "C": "肌内注射",
+      "D": "静脉注射",
+      "E": "吸入"
+    },
+    "answer": "D",
+    "question_mt": "For patients with poor circulation, the proper method of delivery for rescue.",
+    "option_mt": {
+      "A": "Oral.",
+      "B": "Undercut injection.",
+      "C": "Inoculation in my muscles.",
+      "D": "Intravenous injection.",
+      "E": "Inhalation"
+    }
+  },
+  {
+    "id": 8738,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "基础护理学",
+    "question": "患者郑某，男，45岁，失血性休克。患者的脉搏特征是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "强大有力",
+      "B": "细弱无力",
+      "C": "动脉管壁变硬，失去弹性",
+      "D": "单位时间内脉率少于心率",
+      "E": "每隔一个正常搏动后出现一次期前收缩"
+    },
+    "answer": "B",
+    "question_mt": "The patient's pulse is characterized by hemorrhage.",
+    "option_mt": {
+      "A": "Powerful. Powerful.",
+      "B": "It's weak and weak.",
+      "C": "Aneurysms hardened, loss of elasticity.",
+      "D": "Pulse rate is less than heart rate per unit of time",
+      "E": "Once every normal beat, it shrinks before the end of the period."
+    }
+  },
+  {
+    "id": 3058,
+    "exam_type": "护理考试",
+    "exam_class": "主管护师",
+    "exam_subject": "妇产科护理学",
+    "question": "刘女士，已婚，停经45天，突然出现阴道少量出血伴下腹疼痛，疑似输卵管妊娠破裂，最适宜做的诊断性检查是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "宫腔镜检查",
+      "B": "阴道镜检查",
+      "C": "B型超声检查",
+      "D": "尿妊娠试验",
+      "E": "阴道后穹隆穿刺"
+    },
+    "answer": "E",
+    "question_mt": "Ms. Liu, married, suspended for 45 days, suddenly haemorrhage of a small number of abdominal pains in the vagina, suspected of a break in the tubal gestation, the most appropriate diagnostic examination is",
+    "option_mt": {
+      "A": "The court cavity mirror.",
+      "B": "Vaginal mirrors.",
+      "C": "Type B ultrasound check.",
+      "D": "Pee pregnancy test",
+      "E": "The dome pierced behind the vagina."
+    }
+  },
+  {
+    "id": 8872,
+    "exam_type": "专业知识考试",
+    "exam_class": "预防医学与公共卫生学",
+    "exam_subject": "预防医学",
+    "question": "中等强度身体活动，代谢当量的范围值为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "小于3",
+      "B": "3-6",
+      "C": "6-10",
+      "D": "10-11",
+      "E": "大于11"
+    },
+    "answer": "B",
+    "question_mt": "Medium-intensity body activity, range value of metabolic equivalent",
+    "option_mt": {
+      "A": "Less than 3",
+      "B": "3-6 p.m.",
+      "C": "6-10",
+      "D": "10-11",
+      "E": "Greater than 11"
+    }
+  },
+  {
+    "id": 1840,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "内分泌科高级职称",
+    "question": "下列各项诊断胰岛素瘤的方法中，效果不佳的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "Whipple三联征",
+      "B": "血胰岛素测定",
+      "C": "术前B超检查",
+      "D": "选择性动脉造影",
+      "E": "选择性动脉造影"
+    },
+    "answer": "C",
+    "question_mt": "Among the following methods for diagnosing insulin tumors, the negative results are:",
+    "option_mt": {
+      "A": "The Whipple Triple.",
+      "B": "Blood insulin.",
+      "C": "Pre-operative B check-ups.",
+      "D": "Selective arteries",
+      "E": "Selective arteries"
+    }
+  },
+  {
+    "id": 5235,
+    "exam_type": "药师考试",
+    "exam_class": "初级中药士",
+    "exam_subject": "中药学（士）",
+    "question": "既能清热凉血，又能解毒消斑的药物是",
+    "question_type": "多项选择题",
+    "option": {
+      "A": "穿心莲",
+      "B": "龙胆草",
+      "C": "牡丹皮",
+      "D": "水牛角",
+      "E": "生地黄",
+      "F": "4"
+    },
+    "answer": "D",
+    "question_mt": "It's a cure for both heat and cold blood and disinfection.",
+    "option_mt": {
+      "A": "Wear the Heart Lotus.",
+      "B": "Dragon urn.",
+      "C": "Pythonpi.",
+      "D": "Buffalo horns.",
+      "E": "Live land, yellow.",
+      "F": "Four."
+    }
+  },
+  {
+    "id": 11106,
+    "exam_type": "医学考研",
+    "exam_class": "中医综合",
+    "exam_subject": "考研中医综合",
+    "question": "1-病人饮冰啤酒后，脘腹痞胀不适，呃声振作，嗳气，舌象无异，脉弦，证属",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "气滞证",
+      "B": "气逆证",
+      "C": "气闭证",
+      "D": "血寒证",
+      "E": ""
+    },
+    "answer": "B",
+    "question_mt": "1-A patient's cold beer, and he's not feeling well. Uh, cheering up, breathing, tongue-like, pulse-string, proof.",
+    "option_mt": {
+      "A": "Air retardation.",
+      "B": "Air proof.",
+      "C": "Close your eyes.",
+      "D": "Blood proof.",
+      "E": ""
+    }
+  },
+  {
+    "id": 3462,
+    "exam_type": "护理考试",
+    "exam_class": "高级护师",
+    "exam_subject": "副主任、主任护师资格考试",
+    "question": "在护患非技术关系中最重要的内容是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "道德关系",
+      "B": "利益关系",
+      "C": "法律关系",
+      "D": "价值关系",
+      "E": "信任关系"
+    },
+    "answer": "A",
+    "question_mt": "The most important element in the non-technical relationship of care is",
+    "option_mt": {
+      "A": "Ethical relations",
+      "B": "Interest",
+      "C": "Legal relations",
+      "D": "Value relations",
+      "E": "Trust relationships"
+    }
+  },
+  {
+    "id": 6510,
+    "exam_type": "药师考试",
+    "exam_class": "主管中药师",
+    "exam_subject": "主管中药师",
+    "question": "下列关于川芎药理作用的叙述，不正确的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "扩张血管，降血压",
+      "B": "促进组织修复和再生",
+      "C": "抗脑缺血",
+      "D": "抑制血小板聚集，抗血栓形成",
+      "E": "解痉"
+    },
+    "answer": "B",
+    "question_mt": "The following is an incorrect account of the pharmacological effects of Kawachi.",
+    "option_mt": {
+      "A": "Extended blood vessels, blood pressure.",
+      "B": "Promotion of organizational restoration and regeneration",
+      "C": "Hemorrhage against the brain.",
+      "D": "Depression of blood platelets, anti-septic embolism.",
+      "E": "Undo it."
+    }
+  },
+  {
+    "id": 2777,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question": "患者，女，33岁。因卵巢功能障碍给予辅助生育技术治疗。使用促排卵药物后出现下腹胀痛、腹水，B型超声示卵巢明显增大，该患者首先考虑",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "输卵管妊娠破裂",
+      "B": "药物过敏",
+      "C": "多胎妊娠",
+      "D": "卵巢过度刺激综合征",
+      "E": "卵巢肿瘤"
+    },
+    "answer": "D",
+    "question_mt": "The patient, female, is 33 years old.",
+    "option_mt": {
+      "A": "Disruption of the tubal gestation",
+      "B": "Drug allergies",
+      "C": "Multiple pregnancies",
+      "D": "The ovarian overstimulation syndrome.",
+      "E": "Neoplasm of ovarians"
+    }
+  },
+  {
+    "id": 9465,
+    "exam_type": "专业知识考试",
+    "exam_class": "中医学与中药学",
+    "exam_subject": "伤寒论",
+    "question": "阳明热证与阳明实证鉴别的要点为()。",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "心烦谵语的有无",
+      "B": "腹满的轻重不同",
+      "C": "发热高低的不同",
+      "D": "大便结硬的有无",
+      "E": "汗出多少的不同"
+    },
+    "answer": "D",
+    "question_mt": "The main elements of the positive and positive identification are ()",
+    "option_mt": {
+      "A": "Are you upset?",
+      "B": "There's a difference in the weight of the belly.",
+      "C": "The difference between the heat and the low.",
+      "D": "Do you have a hard poo?",
+      "E": "What's the difference in sweating?"
+    }
+  },
+  {
+    "id": 9282,
+    "exam_type": "专业知识考试",
+    "exam_class": "中医学与中药学",
+    "exam_subject": "中医基础理论",
+    "question": "下列哪项不是肾失封藏的表现",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "脱发",
+      "B": "遗精",
+      "C": "遗尿",
+      "D": "滑胎",
+      "E": "带下"
+    },
+    "answer": "A",
+    "question_mt": "Which of the following is not a sign of kidney loss?",
+    "option_mt": {
+      "A": "Hair off.",
+      "B": "Precision.",
+      "C": "I'm going to pee.",
+      "D": "Slip tires.",
+      "E": "Take it with you."
+    }
+  },
+  {
+    "id": 12,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "儿科",
+    "question": "下列哪一项不是咳嗽变异性哮喘的诊断依据（ ）。",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "咳嗽持续或反复发作，1个月",
+      "B": "临床无感染征象，或经较长期抗生素治疗无效",
+      "C": "支气管扩张剂可使咳嗽发作缓解",
+      "D": "有个人或家族过敏史",
+      "E": "常在白天发作，运动后减轻"
+    },
+    "answer": "E",
+    "question_mt": "Which of the following is not the basis for the diagnosis of coughing mutant asthma ( ).",
+    "option_mt": {
+      "A": "Cough continued or repeated, 1 month",
+      "B": "Clinical no-infection symptoms or ineffective longer-term antibiotics treatment",
+      "C": "A bronchial sprawl can relieve the cough.",
+      "D": "There's a history of individual or family allergies.",
+      "E": "It usually happens during the day, and it's lightened after the exercise."
+    }
+  },
+  {
+    "id": 10842,
+    "exam_type": "医学考研",
+    "exam_class": "中医综合",
+    "exam_subject": "考研中医综合",
+    "question": "具有透邪解郁，疏肝理脾功用的方剂是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "四逆散",
+      "B": "逍遥散",
+      "C": "大柴胡汤",
+      "D": "痛泻药方",
+      "E": ""
+    },
+    "answer": "A",
+    "question_mt": "It's a cure for delirium, spleen.",
+    "option_mt": {
+      "A": "Quadrified",
+      "B": "♪ Free ♪",
+      "C": "Big Chai-hu soup.",
+      "D": "The laxative formula.",
+      "E": ""
+    }
+  },
+  {
+    "id": 5664,
+    "exam_type": "药师考试",
+    "exam_class": "初级中药师",
+    "exam_subject": "中药学（师）",
+    "question": "理气药中，松弛胃肠道平滑肌作用最强的药物是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "香附",
+      "B": "陈皮",
+      "C": "木香",
+      "D": "青皮",
+      "E": "枳实"
+    },
+    "answer": "D",
+    "question_mt": "One of the most powerful drugs in the laxative gastrointestinal tract smoothing muscles is",
+    "option_mt": {
+      "A": "Xiang Xiang Xiang.",
+      "B": "Chen Pei.",
+      "C": "Kimura.",
+      "D": "Green leather.",
+      "E": "Shinyuki."
+    }
+  },
+  {
+    "id": 8499,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "超声医学",
+    "question": "1-经腹壁膀胱检查时，膀胱前壁下常出现条带状弱回声伪像，产生这一伪像最有可能的原因是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "多次反射",
+      "B": "旁瓣效应",
+      "C": "部分容积效应",
+      "D": "空化效应",
+      "E": "镜像伪像"
+    },
+    "answer": "A",
+    "question_mt": "1 - The most likely reason for the hypothermia was the presence of a weak echo under the front wall of the bladder, after examination of the bladder.",
+    "option_mt": {
+      "A": "Multiple reflections.",
+      "B": "A side valve effect.",
+      "C": "Partial build-up effect",
+      "D": "Aerial effects",
+      "E": "A mirror image."
+    }
+  },
+  {
+    "id": 336,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "临床病理科",
+    "question": "下列标本应该全部取材制片的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "宫颈锥切标本",
+      "B": "阑尾炎切除",
+      "C": "前列腺电切",
+      "D": "胆囊",
+      "E": "胃镜检查标本"
+    },
+    "answer": "E",
+    "question_mt": "The following specimens should all be made of material:",
+    "option_mt": {
+      "A": "Cervical cone cutting specimens",
+      "B": "Accelerosis.",
+      "C": "Prostate electrocution.",
+      "D": "A gallbladder.",
+      "E": "Stomach mirror check specimens"
+    }
+  },
+  {
+    "id": 1948,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "普通外科高级职称",
+    "question": "慢性胆囊炎的诊断依据中，不包括",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "十二指肠引流胆汁可能出现大量脓球",
+      "B": "伴有胆囊结石",
+      "C": "右上腹隐痛不适伴消化不良",
+      "D": "超声波检查胆囊增大或缩小",
+      "E": "脂肪泻"
+    },
+    "answer": "E",
+    "question_mt": "The basis for the diagnosis of chronic cyborgitis is not included.",
+    "option_mt": {
+      "A": "There could be a lot of pusballs in the intestines.",
+      "B": "With a gall-bladder stone.",
+      "C": "The upper right abdominal pain is accompanied by indigestion.",
+      "D": "Ultrasound cavity scrotum up or down.",
+      "E": "Fatty loathing."
+    }
+  },
+  {
+    "id": 6328,
+    "exam_type": "药师考试",
+    "exam_class": "主管药师",
+    "exam_subject": "主管药师资格考试",
+    "question": "下列关于药品分区、分类管理说法不正确的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "药品常按照剂型的不同而采取同类集中存放的办法保管",
+      "B": "所谓分区，是指按照仓储药品的自然属性、养护措施及消防方法对库房进行划分",
+      "C": "根据分类要求，可将药品库房分为普通库、阴凉库、冷藏库、麻醉药品库、毒品库和危险品库",
+      "D": "实行分区分类管理可以有利于保管员掌握药品进出库的规律",
+      "E": "实行分区分类管理有利于缩短药品收发作业时间"
+    },
+    "answer": "B",
+    "question_mt": "The following is incorrect with regard to drug zoning, classification management:",
+    "option_mt": {
+      "A": "Drugs are often held in the same centralized storage system according to the type of agent",
+      "B": "Blocking means the division of warehouses according to their natural properties, conservation measures and fire-fighting methods.",
+      "C": "Depending on the classification requirements, drug depots can be divided into general stores, cool storage, cold storage, narcotic drug depots, drug depots and dangerous stores.",
+      "D": "Divisional classification management can facilitate custodians ' access to drug banks",
+      "E": "The introduction of subregional classification management has helped to reduce the time spent in receiving and receiving medicines."
+    }
+  },
+  {
+    "id": 5387,
+    "exam_type": "药师考试",
+    "exam_class": "初级中药士",
+    "exam_subject": "中药学（士）",
+    "question": "下列药物中，有助阳益阴、固涩下焦功效的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "紫河车",
+      "B": "肉苁蓉",
+      "C": "白术",
+      "D": "菟丝子",
+      "E": "重楼"
+    },
+    "answer": "D",
+    "question_mt": "Of the following drugs, those that contribute to the obsessiveness of the sun and are solidly combustible are:",
+    "option_mt": {
+      "A": "The purple river car.",
+      "B": "The meatloaf.",
+      "C": "White arts.",
+      "D": "Wisdom.",
+      "E": "Rebuilding"
+    }
+  },
+  {
+    "id": 4252,
+    "exam_type": "药师考试",
+    "exam_class": "执业中药师",
+    "exam_subject": "执业中药师",
+    "question": "患者肌肤热，渴喜冷饮，汗热味咸而黏，烦躁不安，脉细数而无力，此属",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "暑伤气阴",
+      "B": "阳明经热",
+      "C": "热盛伤阴",
+      "D": "亡阴证候",
+      "E": "风热证候"
+    },
+    "answer": "C",
+    "question_mt": "The patient's skin is hot, thirsty, cold, sweaty and sticky, restless and frail.",
+    "option_mt": {
+      "A": "It's cold.",
+      "B": "It's hot in the sun.",
+      "C": "It's hot, it's dark.",
+      "D": "You're welcome to die.",
+      "E": "The wind's hot."
+    }
+  },
+  {
+    "id": 974,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question": "平均数表示一群性质相同的变量值的__",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "离散趋势",
+      "B": "精密水平",
+      "C": "分布情况",
+      "D": "集中趋势",
+      "E": "离散程度"
+    },
+    "answer": "D",
+    "question_mt": "Average indicates a group of variables of the same nature __",
+    "option_mt": {
+      "A": "Diffusion trends",
+      "B": "Precision Level",
+      "C": "Distribution",
+      "D": "Trends in concentration",
+      "E": "Level of separation"
+    }
+  },
+  {
+    "id": 4277,
+    "exam_type": "药师考试",
+    "exam_class": "执业中药师",
+    "exam_subject": "执业中药师",
+    "question": "中药甘草具有抗炎、抗过敏的成分是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "草酸钙",
+      "B": "黄酮类成分",
+      "C": "甘草皂苷",
+      "D": "淀粉",
+      "E": "纤维素"
+    },
+    "answer": "C",
+    "question_mt": "The Chinese herb has anti-inflammation, anti-allergen component.",
+    "option_mt": {
+      "A": "Calcium herbate.",
+      "B": "Acetone composition",
+      "C": "The molasses.",
+      "D": "Dynamite.",
+      "E": "cellulose"
+    }
+  },
+  {
+    "id": 10006,
+    "exam_type": "医学考研",
+    "exam_class": "考研政治",
+    "exam_subject": "考研政治",
+    "question": "2018年9月，中华人民共和国国务院新闻办公室发布了《关于中美经贸摩擦的事实与中方立场》白皮书。白皮书指出，中美两国经济发展阶段、经济制度不同，存在经贸摩擦是正常的，关键是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "如何增进互信、促进合作、管控分歧",
+      "B": "如何增加出口、降低关税、管控分歧",
+      "C": "如何增加进口、消除逆差、管控分歧",
+      "D": "如何加强合作、加征关税、管控分歧",
+      "E": ""
+    },
+    "answer": "A",
+    "question_mt": "In September 2018, the Press Office of the State Council of the People ' s Republic of China issued a White Paper on the Facts and Position of China and the United States concerning Economic and Trade Frictions between China and the United States. The White Paper states that the economic development phases and economic systems of China and the United States are different.",
+    "option_mt": {
+      "A": "How to enhance mutual trust, promote cooperation and manage differences",
+      "B": "How to increase exports, reduce tariffs and regulate differences",
+      "C": "How to increase imports, eliminate deficits, control differences",
+      "D": "How to enhance cooperation, raise tariffs and regulate differences",
+      "E": ""
+    }
+  },
+  {
+    "id": 1325,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "医院感染",
+    "question": "以下哪个部门负责对医疗卫生机构的医疗废物管理工作实施监督",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "县级以上地方人民政府卫生行政主管部门",
+      "B": "县级以上地方人民政府环境保护行政主管部门",
+      "C": "县级以上地方人民政府工商行政管理部门",
+      "D": "县级以上地方人民政府建设主管部门",
+      "E": ""
+    },
+    "answer": "A",
+    "question_mt": "Which of the following departments is responsible for overseeing the management of medical waste in health-care institutions",
+    "option_mt": {
+      "A": "Health administrative authorities of local people ' s governments at and above the county level",
+      "B": "Administrative authority for environmental protection of local people ' s governments at and above the county level",
+      "C": "Local People ' s Government business administration at district level and above",
+      "D": "Local people ' s government-building authorities at and above the county level",
+      "E": ""
+    }
+  },
+  {
+    "id": 1445,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "中医针灸主治医师",
+    "question": "下列各项，属于“母病及子”的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "心病及肾",
+      "B": "脾病及肺",
+      "C": "肝病及脾",
+      "D": "心病及肝",
+      "E": "肺病及心"
+    },
+    "answer": "B",
+    "question_mt": "\"Mother and child\" is one of the following:",
+    "option_mt": {
+      "A": "Heart disease and kidneys",
+      "B": "Spleen disease and lungs",
+      "C": "Hepatitis and spleen.",
+      "D": "Heart disease and liver",
+      "E": "Lung disease and heart disease"
+    }
+  },
+  {
+    "id": 8449,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "外科学",
+    "question": "肾结核最严重的晚期并发症为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "生殖器结核",
+      "B": "膀胱结核",
+      "C": "输尿管结核",
+      "D": "尿道结核",
+      "E": "挛缩膀胱和对侧肾积水"
+    },
+    "answer": "E",
+    "question_mt": "The most serious late-stage complications of kidney nodules are:",
+    "option_mt": {
+      "A": "Reproductive nodules",
+      "B": "Vesico-tuberculosis",
+      "C": "Nodules in the urinary tubes",
+      "D": "urinary nodules",
+      "E": "A condensed bladder and opposite kidneys."
+    }
+  },
+  {
+    "id": 1158,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "口腔执业医师",
+    "question": "对乳磨牙实施窝沟封闭的最适宜年龄为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "2~3岁",
+      "B": "3~4岁",
+      "C": "5~6岁",
+      "D": "7~8岁",
+      "E": "9~10岁"
+    },
+    "answer": "B",
+    "question_mt": "The most appropriate age for denture closure for mammothing is:",
+    "option_mt": {
+      "A": "2-3 years",
+      "B": "3-4 years",
+      "C": "5-6 years",
+      "D": "7-8 years",
+      "E": "9-10 years"
+    }
+  },
+  {
+    "id": 9324,
+    "exam_type": "专业知识考试",
+    "exam_class": "中医学与中药学",
+    "exam_subject": "中医基础理论",
+    "question": "瘰疬痰核形成的原因是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "痰浊上犯于头",
+      "B": "痰迷心窍",
+      "C": "痰浊犯胃",
+      "D": "痰浊流窜肌肉筋骨",
+      "E": "痰犯咽喉"
+    },
+    "answer": "D",
+    "question_mt": "The reason why the nucleotide is formed is because...",
+    "option_mt": {
+      "A": "He's in the middle of something.",
+      "B": "I'm so obsessed with it.",
+      "C": "It's a pain in the stomach.",
+      "D": "I'm running my muscles.",
+      "E": "The stutter's throat."
+    }
+  },
+  {
+    "id": 2191,
+    "exam_type": "护理考试",
+    "exam_class": "护士执业资格",
+    "exam_subject": "护士执业资格考试",
+    "question": "高位肠梗阻易发生的酸碱失衡是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "代谢性酸中毒",
+      "B": "呼吸性酸中毒",
+      "C": "代谢性碱中毒",
+      "D": "呼吸性碱中毒",
+      "E": "代谢性酸中毒合并呼吸性碱中毒"
+    },
+    "answer": "C",
+    "question_mt": "High intestinal infarction inhibits a high-predictable silicon imbalance:",
+    "option_mt": {
+      "A": "Metabolic acid poisoning",
+      "B": "Respiratory acid poisoning",
+      "C": "Metabolism alkali poisoning",
+      "D": "Respiratory alkali poisoning",
+      "E": "Co-respiratory alkali poisoning for metabolic acid poisoning"
+    }
+  },
+  {
+    "id": 2234,
+    "exam_type": "护理考试",
+    "exam_class": "护士执业资格",
+    "exam_subject": "护士执业资格考试",
+    "question": "急性肺水肿的典型症状和体征是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "胸闷，发绀，双肺满布干啰音",
+      "B": "胸闷，心悸，双肺满布湿啰音",
+      "C": "咳粉红色泡沫痰，双肺满布湿啰音",
+      "D": "胸闷，心悸，心前区闻及响亮、持续的水泡音",
+      "E": "咳粉红色泡沫痰，心前区闻及响亮、 持续的水泡音"
+    },
+    "answer": "C",
+    "question_mt": "The typical symptoms and signs of acute pulmonary edema are:",
+    "option_mt": {
+      "A": "Psychic, hairy, two lungs full of dry noises.",
+      "B": "My chest, my heart, my lungs are soaking wet.",
+      "C": "Coughed pink foam with wet lungs.",
+      "D": "The chest, the heart, the front of the heart, the sound of loud, persistent blisters.",
+      "E": "Coughed pink foam, smelled in front of the heart, loud, sustained water bubbles."
+    }
+  },
+  {
+    "id": 8234,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "生物化学与分子生物学",
+    "question": "下列哪种方法不包含在基因诊断技术方法中",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "PCR",
+      "B": "核酸杂交",
+      "C": "基因芯片",
+      "D": "基因置换",
+      "E": "序列分析"
+    },
+    "answer": "D",
+    "question_mt": "Which of the following methods is not included in genetic diagnostic techniques:",
+    "option_mt": {
+      "A": "PCR",
+      "B": "Nucleic acid hybrid",
+      "C": "Genetic chip.",
+      "D": "Genetic replacement",
+      "E": "Sequence Analysis"
+    }
+  },
+  {
+    "id": 9667,
+    "exam_type": "医学考研",
+    "exam_class": "护理学",
+    "exam_subject": "外科护理学",
+    "question": "低钾性碱中毒出现于下列哪一种情况",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "尿毒症",
+      "B": "胃手术后",
+      "C": "术后少尿",
+      "D": "严重创伤",
+      "E": "输血过量"
+    },
+    "answer": "B",
+    "question_mt": "Which of the following cases is low potassium alkali poisoning?",
+    "option_mt": {
+      "A": "urinary poisoning.",
+      "B": "After stomach surgery.",
+      "C": "Don't pee after surgery.",
+      "D": "Serious trauma",
+      "E": "We've had an overdose of blood."
+    }
+  },
+  {
+    "id": 2836,
+    "exam_type": "护理考试",
+    "exam_class": "主管护师",
+    "exam_subject": "主管护师资格考试",
+    "question": "脑疝",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "双瞳孔大小不等、对光反射消失",
+      "B": "婴儿心率180次/分、肝肋下3cm",
+      "C": "心电图呈心室停搏",
+      "D": "呼吸呈潮式呼吸",
+      "E": "颈项强直、克氏征（+)"
+    },
+    "answer": "A",
+    "question_mt": "Cerebral aphids.",
+    "option_mt": {
+      "A": "The two pupils are different in size and the reflection on the light disappears.",
+      "B": "Infant heart rate 180/point, lower liver 3cm",
+      "C": "The electrocardiogram is a cardiac arrest.",
+      "D": "Breathing is tidal.",
+      "E": "Cervical straightness, gluten (+)"
+    }
+  },
+  {
+    "id": 4686,
+    "exam_type": "药师考试",
+    "exam_class": "初级药士",
+    "exam_subject": "药士初级考试",
+    "question": "属于毒性中药的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "洋地黄毒苷",
+      "B": "阿托品",
+      "C": "去乙酰毛花苷",
+      "D": "雄黄",
+      "E": "士的宁"
+    },
+    "answer": "D",
+    "question_mt": "It's a toxic drug.",
+    "option_mt": {
+      "A": "The yellow sea venom of the ocean.",
+      "B": "Atropine.",
+      "C": "To the acetyl hair.",
+      "D": "Yu-yeon!",
+      "E": "Stanin."
+    }
+  },
+  {
+    "id": 9235,
+    "exam_type": "专业知识考试",
+    "exam_class": "中医学与中药学",
+    "exam_subject": "中医眼科学",
+    "question": "1-混睛障证候是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "抱轮红赤，瞳神缩小",
+      "B": "黑睛生翳中部凹陷，伴黄液上冲",
+      "C": "白睛混赤，黑睛深层呈圆盘状混浊",
+      "D": "黑睛生翳，色白粗糙，如豆腐渣样",
+      "E": "黑睛翳障状如秤星，荧光素染色阳性"
+    },
+    "answer": "C",
+    "question_mt": "The one-and-the-mortality test is...",
+    "option_mt": {
+      "A": "The wheels are red and the pupils are shrinking.",
+      "B": "The black eye is dented in the middle, accompanied by the yellow fluid.",
+      "C": "They're white and black and they're in disc form.",
+      "D": "Black-eyed, white-colored, tofu-like.",
+      "E": "Black eyes with magnificence, fluorine dye positive."
+    }
+  },
+  {
+    "id": 11037,
+    "exam_type": "医学考研",
+    "exam_class": "中医综合",
+    "exam_subject": "考研中医综合",
+    "question": "根据目与五脏的对应关系，则白睛属",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "肺",
+      "B": "脾",
+      "C": "心",
+      "D": "肝",
+      "E": ""
+    },
+    "answer": "A",
+    "question_mt": "It's white, according to the relationship between the eye and the blood.",
+    "option_mt": {
+      "A": "Lung.",
+      "B": "Spleen.",
+      "C": "Heart.",
+      "D": "The liver.",
+      "E": ""
+    }
+  },
+  {
+    "id": 7317,
+    "exam_type": "医技考试",
+    "exam_class": "医技师",
+    "exam_subject": "检验技术（师）",
+    "question": "为确保临床检测过程和结果在偏差和精密度方面达到预定标准的质量工作称为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "QA",
+      "B": "EQC",
+      "C": "IQC",
+      "D": "QC",
+      "E": "QI"
+    },
+    "answer": "C",
+    "question_mt": "Quality work to ensure that clinical testing processes and results meet predetermined standards in terms of bias and accuracy",
+    "option_mt": {
+      "A": "QA",
+      "B": "EQC",
+      "C": "IQC",
+      "D": "QC",
+      "E": "QI"
+    }
+  },
+  {
+    "id": 3740,
+    "exam_type": "药师考试",
+    "exam_class": "执业西药师",
+    "exam_subject": "执业西药师",
+    "question": "在水溶液中不稳定但易溶于水的药物适合制成哪种注射剂",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "溶液型注射剂",
+      "B": "溶胶型注射剂",
+      "C": "混悬型注射剂",
+      "D": "乳剂型注射剂",
+      "E": "注射用无菌粉末"
+    },
+    "answer": "E",
+    "question_mt": "Unstable but soluble water-based drugs in water solutions are suitable for which injections",
+    "option_mt": {
+      "A": "Solution-type injectors",
+      "B": "Solution-type injectors",
+      "C": "Combination injections",
+      "D": "Emulsifiable injections",
+      "E": "Injecting sterile powder."
+    }
+  },
+  {
+    "id": 9462,
+    "exam_type": "专业知识考试",
+    "exam_class": "中医学与中药学",
+    "exam_subject": "内经讲义",
+    "question": "《素问•阴阳应象大论》“筋生心”的含义是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "筋化为心气",
+      "B": "心内多筋脉",
+      "C": "肝生心",
+      "D": "筋化脉",
+      "E": "筋赖心养"
+    },
+    "answer": "C",
+    "question_mt": "The meaning of Quasi-Yin-yang's Elephant is:",
+    "option_mt": {
+      "A": "♪ Combination into the heart ♪",
+      "B": "He's got a lot of heart.",
+      "C": "The heart of the liver.",
+      "D": "The cavity pulse.",
+      "E": "I don't know what I'm talking about."
+    }
+  },
+  {
+    "id": 3513,
+    "exam_type": "护理考试",
+    "exam_class": "高级护师",
+    "exam_subject": "副主任、主任护师资格考试",
+    "question": "老年患者护理要点除外",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "注意提高自理能力",
+      "B": "多补充优质蛋白质",
+      "C": "保证充足睡眠",
+      "D": "有轻微的药物反应立即处理",
+      "E": "经常洗温水澡"
+    },
+    "answer": "E",
+    "question_mt": "Except for the point of care for the elderly",
+    "option_mt": {
+      "A": "Take care of yourself.",
+      "B": "Plus high-quality proteins.",
+      "C": "Make sure you get enough sleep.",
+      "D": "There's a slight drug response to be dealt with immediately.",
+      "E": "I used to take warm baths."
+    }
+  },
+  {
+    "id": 5459,
+    "exam_type": "药师考试",
+    "exam_class": "初级中药士",
+    "exam_subject": "中药学（士）",
+    "question": "3-有利湿退黄、活血功效的药物是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "虎杖",
+      "B": "茵陈",
+      "C": "茯苓",
+      "D": "薏苡仁",
+      "E": "木通"
+    },
+    "answer": "A",
+    "question_mt": "3- Drugs with positive humidisation and active blood effects are:",
+    "option_mt": {
+      "A": "Tiger cane.",
+      "B": "Yin Chen.",
+      "C": "Psst.",
+      "D": "Jae-in.",
+      "E": "Muldoon."
+    }
+  },
+  {
+    "id": 6921,
+    "exam_type": "医技考试",
+    "exam_class": "医技士",
+    "exam_subject": "肿瘤学技术（士）",
+    "question": "如果γ射线入射到水中，则",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "10〜30keV光电效应占优势，30keV〜25MeV康普顿效应占优势，25〜100MeV电子对效应占优势",
+      "B": "10〜30keV康普顿效应占优势，30keV〜25MeV光电效应占优势，25〜100MeV电子对效应占优势",
+      "C": "10〜30keV电子对效应占优势，30keV〜25MeV康普顿效应占优势，25〜100MeV光电效应占优势",
+      "D": "10〜30keV光电效应占优势，30keV〜25MeV电子对效应占优势，25〜 100MeV康普顿效应占优势",
+      "E": "10〜30keV康普顿效应占优势，30keV〜25MeV电子对效应占优势，25〜 100MeV光电效应占优势"
+    },
+    "answer": "A",
+    "question_mt": "If gamma rays enter the water, then",
+    "option_mt": {
+      "A": "10 30keV photoelectric effects prevail, 30 V 25MeV Compton effects prevail, and 25 100 MeV e-reactions prevail.",
+      "B": "The 1030keV Compton effect prevailed, the 30V25MeV photoelectric effect prevailed, and the 25100MeV e-combative effect prevailed.",
+      "C": "10 30keV advantaged, 30 25MeV Compton advantaged, and 25 100 MeV PV dominated.",
+      "D": "10 30keV photoelectric effects prevail, 30 25MeV e-commercial effects prevail, and 25 100MeV Compton effects prevail.",
+      "E": "10 30keV Compton, 30 25MeV, 25  100 MeV PV."
+    }
+  },
+  {
+    "id": 6502,
+    "exam_type": "药师考试",
+    "exam_class": "主管中药师",
+    "exam_subject": "主管中药师",
+    "question": "体外诊断试剂的简写是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "R",
+      "B": "P",
+      "C": "OTC",
+      "D": "T",
+      "E": "H"
+    },
+    "answer": "D",
+    "question_mt": "The summary of the in vitro diagnostic reagent is:",
+    "option_mt": {
+      "A": "R!",
+      "B": "P",
+      "C": "OTC",
+      "D": "T-T-T-T-T-T-T-T-T-T-T-T-T-T-T-",
+      "E": "H."
+    }
+  },
+  {
+    "id": 7563,
+    "exam_type": "医技考试",
+    "exam_class": "医技师",
+    "exam_subject": "放射学技术（师）",
+    "question": "以下关于胃的说法，错误的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "胃可以分为贲门部、胃底、胃体、幽门部四部分",
+      "B": "胃小弯的最低处为角切迹",
+      "C": "胃小弯黏膜皱襞多为纵行",
+      "D": "幽门管位于幽门窦的左侧",
+      "E": "正常人胃型多为钩型"
+    },
+    "answer": "D",
+    "question_mt": "Here's what's wrong with the stomach.",
+    "option_mt": {
+      "A": "The stomachs can be divided into four parts: the hips, the stomach, the stomachs, the phantoms.",
+      "B": "The lower part of the stomach is an angular incision.",
+      "C": "The wrinkled frowns of the stomach are wrinkled and wrinkled.",
+      "D": "The phantom tube is on the left side of the phantom.",
+      "E": "A normal person's stomach is more of a hook."
+    }
+  },
+  {
+    "id": 9044,
+    "exam_type": "专业知识考试",
+    "exam_class": "预防医学与公共卫生学",
+    "exam_subject": "预防医学",
+    "question": "在实际工作中，生活方式干预的措施主要有",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "教育",
+      "B": "激励",
+      "C": "训练",
+      "D": "营销",
+      "E": "以上都是"
+    },
+    "answer": "E",
+    "question_mt": "In practice, lifestyle interventions include:",
+    "option_mt": {
+      "A": "Education",
+      "B": "Incentives",
+      "C": "Training",
+      "D": "Marketing",
+      "E": "That's all there is to it."
+    }
+  },
+  {
+    "id": 7783,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "康复医学与治疗主管技师",
+    "question": "关于复发性口疮炎的物理因子治疗，下列最佳的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "超短波",
+      "B": "毫米波",
+      "C": "脉冲磁",
+      "D": "紫外线",
+      "E": "电脑中频"
+    },
+    "answer": "D",
+    "question_mt": "With regard to the physical factors of relapsing oscillations, the best of which are as follows:",
+    "option_mt": {
+      "A": "Ultra-short wave.",
+      "B": "millimetre Waves",
+      "C": "Pulse Magnetic",
+      "D": "Ultraviolet",
+      "E": "Computer medium frequency"
+    }
+  },
+  {
+    "id": 2113,
+    "exam_type": "护理考试",
+    "exam_class": "护士执业资格",
+    "exam_subject": "护士执业资格考试",
+    "question": "妊娠55日要求终止妊娠，目前最常用的方法是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "负压吸宫术",
+      "B": "药物流产-口服米非司酮和米索前列醇",
+      "C": "静脉滴注缩宫素",
+      "D": "乳酸依沙吖啶羊膜腔内注射",
+      "E": "以上都不是"
+    },
+    "answer": "A",
+    "question_mt": "55 days of pregnancy requires termination of pregnancy, the most commonly used method at present is",
+    "option_mt": {
+      "A": "Negative pressure suction.",
+      "B": "Pharmacy abortion - oral mephoxone and Miso preol",
+      "C": "I.V.P.P.T.",
+      "D": "Injection of lactose in the membrane cavity.",
+      "E": "None of them."
+    }
+  },
+  {
+    "id": 4405,
+    "exam_type": "药师考试",
+    "exam_class": "初级药士",
+    "exam_subject": "药士初级考试",
+    "question": "降糖药格列吡嗪属于",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "短效胰岛素制剂",
+      "B": "长效胰岛素制剂",
+      "C": "α-葡萄糖苷酶抑制药",
+      "D": "超短效胰岛素制剂",
+      "E": "第二代磺酰脲类药物"
+    },
+    "answer": "E",
+    "question_mt": "The degenerative glycerine belongs to",
+    "option_mt": {
+      "A": "Short-acting insulin formulations",
+      "B": "Long-acting insulin formulation",
+      "C": "Alpha glucose enzyme inhibitor",
+      "D": "Ultra short insulin formulations",
+      "E": "2nd-generation sulfonyl platinum"
+    }
+  },
+  {
+    "id": 3985,
+    "exam_type": "药师考试",
+    "exam_class": "执业西药师",
+    "exam_subject": "执业西药师",
+    "question": "成人晨尿比重的参考范围是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "1.015～0.025",
+      "B": "1.005～1.015",
+      "C": "1.025～1.035",
+      "D": "1.010～1.030",
+      "E": "1.000～1.010"
+    },
+    "answer": "A",
+    "question_mt": "The point of reference for the weight of adult morning urine is:",
+    "option_mt": {
+      "A": "1.015 ~ 0.025",
+      "B": "1.005 ~ 1.015",
+      "C": "1.025 ~ 1.035",
+      "D": "1.010-1.30",
+      "E": "1.000-1.010"
+    }
+  },
+  {
+    "id": 1074,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question": "男，45岁。5年来每于餐后半小时出现上腹饱胀、疼痛，持续约2个小时后可自行缓解，常有反酸、嗳气、偶有大便颜色发黑。近期行上消化道X线钡剂造影提示胃窦小弯侧1cm大小壁外龛影，边缘光滑。该患者若手术治疗，常采用的术式是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "胃大部切除术（毕Ⅱ式吻合）",
+      "B": "胃大部切除术（毕Ⅰ式吻合）",
+      "C": "高选择性迷走神经切断术",
+      "D": "全胃切除术",
+      "E": "选择性迷走神经切除术"
+    },
+    "answer": "B",
+    "question_mt": "Men, 45 years old. Over the past five years, every half hour after meal, there's a swelling of the stomach, pain, and, after about two hours, it can be alleviated by itself, often with anti-acid acids, gas, and sometimes a black color of poop. The recent path of digestive X-line receptor suggests a one-cm radius on the side of the small bend of the stomach and a smooth side of the wall.",
+    "option_mt": {
+      "A": "Large stomach accelerosis.",
+      "B": "Large stomach accelerosis.",
+      "C": "High-opportunity neurological cut-off.",
+      "D": "Pulmonary accelerosis.",
+      "E": "Selective neurological removal."
+    }
+  },
+  {
+    "id": 5893,
+    "exam_type": "药师考试",
+    "exam_class": "初级中药师",
+    "exam_subject": "中药学（师）",
+    "question": "合称为“一源而三歧”的三种奇经之脉是指",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "督脉、任脉、带脉",
+      "B": "督脉、任脉、冲脉",
+      "C": "督脉、冲脉、带脉",
+      "D": "阳跷脉、阴维脉、阳维脉",
+      "E": "阴跷脉、阳跷脉、阴维脉"
+    },
+    "answer": "B",
+    "question_mt": "The three eccentric threads, collectively known as “one source and another”, are:",
+    "option_mt": {
+      "A": "The artery, the artery, the artery.",
+      "B": "He's got a pulse. He's got a pulse. He's got a pulse.",
+      "C": "Pane, pulse, pulse.",
+      "D": "The artery, the artery, the artery, the artery.",
+      "E": "The clitoris, the circulatory artery, the circulatory artery."
+    }
+  },
+  {
+    "id": 364,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "眼科",
+    "question": "我国致盲的最主要原因是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "角膜病",
+      "B": "青光眼",
+      "C": "白内障",
+      "D": "眼外伤",
+      "E": "视神经病"
+    },
+    "answer": "C",
+    "question_mt": "The most important reason for our blinding is",
+    "option_mt": {
+      "A": "Diagonal disease",
+      "B": "Cyan-Eye.",
+      "C": "Cataract",
+      "D": "An eye wound.",
+      "E": "Psychiatry."
+    }
+  },
+  {
+    "id": 10608,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question": "心率减慢（其他形成血压的因素不变）时，将增加的是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "动脉舒张压",
+      "B": "动脉收缩压",
+      "C": "平均动脉压",
+      "D": "心输出量",
+      "E": "动脉脉搏压"
+    },
+    "answer": "E",
+    "question_mt": "When heart rate slows down (other factors of blood pressure remain unchanged), what will be added",
+    "option_mt": {
+      "A": "Aneurysm pressure.",
+      "B": "An arterial contraction.",
+      "C": "Average arterial pressure",
+      "D": "Heart Output",
+      "E": "Aneurysm pressure."
+    }
+  },
+  {
+    "id": 9743,
+    "exam_type": "医学考研",
+    "exam_class": "护理学",
+    "exam_subject": "基础护理学",
+    "question": "呼吸和呼吸暂停交替出现称为",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "陈施氏呼吸",
+      "B": "毕奥呼吸",
+      "C": "鼾声呼吸",
+      "D": "库斯莫氏呼吸",
+      "E": "浮浅氏呼吸"
+    },
+    "answer": "B",
+    "question_mt": "It's called a staggering of breathing and breathing.",
+    "option_mt": {
+      "A": "Chen Sheng Breathing.",
+      "B": "Beyoll, breathe.",
+      "C": "Snoring and breathing.",
+      "D": "Cosmo's breathing.",
+      "E": "Breathe from the shallows."
+    }
+  },
+  {
+    "id": 4080,
+    "exam_type": "药师考试",
+    "exam_class": "执业中药师",
+    "exam_subject": "执业中药师",
+    "question": "体虚多汗者忌用",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "利湿药",
+      "B": "苦寒药",
+      "C": "寒凉药",
+      "D": "发汗药",
+      "E": "止汗药"
+    },
+    "answer": "D",
+    "question_mt": "The sweaty ones don't want to use it.",
+    "option_mt": {
+      "A": "Rheumatizer.",
+      "B": "A cold pill.",
+      "C": "Cold medicine.",
+      "D": "It's a sweat pill.",
+      "E": "It's a sweatkiller."
+    }
+  },
+  {
+    "id": 10613,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question": "B型超声（BUS)对哪种结石诊断准确率高",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "胆囊结石",
+      "B": "胆总管结石",
+      "C": "胆总管下端结石嵌顿",
+      "D": "肝内胆管结石",
+      "E": ""
+    },
+    "answer": "A",
+    "question_mt": "Type B ultrasound (Bus) has a high rate of accuracy as to which stone to diagnose.",
+    "option_mt": {
+      "A": "The gall-bladder stone.",
+      "B": "Courage pole stone.",
+      "C": "The lower end of the gall pipe is embedded in the rock.",
+      "D": "The cerebral stone in the liver.",
+      "E": ""
+    }
+  },
+  {
+    "id": 3900,
+    "exam_type": "药师考试",
+    "exam_class": "执业西药师",
+    "exam_subject": "执业西药师",
+    "question": "一般反应较轻，但仍可能引起过敏性休克的药物是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "阿卡波糖",
+      "B": "二甲双觚",
+      "C": "格列本脲",
+      "D": "胰岛素",
+      "E": "格列齐特"
+    },
+    "answer": "D",
+    "question_mt": "Drugs that are generally less responsive, but may still cause an allergic shock, are:",
+    "option_mt": {
+      "A": "A cappuccino.",
+      "B": "Two As and two As.",
+      "C": "Gregorium.",
+      "D": "Insulin",
+      "E": "Gretzit."
+    }
+  },
+  {
+    "id": 128,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "外科",
+    "question": "在腹股沟内环处结扎鞘膜突的手术方式适用于（ ）。",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "睾丸鞘膜积液",
+      "B": "精索鞘膜积液",
+      "C": "鞘膜积血",
+      "D": "睾丸精索鞘膜积液",
+      "E": "交通性鞘膜积液"
+    },
+    "answer": "E",
+    "question_mt": "The procedure for ligating the membrane around the groin is applicable ( ).",
+    "option_mt": {
+      "A": "Testicular membrane fluid.",
+      "B": "Precipitation membrane fluid",
+      "C": "I'm bleeding out of my membrane.",
+      "D": "Testicular contortion membrane.",
+      "E": "Transportable membrane fluid"
+    }
+  },
+  {
+    "id": 1188,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "中西医结合执业医师",
+    "question": "具有补火助阳功效的药物是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "附子",
+      "B": "干姜",
+      "C": "细辛",
+      "D": "花椒",
+      "E": "高良姜"
+    },
+    "answer": "A",
+    "question_mt": "The drug with the effect of a fire booster is...",
+    "option_mt": {
+      "A": "Attach",
+      "B": "Chrysotile.",
+      "C": "Xin.",
+      "D": "Pepper.",
+      "E": "Ko Liang Chon."
+    }
+  },
+  {
+    "id": 989,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question": "免疫应答发生的主要场所是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "淋巴管",
+      "B": "肝脏",
+      "C": "胸腺",
+      "D": "外周血",
+      "E": "淋巴结"
+    },
+    "answer": "E",
+    "question_mt": "The main place where the immune response takes place is",
+    "option_mt": {
+      "A": "lymph tubes.",
+      "B": "The liver.",
+      "C": "Prostate.",
+      "D": "Outside blood.",
+      "E": "lymph knots"
+    }
+  },
+  {
+    "id": 4059,
+    "exam_type": "药师考试",
+    "exam_class": "执业中药师",
+    "exam_subject": "执业中药师",
+    "question": "温热药性对人体的不良效应是",
+    "question_type": "单项选择题",
+    "option": {
+      "A": "伤阴",
+      "B": "败胃",
+      "C": "助湿",
+      "D": "伤阳",
+      "E": "以上皆非"
+    },
+    "answer": "A",
+    "question_mt": "The adverse effects of thermal properties on humans are:",
+    "option_mt": {
+      "A": "Wounded.",
+      "B": "I'm sick of my stomach.",
+      "C": "Wetting",
+      "D": "Sunshine.",
+      "E": "None of the above."
+    }
+  }
+]

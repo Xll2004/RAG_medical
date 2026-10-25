@@ -1,0 +1,197 @@
+{
+ "C1": {
+  "n_total": 200,
+  "n_excluded": 14,
+  "n_kept": 114,
+  "wrong": {
+   "n": 38,
+   "evidence": 9,
+   "claims": 15,
+   "grounding": {
+    "generic": 13,
+    "none": 16,
+    "evidence": 9
+   },
+   "claims_without_evidence": 6
+  },
+  "right": {
+   "n": 76,
+   "evidence": 10,
+   "claims": 18,
+   "grounding": {
+    "none": 36,
+    "generic": 29,
+    "evidence": 11
+   },
+   "claims_without_evidence": 8
+  }
+ },
+ "C2": {
+  "n_total": 200,
+  "n_excluded": 0,
+  "n_kept": 79,
+  "wrong": {
+   "n": 42,
+   "evidence": 8,
+   "claims": 16,
+   "grounding": {
+    "none": 11,
+    "evidence": 8,
+    "generic": 23
+   },
+   "claims_without_evidence": 8
+  },
+  "right": {
+   "n": 37,
+   "evidence": 7,
+   "claims": 13,
+   "grounding": {
+    "generic": 16,
+    "none": 12,
+    "evidence": 9
+   },
+   "claims_without_evidence": 7
+  }
+ },
+ "C3": {
+  "n_total": 200,
+  "n_excluded": 0,
+  "n_kept": 82,
+  "wrong": {
+   "n": 48,
+   "evidence": 9,
+   "claims": 15,
+   "grounding": {
+    "generic": 28,
+    "none": 11,
+    "evidence": 9
+   },
+   "claims_without_evidence": 7
+  },
+  "right": {
+   "n": 34,
+   "evidence": 9,
+   "claims": 11,
+   "grounding": {
+    "none": 13,
+    "generic": 12,
+    "evidence": 9
+   },
+   "claims_without_evidence": 3
+  }
+ },
+ "C3B": {
+  "n_total": 200,
+  "n_excluded": 0,
+  "n_kept": 79,
+  "wrong": {
+   "n": 47,
+   "evidence": 12,
+   "claims": 16,
+   "grounding": {
+    "generic": 22,
+    "evidence": 12,
+    "none": 13
+   },
+   "claims_without_evidence": 5
+  },
+  "right": {
+   "n": 32,
+   "evidence": 5,
+   "claims": 15,
+   "grounding": {
+    "none": 16,
+    "evidence": 5,
+    "generic": 11
+   },
+   "claims_without_evidence": 10
+  }
+ },
+ "C4": {
+  "n_total": 200,
+  "n_excluded": 0,
+  "n_kept": 88,
+  "wrong": {
+   "n": 44,
+   "evidence": 4,
+   "claims": 16,
+   "grounding": {
+    "none": 11,
+    "generic": 29,
+    "evidence": 4
+   },
+   "claims_without_evidence": 12
+  },
+  "right": {
+   "n": 44,
+   "evidence": 6,
+   "claims": 13,
+   "grounding": {
+    "generic": 18,
+    "evidence": 8,
+    "none": 18
+   },
+   "claims_without_evidence": 7
+  }
+ },
+ "C5": {
+  "n_total": 200,
+  "n_excluded": 0,
+  "n_kept": 85,
+  "wrong": {
+   "n": 41,
+   "evidence": 6,
+   "claims": 14,
+   "grounding": {
+    "generic": 17,
+    "none": 17,
+    "evidence": 7
+   },
+   "claims_without_evidence": 8
+  },
+  "right": {
+   "n": 44,
+   "evidence": 9,
+   "claims": 14,
+   "grounding": {
+    "generic": 18,
+    "none": 16,
+    "evidence": 10
+   },
+   "claims_without_evidence": 6
+  }
+ },
+ "pooled_evidence": {
+  "lowq": [
+   39,
+   222
+  ],
+  "c1": [
+   9,
+   38
+  ],
+  "p": 0.3698354993479755
+ },
+ "pooled_claims": {
+  "lowq": [
+   77,
+   222
+  ],
+  "c1": [
+   15,
+   38
+  ],
+  "p": 0.5852308480053197
+ },
+ "pooled_claims_without_evidence": {
+  "lowq": [
+   40,
+   222
+  ],
+  "c1": [
+   6,
+   38
+  ],
+  "p": 1.0
+ }
+}

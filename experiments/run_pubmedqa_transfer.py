@@ -1,0 +1,154 @@
+# run_pubmedqa_transfer.py
+# Transfer experiment where retrieval helps and gold evidence exists: PubMedQA (pqa_labeled), 200 questions
+# Pipeline: original EN question -> GPT-4o-mini translates to Chinese (simulating a Chinese user's question)
+#      -> C1: GPT-4o-mini back-translation (same prompt as the main experiment's translate_to_english_baseline)
+#      -> C2: opus-mt-zh-en (same model as the main experiment's translate.py)
+#      -> same FAISS index + all-MiniLM-L6-v2 top-3 retrieval; gold hit@3 computed by pubid
+#      -> 7 cells x 3 runs, temperature=0, majority vote
+# Resumable: all intermediate results are cached in pubmedqa_transfer_cache.json
+import os
+os.environ.setdefault("KMP_DUPLICATE_LIB_OK", "TRUE")
+os.environ.setdefault("OMP_NUM_THREADS", "1")
+import json, random
+from collections import Counter
+import numpy as np
+import faiss
+from dotenv import load_dotenv
+from openai import OpenAI
+from datasets import load_dataset
+from sentence_transformers import SentenceTransformer
+from transformers import MarianMTModel, MarianTokenizer
+
+load_dotenv()
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+CACHE = "results/pubmedqa_transfer_cache.json"
+OUT = "results/results_pubmedqa_transfer_200.json"
+N, SEED, K, RUNS = 200, 42, 3, 3
+
+cache = json.load(open(CACHE, encoding="utf-8")) if os.path.exists(CACHE) else {}
+def save():
+    json.dump(cache, open(CACHE, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+# ---------- 1. Sampling ----------
+if "items" not in cache:
+    ds = load_dataset("qiaojin/PubMedQA", "pqa_labeled", split="train")
+    idx = sorted(random.Random(SEED).sample(range(len(ds)), N))
+    cache["items"] = [{
+        "pubid": int(ds[i]["pubid"]),
+        "question_en": ds[i]["question"],
+        "gold_context": "\n\n".join(ds[i]["context"]["contexts"]),
+        "answer": ds[i]["final_decision"],          # yes / no / maybe
+    } for i in idx]
+    save()
+items = cache["items"]
+print("label dist:", Counter(x["answer"] for x in items))
+
+# ---------- 2. EN -> ZH (simulated Chinese question) ----------
+for x in items:
+    if "question_zh" not in x:
+        r = client.chat.completions.create(
+            model="gpt-4o-mini", temperature=0, max_tokens=300,
+            messages=[{"role": "user", "content":
+                "Translate this English medical question into natural Chinese as a Chinese clinician would ask it. "
+                f"Output only the Chinese question.\n\n{x['question_en']}"}])
+        x["question_zh"] = r.choices[0].message.content.strip()
+save()
+
+# ---------- 3. ZH -> EN: C1 (GPT-4o-mini) / C2 (opus-mt) ----------
+for x in items:
+    if "q_c1" not in x:
+        r = client.chat.completions.create(   # Verbatim identical to run_condition1.py
+            model="gpt-4o-mini", max_tokens=200,
+            messages=[{"role": "user", "content":
+                f"Translate this Chinese medical text to English accurately, preserving all medical terminology:\n\n{x['question_zh']}"}])
+        x["q_c1"] = r.choices[0].message.content.strip()
+if any("q_c2" not in x for x in items):
+    tok = MarianTokenizer.from_pretrained("Helsinki-NLP/opus-mt-zh-en")
+    mt = MarianMTModel.from_pretrained("Helsinki-NLP/opus-mt-zh-en")
+    for x in items:
+        if "q_c2" not in x:   # Same as translate.py
+            inp = tok([x["question_zh"]], return_tensors="pt", padding=True, truncation=True, max_length=512)
+            x["q_c2"] = tok.decode(mt.generate(**inp)[0], skip_special_tokens=True)
+save()
+
+# ---------- 4. Retrieval + gold hit@3 ----------
+if any("docs_c2" not in x for x in items):
+    # Encode with torch first, then load FAISS (on macOS both having OpenMP active at once segfaults)
+    enc = SentenceTransformer("all-MiniLM-L6-v2")
+    EMB = {qk: np.ascontiguousarray(enc.encode([x[qk] for x in items]), dtype="float32") for qk in ["q_c1", "q_c2"]}
+    del enc
+    print("Loading index and abstracts...")
+    faiss.omp_set_num_threads(1)
+    index = faiss.read_index("data/pubmed_index.faiss")
+    abstracts = json.load(open("data/pubmed_abstracts.json", encoding="utf-8"))
+    for qk, dk in [("q_c1", "docs_c1"), ("q_c2", "docs_c2")]:
+        _, I = index.search(EMB[qk], K)
+        for x, row in zip(items, I):
+            x[dk] = [abstracts[j]["text"] for j in row]
+            x[dk + "_pubids"] = [int(abstracts[j]["pubid"]) for j in row]
+    del abstracts
+    save()
+for c in ["c1", "c2"]:
+    hit = np.mean([x["pubid"] in x[f"docs_{c}_pubids"] for x in items])
+    print(f"gold hit@{K} {c.upper()}: {hit:.3f}")
+
+# ---------- 5. Answering (A/B/C mapped to yes/no/maybe, keeping the main experiment's single-letter format) ----------
+OPTS = {"A": "yes", "B": "no", "C": "maybe"}
+def ask(question, docs):
+    opts = "\n".join(f"{k}: {v}" for k, v in OPTS.items())
+    if docs is None:
+        prompt = f"""You are a medical expert. Answer the question.
+Only reply with a single letter (A, B, or C).
+
+Question: {question}
+
+Options:
+{opts}
+
+Answer:"""
+    else:
+        context = "\n\n".join(docs)   # Same as run_accuracy.py
+        prompt = f"""You are a medical expert. Based on the context below, select the correct answer.
+Only reply with a single letter (A, B, or C).
+
+Context:
+{context}
+
+Question: {question}
+
+Options:
+{opts}
+
+Answer:"""
+    r = client.chat.completions.create(model="gpt-4o-mini", messages=[{"role": "user", "content": prompt}],
+                                       max_tokens=5, temperature=0)
+    t = r.choices[0].message.content.strip()
+    return t[0].upper() if t else "X"
+
+CELLS = {
+    "c1q_none":   ("q_c1", None),
+    "c1q_gold":   ("q_c1", "gold"),
+    "c1q_c1docs": ("q_c1", "docs_c1"),
+    "c2q_none":   ("q_c2", None),
+    "c2q_gold":   ("q_c2", "gold"),
+    "c2q_c2docs": ("q_c2", "docs_c2"),
+    "c2q_c1docs": ("q_c2", "docs_c1"),
+}
+cache.setdefault("preds", {})
+for cell, (qk, dk) in CELLS.items():
+    if cell in cache["preds"]:
+        print(f"[skip] {cell}"); continue
+    votes = []
+    for x in items:
+        docs = None if dk is None else ([x["gold_context"]] if dk == "gold" else x[dk])
+        votes.append([ask(x[qk], docs) for _ in range(RUNS)])
+    preds = [Counter(v).most_common(1)[0][0] for v in votes]
+    cache["preds"][cell] = preds
+    save()
+    acc = np.mean([OPTS.get(p) == x["answer"] for p, x in zip(preds, items)])
+    print(f"=== {cell}: {acc:.3f} ===")
+
+# ---------- 6. Summary ----------
+correct = {c: [OPTS.get(p) == x["answer"] for p, x in zip(cache["preds"][c], items)] for c in CELLS}
+json.dump({"items": items, "correct": correct}, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+print("\nsaved", OUT)

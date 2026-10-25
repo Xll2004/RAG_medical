@@ -1,0 +1,2042 @@
+[
+  {
+    "id": 1939,
+    "question_zh": "呼吸衰竭时，二氧化碳潴留，下列变化哪项是不正确的",
+    "question_mt": "In case of respiratory failure, which of the following changes is not correct.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, such as '酸中毒' (acidosis) translated as 'acid poisoning', and the overall meaning shifts significantly with options like 'I don't know what I'm talking about' for '神志模糊' (confusion)."
+  },
+  {
+    "id": 432,
+    "question_zh": "晚期肺癌患者刘某，经抢救无效死亡。刘某的亲属对其死因以及医院的诊疗行为无异议，尸体随后火化。但两周后，刘某的家属以医院的抢救过程存在严重问题导致刘某死亡为由，向当地人民法院起诉。法院委托当地市医学会对本案进行医疗事故技术鉴定。鉴定专家应当",
+    "question_mt": "But two weeks later, Liu’s family sued the local people’s court for serious problems in the rescue process leading to Liu’s death. The court commissioned the local municipality’s medical board to carry out a technical medical accident evaluation of the case.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "There are terminology errors with phrases like 'medical behaviour' instead of 'medical practice', syntactic distortions in the structure of some sentences, and semantic drift where the meaning of certain options is not accurately conveyed."
+  },
+  {
+    "id": 4850,
+    "question_zh": "下列药物可用于治疗恶性贫血的是",
+    "question_mt": "The following drugs can be used to treat malignant anaemia:",
+    "error_types": [
+      "1"
+    ],
+    "explanation": "The term 'Red Cell Generater' is a mistranslation of '红细胞生成素', which should be 'Erythropoietin'."
+  },
+  {
+    "id": 4353,
+    "question_zh": "茎枝圆柱形，表面黄绿色或金黄色，节膨大，断面不平坦，髄部常偏向一边，叶对生于枝梢的药材是",
+    "question_mt": "Twisted cylindrical, yellow or yellow on the surface, condensed, uneven, tending to one side, and leaves for the medicine that comes out of the branch.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 3957,
+    "question_zh": "有较好证据支持的药物信息属于",
+    "question_mt": "Drug information with better evidence to support it.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'EBDIA类' and its variants are specific classifications that should be preserved in their original form, and the overall meaning of the question has shifted from a direct inquiry to a more passive statement."
+  },
+  {
+    "id": 2417,
+    "question_zh": "典型急性心梗与典型心绞痛患者在症状上最大的区别是",
+    "question_mt": "The greatest difference between the symptoms of a typical acute heart attack and those of a typical heartache patient is that",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'heartache' is incorrect for '心绞痛' (angina), leading to a semantic drift in the overall meaning."
+  },
+  {
+    "id": 1758,
+    "question_zh": "女性，29岁，右胸痛2周，伴发热38.5℃，有干咳。胸痛开始为尖锐针刺样，深呼吸时及咳嗽时加剧。近3日觉胸痛减轻，但活动后有气促。体检右下肺呼吸音减低，叩诊浊音。可能的诊断是",
+    "question_mt": "Females, 29 years old, right chest ache for 2 weeks, accompanied by a fever of 38.5 °C, coughing. Chest ache starts to sting with sharp needles and increases during deep breaths and coughs.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '大叶性肺炎' (lobar pneumonia) are mistranslated, and the overall meaning shifts with phrases like 'Right air chest' and 'Right breast cavity fluid' which do not accurately convey the intended medical conditions."
+  },
+  {
+    "id": 9582,
+    "question_zh": "患者喘息咳唾，胸背痛，短气，寸脉沉迟，关脉弦急者，治宜",
+    "question_mt": "Patients coughing and coughing, chest pains, short breaths, dilatory veins, arteries of arteries, cures.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 1467,
+    "question_zh": "三环类抗抑郁药的禁忌证不包括",
+    "question_mt": "The three-ring antidepressants are not covered by the taboo.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '三环类抗抑郁药' (tricyclic antidepressants) and '禁忌证' (contraindications) are mistranslated, and the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 10651,
+    "question_zh": "下列哪一项不符合肿瘤性生长",
+    "question_mt": "Which of the following does not match tumor growth?",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Medical terms like '肿瘤性生长' should be translated as 'tumor growth' instead of 'tumor growth' which is vague. Additionally, the structure of the options is awkward and does not convey the intended medical context."
+  },
+  {
+    "id": 7297,
+    "question_zh": "实施调强治疗时，加速器控制界面上的MUs表示",
+    "question_mt": "MUs on the accelerator control interface when intensive treatment is performed",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'MUs' is not clearly defined in the translation, leading to potential misunderstanding. Additionally, the phrase 'intensive treatment' does not accurately reflect the original meaning of '调强治疗', which refers to 'intensity-modulated treatment'."
+  },
+  {
+    "id": 543,
+    "question_zh": "我国政府参与签署的《烟草控制框架公约》（WHO FCTC），在我国正式生效的日期为",
+    "question_mt": "The Framework Convention on Tobacco Control (WHO FCTC), signed with the participation of my Government, entered into force in my country on the date of its entry into force",
+    "error_types": [
+      "2"
+    ],
+    "explanation": "The machine translation does not accurately convey the specific date of entry into force, as it states 'on the date of its entry into force' instead of providing the actual date."
+  },
+  {
+    "id": 511,
+    "question_zh": "关于血糖来源的叙述，错误的是",
+    "question_mt": "The story about the source of blood sugar is wrong.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '肝糖原' should be 'glycogen', '乳酸' should be 'lactic acid'), sentence structure is awkward, and the overall meaning has shifted significantly from the original question."
+  },
+  {
+    "id": 1580,
+    "question_zh": "视觉神经冲动经三级神经元传递的顺序是",
+    "question_mt": "The order in which the visual nerve impulse passes through the third degree neuron is:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '节细胞' should be 'ganglion cells', '光感受器细胞' should be 'photoreceptor cells'), and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 3870,
+    "question_zh": "2型肥胖型糖尿病者宜首选",
+    "question_mt": "Obesity type 2 diabetics are preferred",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., 'Grketone' instead of 'glimepiride', 'Two As and two As' instead of 'metformin'), and the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 4126,
+    "question_zh": "饮食不调最易损伤",
+    "question_mt": "It's easy to hurt if you don't adjust your diet.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '胆' (gallbladder) and '脾' (spleen) are mistranslated, and the overall meaning of the question has shifted from a specific context of dietary harm to a vague statement about hurting."
+  },
+  {
+    "id": 8827,
+    "question_zh": "卫生法学是20世纪60年代后期随着哪种医学模式的出现而产生的一门新兴的边缘学科",
+    "question_mt": "Health law is an emerging marginal discipline that emerged in the late 1960s with the emergence of a medical model.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'emerging marginal discipline' is not a standard medical term, and the translation of the medical model options does not accurately reflect the original Chinese terms, leading to a significant shift in meaning."
+  },
+  {
+    "id": 10930,
+    "question_zh": "有“方书之祖”之称的是",
+    "question_mt": "In the name of the Father of the Book,",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms and titles are mistranslated, leading to a significant shift in meaning."
+  },
+  {
+    "id": 457,
+    "question_zh": "稳定型股骨颈骨折是",
+    "question_mt": "Stabilized femur fracture.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning has shifted significantly from the original question."
+  },
+  {
+    "id": 9886,
+    "question_zh": "女性病人，85岁，因肺炎不治而死亡，诊断临床死亡标准是",
+    "question_mt": "Female patient, 85 years of age, died of pneumonia.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like 'reflections' and 'body' are mistranslated, and the overall meaning of the clinical death standards is lost."
+  },
+  {
+    "id": 3460,
+    "question_zh": "新生儿生理性黄疸自然消退的时间为",
+    "question_mt": "The time of natural degeneration of a newborn's physiology",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terminology is mistranslated (physiology to degeneration), and the overall meaning has shifted from a question about jaundice duration to an unrelated topic."
+  },
+  {
+    "id": 9575,
+    "question_zh": "湿温病过程中出现湿从寒化而见脘腹胀满，大便不爽，或溏泄，食少无味，苔白腻，或白腻而滑，脉缓。方用",
+    "question_mt": "Wet-temperature diseases occur in the course of which the hysteria is soaked from the cold that the hysteria is so full, the excruciating, or excruciating, tasteless, greasy, or greasy, and the pulse is so slow.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 7258,
+    "question_zh": "脉冲序列不包括",
+    "question_mt": "Pulse sequences don't include.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Some medical terms are mistranslated, and the overall meaning of the question has shifted from a specific inquiry about what is not included to a more general statement."
+  },
+  {
+    "id": 3905,
+    "question_zh": "根据《药品注册管理办法》，进一步验证药物对目标适应证患者的治疗作用和安全性的是",
+    "question_mt": "Further validation of the therapeutic role and safety of drugs for target-adaptation patients under the Medicines Register Management Scheme",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'target-adaptation patients' is not a standard medical term and may confuse readers. Additionally, the overall meaning of the original question is not accurately conveyed in the translation."
+  },
+  {
+    "id": 7745,
+    "question_zh": "平均每个核小体重复单位占DNA的长度约为",
+    "question_mt": "The average amount of DNA per nuclear small repeat unit is about",
+    "error_types": [
+      "2"
+    ],
+    "explanation": "The phrase 'nuclear small repeat unit' is awkward and does not accurately convey the intended meaning of '核小体重复单位', which refers to 'nucleosome repeat unit' in a biological context."
+  },
+  {
+    "id": 10627,
+    "question_zh": "负有对国家和本地区卫生政策咨询、伦理研究、对下级机构伦理委员会监督指导和对特殊重大项目的伦理审查批准等功能",
+    "question_mt": "In charge of advisory functions on national and regional health policies, ethical research, supervision of subordinate institutional ethics committees and approval of ethical reviews of special major projects",
+    "error_types": [
+      "1"
+    ],
+    "explanation": "Some medical terms may not accurately reflect the specific functions or types of committees in the original context."
+  },
+  {
+    "id": 4901,
+    "question_zh": "下列描述中不符合熔点判断的是",
+    "question_mt": "The following description does not correspond to the melting point:",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Some medical terms are mistranslated, such as '初熔' (initial melting) and '全熔' (full melting), and the sentence structure in some options is awkward or unclear."
+  },
+  {
+    "id": 117,
+    "question_zh": "患者男，78岁。因“中风”瘫痪半年，神志不清，近一月出现躯干、四肢红斑丘疹、丘疱疹，初起在四肢屈侧及腹部，予外用复方醋酸地塞米松乳膏等无效，皮疹增多加重，渐发展为红皮病样表现，表面大量鳞屑、结痂，有臭味。其护工一月前曾患“疥疮”，已治愈。诊断最可能是",
+    "question_mt": "The patient is a male, 78 years old. As a result of a six-month period of paralysis caused by a stroke, confusion, the recent appearance in January of a torso, a four-legged red rash, acne herpes, abdominal abdominal gluten, etc., which is not valid for external use of the combination acetic acetic cerebral cerebral creams, the increase in rash rashes, which has gradually become an expression of red-skinned disease, with a large amount of scabies and scabies on the surface and the smell of scabies.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '丘疹' as 'acne herpes' instead of 'papules'), sentence structure is broken (e.g., 'abdominal abdominal gluten'), and the overall meaning has shifted significantly (e.g., 'red-skinned disease' instead of 'erythroderma')."
+  },
+  {
+    "id": 2746,
+    "question_zh": "患者，男，82岁，习惯性便秘，遵医嘱行小量不保留灌肠，操作不当的是",
+    "question_mt": "Patients, men, 82 years old, habitual constipation, medically ordered not to keep enemas.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms like 'enema' and 'habitual constipation' are not accurately translated, the sentence structure is awkward, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 7309,
+    "question_zh": "由机器本身设计造成的半影包括",
+    "question_mt": "It's part of the machine's design.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '半影' (half-shadow) are mistranslated, and the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 5928,
+    "question_zh": "下列剂型属于主动靶向制剂的是",
+    "question_mt": "The following formulations are active target formulations:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '纳米球' (nanoparticle) and '靶向乳剂' (targeted emulsion) are mistranslated, and the overall meaning of 'active target formulations' is not accurately conveyed."
+  },
+  {
+    "id": 4896,
+    "question_zh": "口服具有抗凝效果的药物是",
+    "question_mt": "The oral anti-convulsive drug is...",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term '抗凝效果的药物' was incorrectly translated as 'anti-convulsive drug', which is a different category of medication. Additionally, the overall meaning of the question shifted from asking about anticoagulant drugs to a specific type of drug."
+  },
+  {
+    "id": 2678,
+    "question_zh": "饮食中含铁量最少的食物是",
+    "question_mt": "The least iron-bearing food in the diet is",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Some food items are mistranslated, such as '木耳' (which should be 'wood ear mushrooms' instead of 'mule') and '香菇' (which should be 'shiitake mushrooms' instead of 'shrooms'). Additionally, '海带' is translated as 'seaweed.' which is correct, but the period is unnecessary. The overall meaning of the options has shifted significantly due to these errors."
+  },
+  {
+    "id": 3806,
+    "question_zh": "为避免引起大面积中毒性表皮坏死松解症，服用前提倡做人体白细胞抗原等位基(HLA-B×1502)检测的抗癫痫药是",
+    "question_mt": "In order to avoid causing toxic surface hypothermia in a large area, pre-testing anti-epidemiological drugs such as HLA-Bx1502, which promote testing of human white cell antigens, are:",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '表皮坏死松解症' is incorrectly translated), sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 5868,
+    "question_zh": "珍珠药材的鉴别特征不包括",
+    "question_mt": "The identifying characteristics of pearls are not included.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "The term '珍珠药材' (pearl medicinal material) is mistranslated as 'pearls', leading to a loss of context. The sentence structure is awkward, and the overall meaning of the question is not accurately conveyed."
+  },
+  {
+    "id": 1753,
+    "question_zh": "316型不锈钢优点是",
+    "question_mt": "The advantage of type 316 stainless steel is...",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Some terms are mistranslated, and the sentence structure is awkward, leading to loss of clarity."
+  },
+  {
+    "id": 1564,
+    "question_zh": "下列阴道炎与雌激素低下有关的是",
+    "question_mt": "The following vaginal inflammation is related to the low estrogen.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., 'trichocercia' instead of 'trichomonas' for '滴虫') and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 6608,
+    "question_zh": "治疗实热积滞，大便燥结难下，首选的中药是",
+    "question_mt": "It's the first Chinese medicine to treat the heat. It's hard to get a lot of shit.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 1642,
+    "question_zh": "诊断原发性下肢深静脉瓣膜功能不全，最可靠的检查方法是",
+    "question_mt": "The most reliable method of detection is the incompetence of the pulmonary valves in the diagnosis of the preponderant lower limbs.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like 'incompetence of the pulmonary valves' and 'preponderant lower limbs' are incorrect, and the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 6256,
+    "question_zh": "氨苄西林在含乳酸根的复方氯化钠注射液中，氨苄西林的水解加快，其原因是",
+    "question_mt": "The hydrolysis of ammoniaicillin accelerated in a cotrimoxazole sodium chloride injection fluid containing the roots of emulsion, as a result of which",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms like '氨苄西林' (ampicillin) are mistranslated, the sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 5989,
+    "question_zh": "呈卵圆形，具三棱，表面灰黄色，内有三室，每室一粒种子，呈椭圆形，一端有种脐，另一端有种阜，此药材是",
+    "question_mt": "It's ovary, it's ambiguous, it's gray, it's yellow, it's three rooms, it's a seed in each room, it's an elliptical, it's a umbilical, it's a umbilical, it's a titanium, it's a potion.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "medical terms and concepts are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 10963,
+    "question_zh": "川牛膝与怀牛膝功效的主要不同点是",
+    "question_mt": "The main difference between the knuckles and the knees of the knuckles is...",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 4677,
+    "question_zh": "《ADR监测报告》报告程序应该是",
+    "question_mt": "The ADR monitoring report reporting procedure should be:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Some medical terms are mistranslated, and the overall meaning has shifted significantly, particularly with '越级报告制度' translated as 'Over-the-horizon reporting system' which is incorrect."
+  },
+  {
+    "id": 734,
+    "question_zh": "属于膀胱经的穴组是",
+    "question_mt": "The cave group that belongs to the bladder is...",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 7913,
+    "question_zh": "肥达反应是一种",
+    "question_mt": "Fatty's reaction is...",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term '肥达反应' is incorrectly translated as 'Fatty's reaction', which is a terminology error. Additionally, the overall meaning of the question is lost, as the translation does not convey the medical context properly."
+  },
+  {
+    "id": 9394,
+    "question_zh": "30-肝胆三焦之火循经上扰会造成",
+    "question_mt": "30- Combustion of the burning fire.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '肝胆三焦之火' are mistranslated, leading to a significant shift in meaning."
+  },
+  {
+    "id": 2176,
+    "question_zh": "患者男，70岁。因肾功能衰竭住院。护士观察其24小时尿量为360ml，该患者的排尿状况是",
+    "question_mt": "The patient is 70 years old. He is hospitalized for kidney failure.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms related to urine output are mistranslated, leading to a significant shift in meaning."
+  },
+  {
+    "id": 6585,
+    "question_zh": "制备片剂时，适用于油类和浸膏类药物的润滑剂是",
+    "question_mt": "For the preparation of tablets, the lubricant applicable to oil and ointment drugs is:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '硬脂酸镁' should be 'magnesium stearate', '聚乙二醇4000' should be 'polyethylene glycol 4000', and '氢化植物油' should be 'hydrogenated vegetable oil'). The overall meaning has shifted due to incorrect translations."
+  },
+  {
+    "id": 1327,
+    "question_zh": "耗氧量7ml/（kg·min）相当于多少MET",
+    "question_mt": "7ml/(kg.min) equivalent to MET",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'MET' is not translated, leading to a terminology error, and the overall meaning of the question is not conveyed accurately."
+  },
+  {
+    "id": 9708,
+    "question_zh": "行胸腔闭式引流术，哪项是错误的",
+    "question_mt": "What's wrong with the closed flow of the chest cavity?",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms like 'pleural cavity' and 'drainage tube' are mistranslated, sentence structure is awkward, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 5147,
+    "question_zh": "对药物的纯度要求为",
+    "question_mt": "The purity of the drug requires that",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Some medical terms are mistranslated, and the sentence structure in option D is awkward, leading to a loss of clarity."
+  },
+  {
+    "id": 6305,
+    "question_zh": "对于以下病症，氯丙嗪的疗效最好的是",
+    "question_mt": "The best cure for the following conditions is chlorpromium.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'chlorpromium' is incorrect; it should be 'chlorpromazine'. The translation of the options also contains terminology errors, such as 'Anxieties' instead of 'Anxiety' and 'Psychiatry' instead of 'Psychological tension', leading to a shift in meaning."
+  },
+  {
+    "id": 10359,
+    "question_zh": "走中国工业化道路的思想是党在社会主义建设道路初步探索中取得的理论成果之一。毛泽东在《论十大关系》中论述的第一大关系，即重工业、轻工业和农业的关系。在《关于正确处理人民内部矛盾的问题》一文中，毛泽东又明确提出要走一条中国工业化道路。毛泽东所说的中国工业化道路，是有别于",
+    "question_mt": "The idea of taking China’s path of industrialization is one of the theoretical achievements of the Party in the initial exploration of the path of socialist construction. Mao’s first relationship, the relationship between heavy industry, light industry, and agriculture, was discussed in the Ten-Year Relationships. Mao’s message on the right way to deal with people’s internal contradictions was clearly directed towards a path of Chinese industrialization. Mao’s reference to China’s path of industrialization is different.",
+    "error_types": [
+      "3"
+    ],
+    "explanation": "The machine translation does not fully capture the specific context and nuances of Mao's discussion on industrialization, leading to a potential shift in meaning."
+  },
+  {
+    "id": 3312,
+    "question_zh": "预防溶血反应的措施不包括",
+    "question_mt": "Measures to prevent soluble blood reactions do not include",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms like '溶血反应' (hemolytic reaction) are mistranslated, leading to a syntactic distortion and a significant shift in meaning."
+  },
+  {
+    "id": 1164,
+    "question_zh": "8个月男婴，一直母乳喂养，未添加辅食。近1月来出现面色苍白，查外周血象示小细胞低色素性贫血，白细胞和血小板正常。该患儿诊断首先考虑（ ）。",
+    "question_mt": "Eight-month-old boys have been breastfed without food supplements.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 773,
+    "question_zh": "老年习惯性便秘适当选取大肠俞、天枢、支沟、上巨虚外还应酌情加配",
+    "question_mt": "Old-age constipation should be suitable for intestines, entrails, ditches, and, where appropriate, for additions.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 4041,
+    "question_zh": "下列不属白痦表现的是",
+    "question_mt": "Here's something that's not white.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated and the overall meaning has shifted significantly from the original question."
+  },
+  {
+    "id": 5085,
+    "question_zh": "弱效利尿药作用于远曲小管末端和集合管，通过拮抗醛固酮受体，对抗醛固酮的保Na+排K+作用，阻滞钠通道而减少Na+的重吸收，抑制Na+-K+交换，使Na+和水排出增加而利尿。阻滞钠通道而减少Na+的重吸收，抑制Na+-K+交换的药物是",
+    "question_mt": "Weakly urinary medicine works at the end of small tubes and in the assembly tubes, fighting the effects of ellipsine steroids via antagonoid receptors, preventing the re-absorption of Na+ by blocking the sodium channel and discouraging the re-absorption of Na+-K+ exchange, causing the Na+ and the water to drain more urinately. The sodium barrier reduces the re-absorption of Na+-K+ by reducing the re-absorption of Na+-K+.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., 'ellipsine steroids' instead of 'aldosterone'), sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 1343,
+    "question_zh": "对诊断阴道葡萄状肉瘤最具有诊断意义的是",
+    "question_mt": "One of the most important diagnostics for diagnosing vine tumors in vagina.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms like 'vine tumors' and 'oncological tissue' are mistranslated, the sentence structure is awkward, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 4129,
+    "question_zh": "主含番泻苷A、B、C、D及芦荟大黄素双蒽酮苷成分的药材是",
+    "question_mt": "The main ingredients containing diazine A, B, C, D and thorium safrole are:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '番泻苷' and '芦荟大黄素双蒽酮苷' are mistranslated, leading to a significant shift in meaning."
+  },
+  {
+    "id": 1731,
+    "question_zh": "下列哪一种疾病可与Graves病伴发",
+    "question_mt": "Which of the following diseases can accompany Graves?",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 6611,
+    "question_zh": "药品的生产企业、经营企业或者医疗机构从无《药品生产许可证》、《药品经营许可证》的企业购进药品的，责令改正，没收违法购进的药品，并处罚款是违法购进药品货值金额的",
+    "question_mt": "The purchase of medicines by manufacturing enterprises, operating enterprises or medical institutions from enterprises that do not have a pharmaceutical production permit or a pharmaceutical operating licence is corrected by confiscation of medicines purchased in violation of the law, with a penalty of the value of medicines purchased in violation of the law.",
+    "error_types": [
+      "2",
+      "3"
+    ],
+    "explanation": "The sentence structure in the machine translation is awkward and convoluted, leading to a loss of clarity. Additionally, the overall meaning has shifted, particularly in the phrasing of penalties and the conditions under which they apply."
+  },
+  {
+    "id": 4898,
+    "question_zh": "糖酵解的最终产物是",
+    "question_mt": "The final product of gluten fermentation is",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'gluten fermentation' is incorrect for '糖酵解' (glycolysis), and the overall meaning has shifted from a question about glycolysis to fermentation."
+  },
+  {
+    "id": 7814,
+    "question_zh": "丙二酸对琥珀酸脱氢酶的抑制属于",
+    "question_mt": "The inhibition of acrylic acid to amber dehydrase belongs to",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term '丙二酸' is incorrectly translated as 'acrylic acid' instead of 'malonic acid', and the phrase '别构抑制' is incorrectly translated as 'Don't try to suppress it', which shifts the meaning significantly."
+  },
+  {
+    "id": 6359,
+    "question_zh": "关于医疗机构配制制剂，下列叙述错误的是",
+    "question_mt": "With regard to formulations prepared by medical institutions, the following is wrongly described:",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Some medical terms are mistranslated, and the sentence structure in option A is awkward, leading to potential confusion."
+  },
+  {
+    "id": 2795,
+    "question_zh": "葡萄胎患者随访时必须进行的检查项目是",
+    "question_mt": "The check-up project that must be carried out during the follow-up visit of the vine patient is:",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '诊断性刮宫' as 'Diagnosed shaver palace') and the sentence structure is awkward, leading to loss of meaning."
+  },
+  {
+    "id": 6449,
+    "question_zh": "下列哪个方剂主治下焦虚寒之膏淋、白浊",
+    "question_mt": "Which one of the following formulations will cure the ointment of the cold, the gloom.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 6186,
+    "question_zh": "下列药物中，属于血管紧张素转化酶抑制药的是",
+    "question_mt": "Among the following drugs, they are vascular tension-transformation enzyme inhibitors.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., 'vascular tension-transformation enzyme inhibitors' instead of 'angiotensin-converting enzyme inhibitors'), and the overall meaning has shifted significantly with nonsensical translations of drug names."
+  },
+  {
+    "id": 3697,
+    "question_zh": "苯甲酸附加剂的作用为",
+    "question_mt": "The effect of the benzoate adjunct is",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'benzoate adjunct' is incorrect; it should refer to 'benzoic acid additive'. Additionally, option D is mistranslated as 'Orthopaedics' instead of the correct 'flavoring agent', leading to a significant shift in meaning."
+  },
+  {
+    "id": 4718,
+    "question_zh": "药品广告须经",
+    "question_mt": "Advertisements for pharmaceuticals.",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Some medical terms are mistranslated, and the sentence structure in the options is awkward, leading to potential confusion."
+  },
+  {
+    "id": 1194,
+    "question_zh": "下列各穴中常用于保健并具有强壮作用的穴位是",
+    "question_mt": "The following caves are often used for health care and have a strong role to play:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '百会' should be 'Baihui', '肾俞' should be 'Shenxu', etc.), and the overall meaning has shifted significantly from 'acupoints' to 'caves'."
+  },
+  {
+    "id": 11111,
+    "question_zh": "患者胸胁疼痛，如灼如刺，胸闷不舒，呼吸不畅，或有闷咳，甚则迁延，经久不已，阴雨更甚，可见病侧胸廓变形，舌苔薄，质黯，脉弦。治当选用",
+    "question_mt": "The patient's chest pains, such as burns, strangulation, breathing, or coughing, are prolonged, and the rain is even worse. It can be seen that the side of the patient's chest is deformed, the tongue is thin, the skin is dark, the strung.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 2934,
+    "question_zh": "患者，男性，37岁，1年来每日发生空腹痛，进食后疼痛缓解。平时伴有恶心、打嗝、反酸，査体在剑突右侧有局限压痛，无反跳痛。做何种检查可以确诊",
+    "question_mt": "Patients, men, are 37 years old, have had daily empty abdominal pains for one year, and the pain after eating is alleviated.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., 'stomach mirror' for 'gastroscopy'), sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 9350,
+    "question_zh": "据《金匮要略》五脏病“各随其所不喜者为病”精神，肝阴血虚时最不喜",
+    "question_mt": "According to Goldblind, it's a disease that's “everyone's sick” and it's the worst thing that happens when his liver and blood go missing.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terminology is mistranslated (e.g., 'Goldblind' instead of 'Golden Chamber'), sentence structure is broken, and the overall meaning has shifted significantly from the original question."
+  },
+  {
+    "id": 4351,
+    "question_zh": "杭白芷根上部的形成层呈",
+    "question_mt": "The top form of the Hangbeth root is present.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'Hangbeth' is a mistranslation of '杭白芷', and the overall meaning of the question has shifted from describing a layer to a form."
+  },
+  {
+    "id": 2808,
+    "question_zh": "符合血友病正确描述的是",
+    "question_mt": "The correct description of hemophilia is:",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., 'celebratory enzyme ingredients' instead of 'coagulation factor'), and sentence structure is broken, leading to unclear meanings."
+  },
+  {
+    "id": 7961,
+    "question_zh": "心脏于半月瓣关闭至房室瓣开放之间为",
+    "question_mt": "The heart closes in half a month between the door and the door opens.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 6600,
+    "question_zh": "下列为妊娠禁用药的是",
+    "question_mt": "Here's what's forbidden for pregnancy.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 4766,
+    "question_zh": "能兴奋中枢神经系统的药物是",
+    "question_mt": "The drug that excites the central nervous system is...",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '地西泮' and '三唑仑' are mistranslated, and the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 9802,
+    "question_zh": "下列哪种情况一般不会出现体温过低",
+    "question_mt": "Which of the following do not normally show hypothermia.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '甲状腺功能亢进' should refer to hyperthyroidism, not goiter's inflammation), and the overall meaning of the question has shifted from asking about conditions that do not normally show hypothermia to a more general statement."
+  },
+  {
+    "id": 3889,
+    "question_zh": "维生素B2",
+    "question_mt": "Vitamin B2",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '黄素单核苷酸' should be 'flavin mononucleotide'), sentence structure is broken, and overall meaning has shifted significantly."
+  },
+  {
+    "id": 5667,
+    "question_zh": "醋炙时，一般每100kg药物用米醋",
+    "question_mt": "When you're jealous, you usually use rice vinegar for every 100 kg of drugs.",
+    "error_types": [
+      "3"
+    ],
+    "explanation": "The translation has shifted the meaning significantly, interpreting '醋炙时' (when using vinegar) as 'when you're jealous'."
+  },
+  {
+    "id": 940,
+    "question_zh": "成年女性，超声检查示：乳腺内无回声结构，边界清楚，壁薄，CDFI未见血流，考虑为",
+    "question_mt": "Adult women, ultrasound: no echo structure in breast, clear boundaries, thin walls, no blood flow in CDFI, considering",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Medical terms like '乳腺囊性癌' are mistranslated as 'Breast cyst cancer' instead of 'cystic carcinoma of the breast', and the sentence structure is awkward, leading to a loss of clarity."
+  },
+  {
+    "id": 4062,
+    "question_zh": "淋巴细胞分类计数参考范围是",
+    "question_mt": "The reference range for lymphocytes is:",
+    "error_types": [
+      "0"
+    ],
+    "explanation": "translation is accurate"
+  },
+  {
+    "id": 548,
+    "question_zh": "利水渗湿作用较强，治疗水湿停滞所致小便不利，水肿，泄泻，带下，宜首选",
+    "question_mt": "The leaching effect is strong, treating urinal disadvantages caused by the stagnating of water, swelling, leaking, carrying, preferred.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '利水渗湿' should refer to diuretic effects), sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 5522,
+    "question_zh": "具有解肌退热，升阳止泻功效的药物是",
+    "question_mt": "The drug with the decomposition of the muscles, the radiation effect, is...",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '解肌退热' should refer to 'relieving muscle tension and reducing fever'), sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 6956,
+    "question_zh": "下肢假肢安装的目的不包括",
+    "question_mt": "The purpose of the prostheses is not included.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '假肢' (prostheses) and '下肢' (lower limbs) are not accurately translated, and the overall meaning of the question has shifted from asking about purposes to stating a purpose."
+  },
+  {
+    "id": 4730,
+    "question_zh": "对器官能产生永久损伤的不良反应是",
+    "question_mt": "The negative response to permanent damage to organs is:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '不良反应' (adverse reactions) are mistranslated, and the overall meaning shifts from a question about adverse reactions to a statement about them."
+  },
+  {
+    "id": 1109,
+    "question_zh": "患者，女，32岁，已婚。下腹疼痛反复发作2个月，午后潮热，手足心热、月经量少，舌红，苔薄黄，脉细数。医证型、首选方药是下列哪一个",
+    "question_mt": "Patients, women, 32 years old, married. The lower abdominal pain is repeated for two months, with heat in the middle of the day, a low amount of heart and menstruation, tweed, mossy yellow, veins.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 3723,
+    "question_zh": "3-某种或某一类药物具有抑制病原菌生长繁殖能力，而无杀灭作用的药物称为",
+    "question_mt": "3- A drug or group of substances has the capacity to inhibit the growth and reproduction of pathogens, and is known as an incorrigible drug.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'incorrigible drug' is a mistranslation of the medical term for drugs that inhibit but do not kill pathogens, and the overall meaning has shifted from a specific type of drug to an incorrect classification."
+  },
+  {
+    "id": 10002,
+    "question_zh": "在辛亥革命爆发前，孙中山领导中国同盟会发动的武装起义中影响最大的是",
+    "question_mt": "The most influential part of the armed uprisings that Sun's China Alliance led before the Heinhe revolution broke out was",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'Intifada' is incorrectly used instead of 'uprising,' and the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 5509,
+    "question_zh": "需要采用水飞法炮制的药材是",
+    "question_mt": "The medicine that needs to be made by hydro-flying is...",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '石膏' (gypsum) and '朱砂' (cinnabar) are mistranslated, and the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 3755,
+    "question_zh": "影响药物分布的合用为",
+    "question_mt": "Shares of substances affecting drug distribution as",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '抗凝血药' as 'anticoagulant' is correct, but 'cytocin' is incorrect), sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 8713,
+    "question_zh": "关于下叶肺不张的X线表现，错误的是：",
+    "question_mt": "With regard to the X-line performance of the lower lobe lung, the error is:",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., 'X-line performance' instead of 'X-ray findings'), sentence structure is broken (e.g., 'the lungs are moving down' instead of 'the hilum is displaced downwards'), and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 6866,
+    "question_zh": "直立性低血压的表现不包括",
+    "question_mt": "It doesn't include the performance of a vertical low blood pressure.",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Medical terminology is mistranslated (e.g., 'vertical low blood pressure' instead of 'orthostatic hypotension'), and the sentence structure is broken."
+  },
+  {
+    "id": 7903,
+    "question_zh": "患者男性，43岁，心前区不适。运动平板试验中随负荷量的增加，收缩压逐渐下降，提示为",
+    "question_mt": "The patient is a 43-year-old man with a heart condition.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '心前区不适' and '收缩压' are mistranslated, leading to a significant shift in meaning."
+  },
+  {
+    "id": 2471,
+    "question_zh": "对3岁以上的儿童评估疼痛的程度时，选择的最佳工具是",
+    "question_mt": "The best tool chosen to assess the extent of pain in children over 3 years of age is",
+    "error_types": [
+      "1"
+    ],
+    "explanation": "Some medical terms are mistranslated, such as '道歉阈式评估工具' which should be 'threshold assessment tool' instead of 'apology threshold assessment tool'."
+  },
+  {
+    "id": 4683,
+    "question_zh": "氧氟沙星属于",
+    "question_mt": "The Oxyfluoride Star belongs to",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 2418,
+    "question_zh": "引起甲状腺功能亢进症的主要因素是",
+    "question_mt": "The main cause of thyroid hyperplasia is",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'hyperplasia' is incorrect; the original refers to 'hyperthyroidism'. Additionally, the overall meaning shifts as the question asks for causes, not just a single cause."
+  },
+  {
+    "id": 4384,
+    "question_zh": "远志除消散痈肿外，又能",
+    "question_mt": "In addition to dissipating swollen swollen swollen, you can.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 9888,
+    "question_zh": "颈外静脉输液后，用肝素封管，肝素的用量为",
+    "question_mt": "Hepatic tubes are sealed with hepatotons after the arterial fluids outside the neck.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term '肝素' (heparin) is mistranslated as 'hepatotons', and the overall meaning of the question has shifted significantly from asking about heparin dosage after intravenous fluid administration to an unclear statement about sealing tubes."
+  },
+  {
+    "id": 9455,
+    "question_zh": "下列哪一项不直接属于阴阳互根的关系",
+    "question_mt": "Which of the following doesn't belong directly to each other's roots.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terminology is mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 4648,
+    "question_zh": "糖酵解的最终产物是",
+    "question_mt": "The final product of gluten fermentation is",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'gluten fermentation' is incorrect for '糖酵解' (glycolysis), and the overall meaning has shifted from a question about glycolysis to fermentation."
+  },
+  {
+    "id": 10533,
+    "question_zh": "预防创伤性气性坏疽的最可靠方法是",
+    "question_mt": "The surest way to prevent traumatic anthrax.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term '气性坏疽' is incorrectly translated as 'anthrax' instead of 'gas gangrene', leading to a significant shift in meaning."
+  },
+  {
+    "id": 7404,
+    "question_zh": "12位（bit）的成像系统能提供的灰度级数为",
+    "question_mt": "The greyscale that 12 bits (bit) of imaging systems can provide is",
+    "error_types": [
+      "0"
+    ],
+    "explanation": "translation is accurate"
+  },
+  {
+    "id": 10508,
+    "question_zh": "全麻时，病人出现呕吐，为了避免呕吐物进入呼吸道，应置什么体位",
+    "question_mt": "At the end of the day, the patient is vomiting. In order to avoid vomiting into the respiratory tract, what position should we place?",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terminology is mistranslated (e.g., 'side bedroom' instead of 'side lying position'), sentence structure is broken (e.g., 'At the end of the day' is irrelevant), and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 6927,
+    "question_zh": "有关脊髓被膜和脊膜腔的描述，错误的是",
+    "question_mt": "The description of the spinal cord by the membrane and the membrane cavity was wrong.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., 'epidural gap' instead of 'epidural space'), sentence structure is broken, and overall meaning has shifted significantly."
+  },
+  {
+    "id": 6310,
+    "question_zh": "硫代乙酰胺检查重金属检查时的最佳的pH是",
+    "question_mt": "The best pH for thiomeric acetylamine inspection of heavy metals is",
+    "error_types": [
+      "1"
+    ],
+    "explanation": "The term 'thiomeric acetylamine' is a mistranslation of '硫代乙酰胺', which should be 'thioacetamide'."
+  },
+  {
+    "id": 3884,
+    "question_zh": "醋酸地塞米松片剂的含量测定方法是",
+    "question_mt": "The way to measure the content of the acetic acetic sermons.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 2397,
+    "question_zh": "下列哪种药物可以引起再生障碍性贫血",
+    "question_mt": "Which of the following drugs can cause regenerative anemia?",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '再生障碍性贫血' (aplastic anemia) and '硫喷妥钠' (thiopental sodium) are mistranslated, leading to a significant shift in meaning."
+  },
+  {
+    "id": 8903,
+    "question_zh": "医患关系是契约关系,表明",
+    "question_mt": "A medical relationship is a contractual relationship.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms and relationships are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 8595,
+    "question_zh": "骨显像的适应证不包括",
+    "question_mt": "Absorption certificates for bone imaging are not included.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '骨显像' (bone imaging) and '适应证' (indications) are mistranslated, leading to a significant shift in meaning."
+  },
+  {
+    "id": 1533,
+    "question_zh": "30岁男性，反复双眼睑浮肿伴夜尿增多2年，血压160/100mmHg，尿蛋白（+)，红细胞5～10个/HP，颗粒管型1～2/HP，血肌酐145μmol/L，血红蛋白85g/L，血清白蛋白32g/L。下列哪种药物本例不宜应用",
+    "question_mt": "Males aged 30 years with repeated eye swelling with an increase of 2 years in night urine, blood pressure 160/100 mmHg, urine protein (+), red cells 5-10/HP, particle tube type 1-2/HP, blood muscle anhydride 145 μmol/L, haemoglobin 85g/L, blood-free protein 32g/L.",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Medical terms such as 'blood muscle anhydride' and 'particle tube type' are mistranslated, and the sentence structure is awkward, leading to loss of clarity."
+  },
+  {
+    "id": 794,
+    "question_zh": "以下哪项不属于妊娠肿胀的范畴",
+    "question_mt": "Which of the following does not fall within the scope of pregnancy swelling?",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 1906,
+    "question_zh": "周期不规则的阴道流血，最多见于",
+    "question_mt": "Circumcisional vaginal bleeding, at best.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 2635,
+    "question_zh": "抗休克最首要的治疗措施是",
+    "question_mt": "The most important treatment against shock is...",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Some medical terms are mistranslated, such as '血管活性药物' which should be 'vasoactive drugs' instead of 'angioplastic drugs', and the structure of some sentences is awkward, leading to a loss of clarity."
+  },
+  {
+    "id": 2752,
+    "question_zh": "濒死期患者的临床表现是",
+    "question_mt": "The clinical evidence of dying patients is:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '临床表现' (clinical manifestations) are mistranslated as 'clinical evidence', and the overall meaning of the question has shifted from asking about clinical manifestations to stating a fact."
+  },
+  {
+    "id": 7301,
+    "question_zh": "导致X线照片运动模糊的因素，可暂时控制的是",
+    "question_mt": "The factors that obscure the movement of X-line photographs are controlled for the time being.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., 'X线' to 'X-line', '心脏搏动' to 'heart attack'), and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 10783,
+    "question_zh": "慢性支气管炎、肺气肿患者，血气分析结果为：pH 7.38，PaCO2 81mmHg,给予吸氧后，PaO2维持多少较为合适",
+    "question_mt": "Chronic bronchitis, pneumoconiosis, blood gas analysis results: pH 7.38, PaCO2 81 mmHg, which is more appropriate for PaO2 after oxygen is given",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "The term 'pneumoconiosis' is incorrect; it should refer to 'pulmonary emphysema'. The sentence structure is awkward, making the meaning unclear."
+  },
+  {
+    "id": 1065,
+    "question_zh": "患儿18个月。平日常有咳嗽，前日感冒，发热。体温38℃。胸片肺门有椭圆形阴影，边缘模糊。PPD红肿20mm。用何种治疗方案为最佳",
+    "question_mt": "18 months. Every day there's a cough, a cold the previous day, a fever. The body temperature is 38°C. The chest lung has an elliptical shadow and the edge is blurred. The PPD is 20 mm red.",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., 'chainicillin', 'aminoicillin', 'Acid thorium') and the sentence structure is broken, leading to loss of meaning."
+  },
+  {
+    "id": 6688,
+    "question_zh": "苦杏仁祛痰、镇咳、平喘作用的主要成分是",
+    "question_mt": "The main ingredients of almonds, coughs and asthma are:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '苦杏仁苷' (apricot glycoside) are mistranslated, and the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 6636,
+    "question_zh": "浓缩水丸的水分不得超过",
+    "question_mt": "The water from the condensed hydrates should not exceed",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term '浓缩水丸' is incorrectly translated as 'condensed hydrates', which is not a recognized medical term, leading to a significant shift in meaning."
+  },
+  {
+    "id": 10774,
+    "question_zh": "急性持续性腹痛、阵发性加剧并伴休克，最大可能是",
+    "question_mt": "Acute and continuing abdominal pain, increased flammation and accompanying shock, most likely",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '输尿管结石肾绞痛' to 'A urinary tube with a strangulation of the kidney' is incorrect), and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 8078,
+    "question_zh": "嵌合抗体是指",
+    "question_mt": "Embedded antibodies mean...",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '嵌合抗体' should be 'chimeric antibodies'), sentence structure is broken (e.g., 'in a chain of thugs' is nonsensical), and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 9262,
+    "question_zh": "患儿，3岁。证见发热，恶寒无汗，鼻塞流涕，微咳，兼见脘腹胀满，呕吐酸腐，口气秽浊，大便酸臭，小便短黄，舌质红，苔厚腻，脉滑。其证候是",
+    "question_mt": "The evidence is hot, cold, sweaty, snotty, small cough, full stomach, vomiting acid, salami, stench, urinal stench, short yellow, red tongue, thick moss, pulverized pulse.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning has shifted significantly from the original question."
+  },
+  {
+    "id": 4463,
+    "question_zh": "患者，男性，34岁。过度劳累后出现心慌、气短，心电图显示阵发性室性心动过速，宜选用的抗心律失常药物是",
+    "question_mt": "Patient, male, 34 years old. Overstretched and short. EKG shows an impregnable room velocity.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms and phrases are mistranslated or distorted, leading to a significant loss of meaning."
+  },
+  {
+    "id": 9729,
+    "question_zh": "下列哪种情况不需要留置导尿",
+    "question_mt": "Which of the following cases does not require a urinary tutorship:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 203,
+    "question_zh": "下列关于萎缩性鼻炎患者的说法不正确的是",
+    "question_mt": "The following is not correct with regard to the atrophy of nasitis.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms like '萎缩性鼻炎' (atrophic rhinitis) are mistranslated, leading to a syntactic distortion and significant semantic drift in the overall meaning."
+  },
+  {
+    "id": 2007,
+    "question_zh": "患者女，30岁。妊娠35周，因阴道流血就诊，诊断为前置胎盘，拟急行剖宫产收入院。护士首先应为患者做的是",
+    "question_mt": "The first thing a nurse should do for the patient is:",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Medical terms like 'flat-car' and 'purge' are mistranslated, and the structure of some sentences is awkward, leading to confusion."
+  },
+  {
+    "id": 9413,
+    "question_zh": "肾精化为生殖之精以施泄，依靠于",
+    "question_mt": "The kidney is turned into a reproductive glut, dependent on",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 4715,
+    "question_zh": "不是肛门栓剂具有的特点是",
+    "question_mt": "It's not anal embolism.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'anal embolism' is a mistranslation of 'anal suppository', and the overall meaning of the original question has shifted significantly."
+  },
+  {
+    "id": 5927,
+    "question_zh": "小蓟饮子的君药是",
+    "question_mt": "What's the medicine for a little tasting?",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning has shifted significantly from the original question."
+  },
+  {
+    "id": 1942,
+    "question_zh": "多囊卵巢综合征患者行诊断性刮宫时机应选择在",
+    "question_mt": "The time for diagnosis of multi-cystic ovaries syndrome patients should be chosen.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terminology is mistranslated (e.g., '多囊卵巢综合征' should be 'polycystic ovary syndrome'), sentence structure is awkward, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 5152,
+    "question_zh": "有关林可霉素的特点不正确的是",
+    "question_mt": "What's wrong with lincocycin?",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms like 'lincocycin' and 'golden-coloured gluten' are mistranslated; sentence structure is broken in several options; overall meaning has shifted significantly."
+  },
+  {
+    "id": 7508,
+    "question_zh": "关于数字疼痛评分法的叙述，正确的是",
+    "question_mt": "The description of the numeric pain scoring method is correct.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Some medical terms are mistranslated, and the overall meaning has shifted, particularly in the options where the nuances of pain assessment are lost."
+  },
+  {
+    "id": 2722,
+    "question_zh": "28岁已婚女性，性生活正常，婚后3年未孕，护士在指导其提高受孕率技巧时应除外",
+    "question_mt": "Married women at the age of 28 who have a normal sexual life and who have not been pregnant for three years after marriage, except in the case of nurses who provide guidance on their skills to increase pregnancy rates",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terminology is mistranslated (e.g., '提高受孕率技巧' should refer to 'skills to increase fertility' rather than 'skills to increase pregnancy rates'). The sentence structure is awkward and unclear, leading to a loss of meaning. The overall meaning has shifted significantly, making it difficult to understand the context of the question."
+  },
+  {
+    "id": 7819,
+    "question_zh": "软组织肿瘤中化疗有肯定价值的是",
+    "question_mt": "The positive value of chemotherapy in soft tissue tumors is:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, leading to a significant shift in meaning."
+  },
+  {
+    "id": 61,
+    "question_zh": "40岁，因月经量多、经期长就诊，超声检查如图，最可能的诊断为",
+    "question_mt": "At 40 years of age, due to high menstrual and long menstrual consultations, ultrasound tests are illustrated and the most likely diagnosis is",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '子宫内膜癌' as 'Uterine membrane cancer' instead of 'Endometrial cancer'), sentence structure is broken (e.g., 'high menstrual and long menstrual consultations'), and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 4659,
+    "question_zh": "对全身循环很差的休克患者，抢救时宜采用的给药途径",
+    "question_mt": "For patients with poor circulation, the proper method of delivery for rescue.",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Medical terms like '皮下注射' (subcutaneous injection) are mistranslated, and the sentence structure is broken, leading to loss of meaning."
+  },
+  {
+    "id": 8738,
+    "question_zh": "患者郑某，男，45岁，失血性休克。患者的脉搏特征是",
+    "question_mt": "The patient's pulse is characterized by hemorrhage.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terminology is mistranslated (e.g., 'hemorrhage' instead of 'pulse characteristics'), and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 3058,
+    "question_zh": "刘女士，已婚，停经45天，突然出现阴道少量出血伴下腹疼痛，疑似输卵管妊娠破裂，最适宜做的诊断性检查是",
+    "question_mt": "Ms. Liu, married, suspended for 45 days, suddenly haemorrhage of a small number of abdominal pains in the vagina, suspected of a break in the tubal gestation, the most appropriate diagnostic examination is",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., 'tubal gestation' instead of 'ectopic pregnancy'), sentence structure is broken (e.g., 'suspended for 45 days' is unclear), and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 8872,
+    "question_zh": "中等强度身体活动，代谢当量的范围值为",
+    "question_mt": "Medium-intensity body activity, range value of metabolic equivalent",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'metabolic equivalent' is not fully captured, and 'p.m.' is incorrectly added, altering the meaning."
+  },
+  {
+    "id": 1840,
+    "question_zh": "下列各项诊断胰岛素瘤的方法中，效果不佳的是",
+    "question_mt": "Among the following methods for diagnosing insulin tumors, the negative results are:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like 'insulin tumors' and 'Whipple三联征' are mistranslated, and the overall meaning of the question has shifted from asking for a method with poor effectiveness to indicating negative results."
+  },
+  {
+    "id": 5235,
+    "question_zh": "既能清热凉血，又能解毒消斑的药物是",
+    "question_mt": "It's a cure for both heat and cold blood and disinfection.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning has shifted significantly from the original question."
+  },
+  {
+    "id": 11106,
+    "question_zh": "1-病人饮冰啤酒后，脘腹痞胀不适，呃声振作，嗳气，舌象无异，脉弦，证属",
+    "question_mt": "1-A patient's cold beer, and he's not feeling well. Uh, cheering up, breathing, tongue-like, pulse-string, proof.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 3462,
+    "question_zh": "在护患非技术关系中最重要的内容是",
+    "question_mt": "The most important element in the non-technical relationship of care is",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term '利益关系' is translated as 'Interest' instead of 'Interest relations', which is inconsistent with the other options. Additionally, the overall meaning of the question is slightly altered due to the lack of clarity in the translation."
+  },
+  {
+    "id": 6510,
+    "question_zh": "下列关于川芎药理作用的叙述，不正确的是",
+    "question_mt": "The following is an incorrect account of the pharmacological effects of Kawachi.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., 'Kawachi' instead of 'Chuanxiong'), sentence structure is broken (e.g., 'Extended blood vessels, blood pressure' lacks clarity), and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 2777,
+    "question_zh": "患者，女，33岁。因卵巢功能障碍给予辅助生育技术治疗。使用促排卵药物后出现下腹胀痛、腹水，B型超声示卵巢明显增大，该患者首先考虑",
+    "question_mt": "The patient, female, is 33 years old.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '卵巢过度刺激综合征' should be 'Ovarian Hyperstimulation Syndrome'), and the overall meaning of the question is lost."
+  },
+  {
+    "id": 9465,
+    "question_zh": "阳明热证与阳明实证鉴别的要点为()。",
+    "question_mt": "The main elements of the positive and positive identification are ()",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms and concepts are mistranslated, leading to a significant shift in meaning."
+  },
+  {
+    "id": 9282,
+    "question_zh": "下列哪项不是肾失封藏的表现",
+    "question_mt": "Which of the following is not a sign of kidney loss?",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 12,
+    "question_zh": "下列哪一项不是咳嗽变异性哮喘的诊断依据（ ）。",
+    "question_mt": "Which of the following is not the basis for the diagnosis of coughing mutant asthma ( ).",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Medical terms like '咳嗽变异性哮喘' should be translated as 'cough-variant asthma' instead of 'coughing mutant asthma'. Additionally, the structure of some sentences is awkward, leading to confusion."
+  },
+  {
+    "id": 10842,
+    "question_zh": "具有透邪解郁，疏肝理脾功用的方剂是",
+    "question_mt": "It's a cure for delirium, spleen.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '透邪解郁' and '疏肝理脾' are mistranslated, leading to a significant shift in meaning."
+  },
+  {
+    "id": 5664,
+    "question_zh": "理气药中，松弛胃肠道平滑肌作用最强的药物是",
+    "question_mt": "One of the most powerful drugs in the laxative gastrointestinal tract smoothing muscles is",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terminology is mistranslated (e.g., 'laxative' instead of 'relaxing'), sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 8499,
+    "question_zh": "1-经腹壁膀胱检查时，膀胱前壁下常出现条带状弱回声伪像，产生这一伪像最有可能的原因是",
+    "question_mt": "1 - The most likely reason for the hypothermia was the presence of a weak echo under the front wall of the bladder, after examination of the bladder.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like 'hypothermia' are mistranslated, and the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 336,
+    "question_zh": "下列标本应该全部取材制片的是",
+    "question_mt": "The following specimens should all be made of material:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 1948,
+    "question_zh": "慢性胆囊炎的诊断依据中，不包括",
+    "question_mt": "The basis for the diagnosis of chronic cyborgitis is not included.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms like 'cyborgitis' and 'pusballs' are incorrect, sentence structure is distorted, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 6328,
+    "question_zh": "下列关于药品分区、分类管理说法不正确的是",
+    "question_mt": "The following is incorrect with regard to drug zoning, classification management:",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Some medical terms are mistranslated, and the sentence structure in some options is awkward or unclear."
+  },
+  {
+    "id": 5387,
+    "question_zh": "下列药物中，有助阳益阴、固涩下焦功效的是",
+    "question_mt": "Of the following drugs, those that contribute to the obsessiveness of the sun and are solidly combustible are:",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 4252,
+    "question_zh": "患者肌肤热，渴喜冷饮，汗热味咸而黏，烦躁不安，脉细数而无力，此属",
+    "question_mt": "The patient's skin is hot, thirsty, cold, sweaty and sticky, restless and frail.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms and concepts are mistranslated, leading to a significant shift in meaning."
+  },
+  {
+    "id": 974,
+    "question_zh": "平均数表示一群性质相同的变量值的__",
+    "question_mt": "Average indicates a group of variables of the same nature __",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Some terms are mistranslated, such as '离散趋势' (which should relate to 'dispersion' or 'variability') and '集中趋势' (which should relate to 'central tendency'). The overall meaning has shifted as 'average' does not directly indicate 'trends'."
+  },
+  {
+    "id": 4277,
+    "question_zh": "中药甘草具有抗炎、抗过敏的成分是",
+    "question_mt": "The Chinese herb has anti-inflammation, anti-allergen component.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like 'anti-inflammation' and 'anti-allergen' are not accurately translated, and the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 10006,
+    "question_zh": "2018年9月，中华人民共和国国务院新闻办公室发布了《关于中美经贸摩擦的事实与中方立场》白皮书。白皮书指出，中美两国经济发展阶段、经济制度不同，存在经贸摩擦是正常的，关键是",
+    "question_mt": "In September 2018, the Press Office of the State Council of the People ' s Republic of China issued a White Paper on the Facts and Position of China and the United States concerning Economic and Trade Frictions between China and the United States. The White Paper states that the economic development phases and economic systems of China and the United States are different.",
+    "error_types": [
+      "0"
+    ],
+    "explanation": "translation is accurate"
+  },
+  {
+    "id": 1325,
+    "question_zh": "以下哪个部门负责对医疗卫生机构的医疗废物管理工作实施监督",
+    "question_mt": "Which of the following departments is responsible for overseeing the management of medical waste in health-care institutions",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Some medical terms and phrases are awkwardly translated, and the sentence structure in the options is not fluid, leading to potential confusion."
+  },
+  {
+    "id": 1445,
+    "question_zh": "下列各项，属于“母病及子”的是",
+    "question_mt": "\"Mother and child\" is one of the following:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term '母病及子' is incorrectly translated as 'Mother and child', which misrepresents the medical context. Additionally, the overall meaning of the question has shifted, as it is asking which options belong to the category of 'mother disease affecting child', not simply stating 'Mother and child'."
+  },
+  {
+    "id": 8449,
+    "question_zh": "肾结核最严重的晚期并发症为",
+    "question_mt": "The most serious late-stage complications of kidney nodules are:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., 'kidney nodules' instead of 'kidney tuberculosis'), and the overall meaning has shifted significantly from complications to nodules."
+  },
+  {
+    "id": 1158,
+    "question_zh": "对乳磨牙实施窝沟封闭的最适宜年龄为",
+    "question_mt": "The most appropriate age for denture closure for mammothing is:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term '窝沟封闭' (fissure sealing) is mistranslated as 'denture closure', which is incorrect. Additionally, the overall meaning shifts from a question about dental treatment to an unclear context."
+  },
+  {
+    "id": 9324,
+    "question_zh": "瘰疬痰核形成的原因是",
+    "question_mt": "The reason why the nucleotide is formed is because...",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '瘰疬痰核' (nucleotide) are mistranslated, and the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 2191,
+    "question_zh": "高位肠梗阻易发生的酸碱失衡是",
+    "question_mt": "High intestinal infarction inhibits a high-predictable silicon imbalance:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like 'intestinal infarction' and 'silicon imbalance' are incorrect, and the overall meaning of the question has shifted significantly from the original."
+  },
+  {
+    "id": 2234,
+    "question_zh": "急性肺水肿的典型症状和体征是",
+    "question_mt": "The typical symptoms and signs of acute pulmonary edema are:",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., 'dry noises' instead of 'dry rales'), sentence structure is broken, and overall meaning has shifted significantly."
+  },
+  {
+    "id": 8234,
+    "question_zh": "下列哪种方法不包含在基因诊断技术方法中",
+    "question_mt": "Which of the following methods is not included in genetic diagnostic techniques:",
+    "error_types": [
+      "1"
+    ],
+    "explanation": "Some medical terms are mistranslated, such as '核酸杂交' which should be 'nucleic acid hybridization' and '基因芯片' which is more commonly referred to as 'gene chip' or 'microarray'."
+  },
+  {
+    "id": 9667,
+    "question_zh": "低钾性碱中毒出现于下列哪一种情况",
+    "question_mt": "Which of the following cases is low potassium alkali poisoning?",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '低钾性碱中毒' and '尿毒症' are mistranslated, and the overall meaning of the options has shifted significantly."
+  },
+  {
+    "id": 2836,
+    "question_zh": "脑疝",
+    "question_mt": "Cerebral aphids.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term '脑疝' is incorrectly translated as 'Cerebral aphids', which is a terminology error. Additionally, the overall meaning of the options has shifted, such as 'lower liver 3cm' which is unclear and incorrect."
+  },
+  {
+    "id": 4686,
+    "question_zh": "属于毒性中药的是",
+    "question_mt": "It's a toxic drug.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning has shifted significantly from the original question."
+  },
+  {
+    "id": 9235,
+    "question_zh": "1-混睛障证候是",
+    "question_mt": "The one-and-the-mortality test is...",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning of the original question has shifted significantly."
+  },
+  {
+    "id": 11037,
+    "question_zh": "根据目与五脏的对应关系，则白睛属",
+    "question_mt": "It's white, according to the relationship between the eye and the blood.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term '白睛' (white part of the eye) is mistranslated, and the overall meaning shifts from a medical context to a vague description."
+  },
+  {
+    "id": 7317,
+    "question_zh": "为确保临床检测过程和结果在偏差和精密度方面达到预定标准的质量工作称为",
+    "question_mt": "Quality work to ensure that clinical testing processes and results meet predetermined standards in terms of bias and accuracy",
+    "error_types": [
+      "0"
+    ],
+    "explanation": "translation is accurate"
+  },
+  {
+    "id": 3740,
+    "question_zh": "在水溶液中不稳定但易溶于水的药物适合制成哪种注射剂",
+    "question_mt": "Unstable but soluble water-based drugs in water solutions are suitable for which injections",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 9462,
+    "question_zh": "《素问•阴阳应象大论》“筋生心”的含义是",
+    "question_mt": "The meaning of Quasi-Yin-yang's Elephant is:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 3513,
+    "question_zh": "老年患者护理要点除外",
+    "question_mt": "Except for the point of care for the elderly",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms and concepts are mistranslated, leading to a significant shift in meaning."
+  },
+  {
+    "id": 5459,
+    "question_zh": "3-有利湿退黄、活血功效的药物是",
+    "question_mt": "3- Drugs with positive humidisation and active blood effects are:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '虎杖' should be 'Japanese knotweed' instead of 'Tiger cane'), and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 6921,
+    "question_zh": "如果γ射线入射到水中，则",
+    "question_mt": "If gamma rays enter the water, then",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Medical terms like 'photoelectric effect' and 'Compton effect' are mistranslated or distorted, and the sentence structure is broken, leading to confusion in meaning."
+  },
+  {
+    "id": 6502,
+    "question_zh": "体外诊断试剂的简写是",
+    "question_mt": "The summary of the in vitro diagnostic reagent is:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'in vitro diagnostic reagent' is not accurately summarized, and the overall meaning of the question has shifted from asking for an abbreviation to providing a summary."
+  },
+  {
+    "id": 7563,
+    "question_zh": "以下关于胃的说法，错误的是",
+    "question_mt": "Here's what's wrong with the stomach.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '贲门部' as 'hips', '幽门' as 'phantom'), sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 9044,
+    "question_zh": "在实际工作中，生活方式干预的措施主要有",
+    "question_mt": "In practice, lifestyle interventions include:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term '以上都是' is incorrectly translated as 'That's all there is to it,' which changes the meaning to imply that there are no other options, rather than indicating that all previous options are included."
+  },
+  {
+    "id": 7783,
+    "question_zh": "关于复发性口疮炎的物理因子治疗，下列最佳的是",
+    "question_mt": "With regard to the physical factors of relapsing oscillations, the best of which are as follows:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term '复发性口疮炎' is incorrectly translated as 'relapsing oscillations', which is a terminology error. Additionally, the overall meaning of the question has shifted significantly from asking about treatment options for a medical condition to a vague reference to physical factors."
+  },
+  {
+    "id": 2113,
+    "question_zh": "妊娠55日要求终止妊娠，目前最常用的方法是",
+    "question_mt": "55 days of pregnancy requires termination of pregnancy, the most commonly used method at present is",
+    "error_types": [
+      "1",
+      "2"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., 'mephoxone' instead of 'mifepristone', 'Miso preol' instead of 'misoprostol', and 'I.V.P.P.T.' is unclear). The sentence structure is also awkward and unclear."
+  },
+  {
+    "id": 4405,
+    "question_zh": "降糖药格列吡嗪属于",
+    "question_mt": "The degenerative glycerine belongs to",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term '格列吡嗪' is incorrectly translated as 'degenerative glycerine', which is a terminology error. Additionally, the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 3985,
+    "question_zh": "成人晨尿比重的参考范围是",
+    "question_mt": "The point of reference for the weight of adult morning urine is:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "The term 'weight' is incorrect; it should refer to 'specific gravity' or 'density'. Additionally, the translation of the reference range contains errors in the numerical values, leading to a significant shift in meaning."
+  },
+  {
+    "id": 1074,
+    "question_zh": "男，45岁。5年来每于餐后半小时出现上腹饱胀、疼痛，持续约2个小时后可自行缓解，常有反酸、嗳气、偶有大便颜色发黑。近期行上消化道X线钡剂造影提示胃窦小弯侧1cm大小壁外龛影，边缘光滑。该患者若手术治疗，常采用的术式是",
+    "question_mt": "Men, 45 years old. Over the past five years, every half hour after meal, there's a swelling of the stomach, pain, and, after about two hours, it can be alleviated by itself, often with anti-acid acids, gas, and sometimes a black color of poop. The recent path of digestive X-line receptor suggests a one-cm radius on the side of the small bend of the stomach and a smooth side of the wall.",
+    "error_types": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '胃大部切除术' as 'Large stomach accelerosis'), sentence structure is broken, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 5893,
+    "question_zh": "合称为“一源而三歧”的三种奇经之脉是指",
+    "question_mt": "The three eccentric threads, collectively known as “one source and another”, are:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning has shifted significantly from the original question."
+  },
+  {
+    "id": 364,
+    "question_zh": "我国致盲的最主要原因是",
+    "question_mt": "The most important reason for our blinding is",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '角膜病' (corneal disease) and '青光眼' (glaucoma) are mistranslated, and the phrase 'our blinding' shifts the meaning significantly."
+  },
+  {
+    "id": 10608,
+    "question_zh": "心率减慢（其他形成血压的因素不变）时，将增加的是",
+    "question_mt": "When heart rate slows down (other factors of blood pressure remain unchanged), what will be added",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '动脉舒张压' as 'Aneurysm pressure' is incorrect), and the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 9743,
+    "question_zh": "呼吸和呼吸暂停交替出现称为",
+    "question_mt": "It's called a staggering of breathing and breathing.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning has shifted significantly from the original question."
+  },
+  {
+    "id": 4080,
+    "question_zh": "体虚多汗者忌用",
+    "question_mt": "The sweaty ones don't want to use it.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning of the original question has shifted significantly."
+  },
+  {
+    "id": 10613,
+    "question_zh": "B型超声（BUS)对哪种结石诊断准确率高",
+    "question_mt": "Type B ultrasound (Bus) has a high rate of accuracy as to which stone to diagnose.",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '胆囊结石' as 'gall-bladder stone' is correct, but '胆总管结石' as 'Courage pole stone' is incorrect). The overall meaning has shifted as the question about diagnostic accuracy is misrepresented."
+  },
+  {
+    "id": 3900,
+    "question_zh": "一般反应较轻，但仍可能引起过敏性休克的药物是",
+    "question_mt": "Drugs that are generally less responsive, but may still cause an allergic shock, are:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning has shifted significantly."
+  },
+  {
+    "id": 128,
+    "question_zh": "在腹股沟内环处结扎鞘膜突的手术方式适用于（ ）。",
+    "question_mt": "The procedure for ligating the membrane around the groin is applicable ( ).",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, leading to significant shifts in meaning."
+  },
+  {
+    "id": 1188,
+    "question_zh": "具有补火助阳功效的药物是",
+    "question_mt": "The drug with the effect of a fire booster is...",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated (e.g., '附子' should be 'Aconite', '干姜' should be 'Dried Ginger', etc.), and the overall meaning of the question has shifted significantly."
+  },
+  {
+    "id": 989,
+    "question_zh": "免疫应答发生的主要场所是",
+    "question_mt": "The main place where the immune response takes place is",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms like '胸腺' (thymus) are mistranslated as 'Prostate', and '淋巴结' (lymph nodes) is incorrectly translated as 'lymph knots', leading to significant meaning shifts."
+  },
+  {
+    "id": 4059,
+    "question_zh": "温热药性对人体的不良效应是",
+    "question_mt": "The adverse effects of thermal properties on humans are:",
+    "error_types": [
+      "1",
+      "3"
+    ],
+    "explanation": "Medical terms are mistranslated, and the overall meaning has shifted significantly."
+  }
+]

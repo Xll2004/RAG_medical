@@ -1,0 +1,22 @@
+label dist: {'yes': 101, 'no': 72, 'maybe': 27}
+gold hit@3 C1: 0.730
+gold hit@3 C2: 0.450
+
+accuracy: {'c1q_none': np.float64(48.0), 'c1q_gold': np.float64(69.5), 'c1q_c1docs': np.float64(47.0), 'c2q_none': np.float64(40.5), 'c2q_gold': np.float64(67.0), 'c2q_c2docs': np.float64(40.5), 'c2q_c1docs': np.float64(45.0)}
+
+--- 检索是否有用（证据依赖性） ---
+C1q: C1 docs vs none                    47.0 -  48.0 =  -1.0  95% CI [ -8.0,  +6.0]  b/c 25/27  p = 0.8899
+C1q: gold vs none                       69.5 -  48.0 = +21.5  95% CI [+13.5, +29.5]  b/c 59/16  p = 0.0000
+C2q: C2 docs vs none                    40.5 -  40.5 =  +0.0  95% CI [ -7.0,  +7.0]  b/c 27/27  p = 1.0000
+
+--- 端到端差距与分解 ---
+C1 vs C2 (end-to-end)                   47.0 -  40.5 =  +6.5  95% CI [ -1.0, +14.0]  b/c 37/24  p = 0.1237
+question effect, no docs                48.0 -  40.5 =  +7.5  95% CI [ +1.5, +14.0]  b/c 29/14  p = 0.0315
+question effect, gold docs              69.5 -  67.0 =  +2.5  95% CI [ -2.0,  +7.0]  b/c 13/8  p = 0.3833
+question effect, C1 docs                47.0 -  45.0 =  +2.0  95% CI [ -4.0,  +8.0]  b/c 22/18  p = 0.6358
+passage effect, C2 question             45.0 -  40.5 =  +4.5  95% CI [ -1.5, +10.5]  b/c 23/14  p = 0.1877
+
+--- 按 C2 是否检索到 gold 分组 ---
+C1 hit, C2 hit   n= 83  C1  49.4  C2  44.6  C2q+C1docs  49.4
+C1 hit, C2 miss  n= 63  C1  49.2  C2  39.7  C2q+C1docs  44.4
+C1 miss          n= 54  C1  40.7  C2  35.2  C2q+C1docs  38.9

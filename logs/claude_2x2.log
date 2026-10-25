@@ -1,0 +1,23 @@
+[skip] claude_c1q_none 已完成
+claude_c1q_c1docs run 1: acc 0.750  invalid 0  fallback 2
+claude_c1q_c1docs run 2: acc 0.750  invalid 0  fallback 3
+claude_c1q_c1docs run 3: acc 0.755  invalid 0  fallback 3
+=== claude_c1q_c1docs majority: 0.750  (fallback per run: [2, 3, 3]) ===
+claude_c2q_none run 1: acc 0.630  invalid 1  fallback 10
+claude_c2q_none run 2: acc 0.635  invalid 1  fallback 10
+claude_c2q_none run 3: acc 0.640  invalid 1  fallback 9
+=== claude_c2q_none majority: 0.630  (fallback per run: [10, 10, 9]) ===
+claude_c2q_c2docs run 1: acc 0.535  invalid 2  fallback 3
+claude_c2q_c2docs run 2: acc 0.535  invalid 2  fallback 3
+claude_c2q_c2docs run 3: acc 0.535  invalid 2  fallback 3
+=== claude_c2q_c2docs majority: 0.535  (fallback per run: [3, 3, 3]) ===
+claude_c2q_c1docs run 1: acc 0.625  invalid 1  fallback 2
+claude_c2q_c1docs run 2: acc 0.625  invalid 1  fallback 2
+claude_c2q_c1docs run 3: acc 0.625  invalid 1  fallback 2
+=== claude_c2q_c1docs majority: 0.625  (fallback per run: [2, 2, 2]) ===
+claude_c1q_c2docs run 1: acc 0.765  invalid 0  fallback 1
+claude_c1q_c2docs run 2: acc 0.770  invalid 0  fallback 1
+claude_c1q_c2docs run 3: acc 0.770  invalid 0  fallback 1
+=== claude_c1q_c2docs majority: 0.770  (fallback per run: [1, 1, 1]) ===
+
+all cells done: ['claude_c1q_none', 'claude_c1q_c1docs', 'claude_c2q_none', 'claude_c2q_c2docs', 'claude_c2q_c1docs', 'claude_c1q_c2docs']

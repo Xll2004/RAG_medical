@@ -1,0 +1,43 @@
+=== M5 / DA1：MT 题干下，C2 docs 是否比随机文档更有害（coherence 的关键检验）===
+gpt_c2q_random   - C2                42.0 -  34.0 =  +8.0  95% CI [ +3.0, +13.5]  b/c 23/7  p = 0.0052
+interaction vs random: (C2q:rand-C2d) - (C1q:rand-C2d)     DiD =  +5.0  95% CI [ -1.0, +11.0]
+interaction vs C1 docs (论文现有的 9.5)                         DiD =  +9.5  95% CI [ +2.5, +16.5]
+
+=== M3：prompt 一致的题干效应（随机文档格子与检索格子用同一 prompt）===
+gpt_c1q_random   - gpt_c2q_random    55.5 -  42.0 = +13.5  95% CI [ +7.5, +20.0]  b/c 36/9  p = 0.0001
+C1               - gpt_c2q_c1docs    55.0 -  46.0 =  +9.0  95% CI [ +2.5, +15.5]  b/c 32/14  p = 0.0114
+
+=== M4：Shapley 分解（含检索的 2x2：题干 {C1,C2} x 证据 {C1 docs, C2 docs}）===
+GPT-4o-mini  query     +13.75  95% CI [ +8.2, +19.5]  (65% of 21.0)
+GPT-4o-mini  passages  +7.25  95% CI [ +3.5, +11.0]  (35% of 21.0)
+Claude       query     +18.00  95% CI [+12.5, +23.5]  (84% of 21.5)
+Claude       passages  +3.50  95% CI [ +0.2,  +7.0]  (16% of 21.5)
+
+=== M1 / M2：'没有效果' 的说法 -> 配对差值 CI（关键两条加 TOST ±5）===
+C3               - gpt_c3q_c2docs    38.5 -  39.0 =  -0.5  95% CI [ -5.0,  +4.5]  b/c 11/12  p = 1.0000  | TOST ±5: 90% CI [-4.5, +3.5] -> equivalent
+C5               - gpt_c5q_c2docs    43.5 -  43.5 =  +0.0  95% CI [ -5.0,  +4.5]  b/c 12/12  p = 1.0000  | TOST ±5: 90% CI [-4.0, +4.0] -> equivalent
+C1               - C1P               55.0 -  55.5 =  -0.5  95% CI [ -5.5,  +4.5]  b/c 13/14  p = 1.0000  | TOST ±5: 90% CI [-5.0, +3.5] -> equivalent
+C1               - gpt_c1q_none      55.0 -  59.5 =  -4.5  95% CI [ -9.0,  +0.0]  b/c 7/16  p = 0.0931
+cl_c1q_c1docs    - cl_c1q_none       75.0 -  80.5 =  -5.5  95% CI [-10.5,  -0.5]  b/c 7/18  p = 0.0433
+gpt_c1q_random   - gpt_c1q_none      55.5 -  59.5 =  -4.0  95% CI [ -7.5,  -0.5]  b/c 3/11  p = 0.0574
+gpt_c2q_c1docs   - gpt_c2q_none      46.0 -  44.0 =  +2.0  95% CI [ -4.0,  +8.5]  b/c 22/18  p = 0.6358
+gpt_c2q_random   - gpt_c2q_none      42.0 -  44.0 =  -2.0  95% CI [ -6.5,  +2.5]  b/c 9/13  p = 0.5235
+
+=== M6：三次运行的一致率（三票完全相同的题目比例）===
+gpt    c1q_none             96.5%
+gpt    c1q_c1docs           98.5%
+gpt    c1q_c2docs           96.0%
+gpt    c1q_c3docs           95.5%
+gpt    c1q_c5docs           96.5%
+gpt    c1q_random           96.5%
+gpt    c2q_none             94.0%
+gpt    c3q_c2docs           97.0%
+gpt    c5q_c2docs           94.5%
+gpt    c2q_c1docs           96.0%
+gpt    c2q_random           96.5%
+claude claude_c1q_none      99.5%
+claude claude_c1q_c1docs    99.0%
+claude claude_c2q_none      98.5%
+claude claude_c2q_c2docs    99.0%
+claude claude_c2q_c1docs    99.0%
+claude claude_c1q_c2docs    98.5%

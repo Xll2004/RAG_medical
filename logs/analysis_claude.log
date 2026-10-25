@@ -1,0 +1,55 @@
+======================================================================
+Exp 1: evidence attribution (claude)
+======================================================================
+
+[exp1_attribution_claude.json]
+cell         wrong  cite verif %verif|wrong   right %verif|right  evid-backed wrong /200
+c1q_c1docs      50     6     6        12.0%     150         4.7%                       6
+c1q_c2docs      46     1     1         2.2%     154         3.2%                       1
+c2q_c1docs      75     8     8        10.7%     125        11.2%                       8
+c2q_c2docs      93     6     6         6.5%     107         6.5%                       6
+  C2/C2 vs c1q_c1docs: %verified|wrong Fisher p = 0.343;  evidence-backed wrong (paired) b/c 3/3, p = 1.000
+  C2/C2 vs c1q_c2docs: %verified|wrong Fisher p = 0.425;  evidence-backed wrong (paired) b/c 5/0, p = 0.062
+  C2/C2 vs c2q_c1docs: %verified|wrong Fisher p = 0.404;  evidence-backed wrong (paired) b/c 3/5, p = 0.727
+
+[exp1_attribution_claude_neutral.json]
+cell         wrong  cite verif %verif|wrong   right %verif|right  evid-backed wrong /200
+c1q_c1docs      50     7     7        14.0%     150        10.7%                       7
+c1q_c2docs      46     4     4         8.7%     154         5.2%                       4
+c2q_c1docs      75    10    10        13.3%     125        18.4%                      10
+c2q_c2docs      93     6     6         6.5%     107        10.3%                       6
+  C2/C2 vs c1q_c1docs: %verified|wrong Fisher p = 0.220;  evidence-backed wrong (paired) b/c 3/4, p = 1.000
+  C2/C2 vs c1q_c2docs: %verified|wrong Fisher p = 0.730;  evidence-backed wrong (paired) b/c 3/1, p = 0.625
+  C2/C2 vs c2q_c1docs: %verified|wrong Fisher p = 0.186;  evidence-backed wrong (paired) b/c 3/7, p = 0.344
+
+======================================================================
+Exp 3: translation-quality (QE) score as a failure predictor (claude judge)
+======================================================================
+  mean QE C1   =  87.3   (fallback 6)
+  mean QE C1P  =  91.6   (fallback 2)
+  mean QE C2   =  44.6   (fallback 58)
+  mean QE C3   =  45.1   (fallback 56)
+  mean QE C3B  =  42.3   (fallback 69)
+  mean QE C4   =  45.1   (fallback 51)
+  mean QE C5   =  54.2   (fallback 48)
+
+  retrieval: Spearman(QE, Jaccard with C1 passages), pooled C2-C5 (n=1000): rho = 0.481, p = 4.4e-59
+  retrieval: same, C2 only (n=200): rho = 0.445, p = 4.3e-11
+
+  answers (C1-correct questions, pooled C2-C5, n=550 query-question pairs, 226 failures): AUC = 0.741 [0.668, 0.806]
+  answers (C1-correct, C2 only, n=110, 49 failures): AUC = 0.740 [0.642, 0.825]
+  threshold 50: below n=298 acc=41.9% Jaccard=0.061 | at/above n=252 acc=79.0% Jaccard=0.290
+  threshold 70: below n=355 acc=45.9% Jaccard=0.083 | at/above n=195 acc=82.6% Jaccard=0.316
+
+======================================================================
+Memorization probe (claude)
+======================================================================
+  self-report: {'unsure': 170, 'yes': 30}
+  option E reproduced exactly: 34/200
+  flagged as possibly memorized (exact E or self-report yes): 56
+  GPT-4o-mini C1-C2    all          n=200  acc 55.0% vs 34.0%  gap = +21.0 [+14.0, +27.5]
+  GPT-4o-mini C1-C2    flagged      n= 56  acc 58.9% vs 37.5%  gap = +21.4 [+8.9, +33.9]
+  GPT-4o-mini C1-C2    not flagged  n=144  acc 53.5% vs 32.6%  gap = +20.8 [+13.2, +28.5]
+  Claude C1/C1-C2/C2   all          n=200  acc 75.0% vs 53.5%  gap = +21.5 [+15.0, +28.0]
+  Claude C1/C1-C2/C2   flagged      n= 56  acc 69.6% vs 51.8%  gap = +17.9 [+7.1, +28.6]
+  Claude C1/C1-C2/C2   not flagged  n=144  acc 77.1% vs 54.2%  gap = +22.9 [+15.3, +31.2]
