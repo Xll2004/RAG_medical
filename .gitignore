@@ -6,6 +6,7 @@
 *.faiss
 *.npy
 pubmed_abstracts.json
+pubmed_abstracts_rebuilt.json
 backup_corpus/
 medcpt_textbooks_emb/
 
