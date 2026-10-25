@@ -1,0 +1,24 @@
+# ---- 密钥（绝对不能上传）----
+.env
+.env.*
+
+# ---- 超过 GitHub 100MB 限制的大文件 ----
+*.faiss
+*.npy
+pubmed_abstracts.json
+backup_corpus/
+medcpt_textbooks_emb/
+
+# ---- 第三方数据集仓库（自带 .git，请从 HuggingFace/GitHub 获取）----
+CMB/
+
+# ---- 归档的无效代码 ----
+_archive/
+
+# ---- 系统 / IDE / Python 缓存 ----
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+*.bak
+nohup.out

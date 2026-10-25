@@ -1,0 +1,58 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+textbooks: 125847 snippets, device = mps
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 11098.70it/s]
+encoded chunk 16/31
+encoded chunk 17/31
+encoded chunk 18/31
+encoded chunk 19/31
+encoded chunk 20/31
+encoded chunk 21/31
+encoded chunk 22/31
+encoded chunk 23/31
+encoded chunk 24/31
+encoded chunk 25/31
+encoded chunk 26/31
+encoded chunk 27/31
+encoded chunk 28/31
+encoded chunk 29/31
+encoded chunk 30/31
+encoded chunk 31/31
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 18268.43it/s]
+MedCPT Jaccard(C1, C2) = 0.144; disjoint 124/200
+c1q_c1m run 1: 0.535
+c1q_c1m run 2: 0.535
+c1q_c1m run 3: 0.535
+=== c1q_c1m majority: 0.535 ===
+c2q_c2m run 1: 0.400
+c2q_c2m run 2: 0.390
+c2q_c2m run 3: 0.390
+=== c2q_c2m majority: 0.390 ===
+c2q_c1m run 1: 0.485
+c2q_c1m run 2: 0.490
+c2q_c1m run 3: 0.490
+=== c2q_c1m majority: 0.495 ===
+c1q_c2m run 1: 0.540
+c1q_c2m run 2: 0.525
+c1q_c2m run 3: 0.535
+=== c1q_c2m majority: 0.535 ===
+zhq_c1m run 1: 0.560
+zhq_c1m run 2: 0.560
+zhq_c1m run 3: 0.570
+=== zhq_c1m majority: 0.570 ===
+zhq_c2m run 1: 0.565
+zhq_c2m run 2: 0.565
+zhq_c2m run 3: 0.570
+=== zhq_c2m majority: 0.565 ===
+c1q_randm run 1: 0.555
+c1q_randm run 2: 0.565
+c1q_randm run 3: 0.565
+=== c1q_randm majority: 0.560 ===
+c2q_randm run 1: 0.445
+c2q_randm run 2: 0.430
+c2q_randm run 3: 0.430
+=== c2q_randm majority: 0.430 ===
+zhq_randm run 1: 0.595
+zhq_randm run 2: 0.595
+zhq_randm run 3: 0.585
+=== zhq_randm majority: 0.595 ===
+M2 done

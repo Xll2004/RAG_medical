@@ -1,0 +1,352 @@
+[
+  {
+    "id": 2417,
+    "question_zh": "典型急性心梗与典型心绞痛患者在症状上最大的区别是",
+    "question_mt": "The greatest difference between the symptoms of a typical acute heart attack and those of a typical heartache patient is that",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, such as 'heartache' instead of 'angina pectoris', which likely led to confusion and misinterpretation of the medical context."
+  },
+  {
+    "id": 1758,
+    "question_zh": "女性，29岁，右胸痛2周，伴发热38.5℃，有干咳。胸痛开始为尖锐针刺样，深呼吸时及咳嗽时加剧。近3日觉胸痛减轻，但活动后有气促。体检右下肺呼吸音减低，叩诊浊音。可能的诊断是",
+    "question_mt": "Females, 29 years old, right chest ache for 2 weeks, accompanied by a fever of 38.5 °C, coughing. Chest ache starts to sting with sharp needles and increases during deep breaths and coughs.",
+    "primary_cause": "MIX",
+    "explanation": "Both terminology errors and syntactic distortions in the machine translation led to a misunderstanding of the medical context, resulting in an incorrect diagnosis."
+  },
+  {
+    "id": 4126,
+    "question_zh": "饮食不调最易损伤",
+    "question_mt": "It's easy to hurt if you don't adjust your diet.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, leading to a misunderstanding of the medical context and the specific organ affected by dietary imbalance."
+  },
+  {
+    "id": 3460,
+    "question_zh": "新生儿生理性黄疸自然消退的时间为",
+    "question_mt": "The time of natural degeneration of a newborn's physiology",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, interpreting 'physiological jaundice' as 'natural degeneration of a newborn's physiology', leading to confusion in the context of the question."
+  },
+  {
+    "id": 7745,
+    "question_zh": "平均每个核小体重复单位占DNA的长度约为",
+    "question_mt": "The average amount of DNA per nuclear small repeat unit is about",
+    "primary_cause": "T1",
+    "explanation": "The machine translation incorrectly used 'nuclear small repeat unit' instead of 'nucleosome repeat unit', leading to a misunderstanding of the biological context."
+  },
+  {
+    "id": 117,
+    "question_zh": "患者男，78岁。因“中风”瘫痪半年，神志不清，近一月出现躯干、四肢红斑丘疹、丘疱疹，初起在四肢屈侧及腹部，予外用复方醋酸地塞米松乳膏等无效，皮疹增多加重，渐发展为红皮病样表现，表面大量鳞屑、结痂，有臭味。其护工一月前曾患“疥疮”，已治愈。诊断最可能是",
+    "question_mt": "The patient is a male, 78 years old. As a result of a six-month period of paralysis caused by a stroke, confusion, the recent appearance in January of a torso, a four-legged red rash, acne herpes, abdominal abdominal gluten, etc., which is not valid for external use of the combination acetic acetic cerebral cerebral creams, the increase in rash rashes, which has gradually become an expression of red-skinned disease, with a large amount of scabies and scabies on the surface and the smell of scabies.",
+    "primary_cause": "MIX",
+    "explanation": "C2 contains significant terminology errors, such as 'acne herpes' and 'red-skinned disease,' along with syntactic distortions that obscure the meaning, leading to a failure in accurately conveying the medical context."
+  },
+  {
+    "id": 7309,
+    "question_zh": "由机器本身设计造成的半影包括",
+    "question_mt": "It's part of the machine's design.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation failed primarily due to terminology errors, as it misinterpreted key terms related to the medical context, leading to incorrect options."
+  },
+  {
+    "id": 4896,
+    "question_zh": "口服具有抗凝效果的药物是",
+    "question_mt": "The oral anti-convulsive drug is...",
+    "primary_cause": "T1",
+    "explanation": "The machine translation incorrectly interpreted '抗凝' (anticoagulant) as '抗癫痫' (anti-convulsive), leading to a fundamental misunderstanding of the medication type being asked about."
+  },
+  {
+    "id": 5868,
+    "question_zh": "珍珠药材的鉴别特征不包括",
+    "question_mt": "The identifying characteristics of pearls are not included.",
+    "primary_cause": "MIX",
+    "explanation": "C2 contains terminology errors, such as 'pearl' instead of 'pearl medicinal materials', and syntactic distortions that affect clarity and meaning."
+  },
+  {
+    "id": 7913,
+    "question_zh": "肥达反应是一种",
+    "question_mt": "Fatty's reaction is...",
+    "primary_cause": "T1",
+    "explanation": "The machine translation incorrectly translated '肥达反应' as 'Fatty's reaction', leading to a misunderstanding of the term and resulting in an incorrect answer."
+  },
+  {
+    "id": 9708,
+    "question_zh": "行胸腔闭式引流术，哪项是错误的",
+    "question_mt": "What's wrong with the closed flow of the chest cavity?",
+    "primary_cause": "MIX",
+    "explanation": "The machine translation contains terminology errors, syntactic distortions, and semantic drift, all of which contributed to the failure in accurately conveying the medical question."
+  },
+  {
+    "id": 6305,
+    "question_zh": "对于以下病症，氯丙嗪的疗效最好的是",
+    "question_mt": "The best cure for the following conditions is chlorpromium.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, such as 'chlorpromium' instead of 'chlorpromazine', leading to confusion about the drug in question."
+  },
+  {
+    "id": 5085,
+    "question_zh": "弱效利尿药作用于远曲小管末端和集合管，通过拮抗醛固酮受体，对抗醛固酮的保Na+排K+作用，阻滞钠通道而减少Na+的重吸收，抑制Na+-K+交换，使Na+和水排出增加而利尿。阻滞钠通道而减少Na+的重吸收，抑制Na+-K+交换的药物是",
+    "question_mt": "Weakly urinary medicine works at the end of small tubes and in the assembly tubes, fighting the effects of ellipsine steroids via antagonoid receptors, preventing the re-absorption of Na+ by blocking the sodium channel and discouraging the re-absorption of Na+-K+ exchange, causing the Na+ and the water to drain more urinately. The sodium barrier reduces the re-absorption of Na+-K+ by reducing the re-absorption of Na+-K+.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology for key medical terms, leading to confusion and misinterpretation of the question."
+  },
+  {
+    "id": 4129,
+    "question_zh": "主含番泻苷A、B、C、D及芦荟大黄素双蒽酮苷成分的药材是",
+    "question_mt": "The main ingredients containing diazine A, B, C, D and thorium safrole are:",
+    "primary_cause": "T1",
+    "explanation": "The machine translation incorrectly translated key medicinal terms, leading to a misunderstanding of the question's context and content."
+  },
+  {
+    "id": 2795,
+    "question_zh": "葡萄胎患者随访时必须进行的检查项目是",
+    "question_mt": "The check-up project that must be carried out during the follow-up visit of the vine patient is:",
+    "primary_cause": "MIX",
+    "explanation": "Both terminology errors and syntactic distortions contributed to the failure, as key medical terms were mistranslated and the sentence structure was awkward, leading to confusion."
+  },
+  {
+    "id": 1194,
+    "question_zh": "下列各穴中常用于保健并具有强壮作用的穴位是",
+    "question_mt": "The following caves are often used for health care and have a strong role to play:",
+    "primary_cause": "T1",
+    "explanation": "The machine translation incorrectly translated key terminology related to acupoints, leading to a misunderstanding of the question."
+  },
+  {
+    "id": 4351,
+    "question_zh": "杭白芷根上部的形成层呈",
+    "question_mt": "The top form of the Hangbeth root is present.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, translating 'cambium layer' to 'top form', which led to a misunderstanding of the question's context."
+  },
+  {
+    "id": 7961,
+    "question_zh": "心脏于半月瓣关闭至房室瓣开放之间为",
+    "question_mt": "The heart closes in half a month between the door and the door opens.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, leading to a misunderstanding of the medical context and resulting in an incorrect answer."
+  },
+  {
+    "id": 548,
+    "question_zh": "利水渗湿作用较强，治疗水湿停滞所致小便不利，水肿，泄泻，带下，宜首选",
+    "question_mt": "The leaching effect is strong, treating urinal disadvantages caused by the stagnating of water, swelling, leaking, carrying, preferred.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, such as 'leaching effect' and 'urinal disadvantages,' which do not accurately convey the medical concepts in the original Chinese question."
+  },
+  {
+    "id": 5522,
+    "question_zh": "具有解肌退热，升阳止泻功效的药物是",
+    "question_mt": "The drug with the decomposition of the muscles, the radiation effect, is...",
+    "primary_cause": "T1",
+    "explanation": "The machine translation misinterpreted key medical terms, leading to incorrect terminology that altered the meaning of the question."
+  },
+  {
+    "id": 4730,
+    "question_zh": "对器官能产生永久损伤的不良反应是",
+    "question_mt": "The negative response to permanent damage to organs is:",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, particularly 'negative response' instead of 'adverse reactions', leading to confusion in understanding the question."
+  },
+  {
+    "id": 1109,
+    "question_zh": "患者，女，32岁，已婚。下腹疼痛反复发作2个月，午后潮热，手足心热、月经量少，舌红，苔薄黄，脉细数。医证型、首选方药是下列哪一个",
+    "question_mt": "Patients, women, 32 years old, married. The lower abdominal pain is repeated for two months, with heat in the middle of the day, a low amount of heart and menstruation, tweed, mossy yellow, veins.",
+    "primary_cause": "MIX",
+    "explanation": "C2 contains significant terminology errors, syntactic distortions, and semantic drifts that collectively obscure the medical context and meaning of the original question."
+  },
+  {
+    "id": 3723,
+    "question_zh": "3-某种或某一类药物具有抑制病原菌生长繁殖能力，而无杀灭作用的药物称为",
+    "question_mt": "3- A drug or group of substances has the capacity to inhibit the growth and reproduction of pathogens, and is known as an incorrigible drug.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation incorrectly used 'incorrigible drug' instead of the correct term, leading to a misunderstanding of the type of medication being described."
+  },
+  {
+    "id": 8713,
+    "question_zh": "关于下叶肺不张的X线表现，错误的是：",
+    "question_mt": "With regard to the X-line performance of the lower lobe lung, the error is:",
+    "primary_cause": "MIX",
+    "explanation": "The machine translation contains terminology errors, such as 'X-line performance' instead of 'X-ray findings', and syntactic distortions that lead to confusion in meaning."
+  },
+  {
+    "id": 7903,
+    "question_zh": "患者男性，43岁，心前区不适。运动平板试验中随负荷量的增加，收缩压逐渐下降，提示为",
+    "question_mt": "The patient is a 43-year-old man with a heart condition.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, translating '心前区不适' as 'heart condition' instead of accurately conveying the patient's discomfort in the precordial area."
+  },
+  {
+    "id": 4683,
+    "question_zh": "氧氟沙星属于",
+    "question_mt": "The Oxyfluoride Star belongs to",
+    "primary_cause": "T1",
+    "explanation": "The machine translation incorrectly translated '氧氟沙星' as 'The Oxyfluoride Star', leading to a terminology error that caused confusion in identifying the correct category."
+  },
+  {
+    "id": 9888,
+    "question_zh": "颈外静脉输液后，用肝素封管，肝素的用量为",
+    "question_mt": "Hepatic tubes are sealed with hepatotons after the arterial fluids outside the neck.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation incorrectly interpreted '肝素' (heparin) as 'hepatotons' and '封管' (lock the catheter) as 'sealed with hepatic tubes', leading to a misunderstanding of the medical context."
+  },
+  {
+    "id": 6927,
+    "question_zh": "有关脊髓被膜和脊膜腔的描述，错误的是",
+    "question_mt": "The description of the spinal cord by the membrane and the membrane cavity was wrong.",
+    "primary_cause": "MIX",
+    "explanation": "C2 contains multiple errors, including terminology inaccuracies and syntactic distortions, which collectively led to a failure in understanding the medical concepts."
+  },
+  {
+    "id": 8595,
+    "question_zh": "骨显像的适应证不包括",
+    "question_mt": "Absorption certificates for bone imaging are not included.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, translating '骨显像' as 'bone imaging' and '适应证' as 'absorption certificates', leading to confusion and incorrect interpretation of the medical context."
+  },
+  {
+    "id": 1533,
+    "question_zh": "30岁男性，反复双眼睑浮肿伴夜尿增多2年，血压160/100mmHg，尿蛋白（+)，红细胞5～10个/HP，颗粒管型1～2/HP，血肌酐145μmol/L，血红蛋白85g/L，血清白蛋白32g/L。下列哪种药物本例不宜应用",
+    "question_mt": "Males aged 30 years with repeated eye swelling with an increase of 2 years in night urine, blood pressure 160/100 mmHg, urine protein (+), red cells 5-10/HP, particle tube type 1-2/HP, blood muscle anhydride 145 μmol/L, haemoglobin 85g/L, blood-free protein 32g/L.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation contains significant terminology errors that misrepresent the medical terms, leading to confusion and incorrect interpretation of the question."
+  },
+  {
+    "id": 8078,
+    "question_zh": "嵌合抗体是指",
+    "question_mt": "Embedded antibodies mean...",
+    "primary_cause": "MIX",
+    "explanation": "The machine translation contains significant terminology errors, syntactic distortions, and semantic drifts that collectively led to the failure in accurately conveying the meaning of the original question."
+  },
+  {
+    "id": 9262,
+    "question_zh": "患儿，3岁。证见发热，恶寒无汗，鼻塞流涕，微咳，兼见脘腹胀满，呕吐酸腐，口气秽浊，大便酸臭，小便短黄，舌质红，苔厚腻，脉滑。其证候是",
+    "question_mt": "The evidence is hot, cold, sweaty, snotty, small cough, full stomach, vomiting acid, salami, stench, urinal stench, short yellow, red tongue, thick moss, pulverized pulse.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology that distorted the medical meaning of the symptoms, leading to an inability to match the correct diagnosis options."
+  },
+  {
+    "id": 2007,
+    "question_zh": "患者女，30岁。妊娠35周，因阴道流血就诊，诊断为前置胎盘，拟急行剖宫产收入院。护士首先应为患者做的是",
+    "question_mt": "The first thing a nurse should do for the patient is:",
+    "primary_cause": "MIX",
+    "explanation": "Both terminology errors and syntactic distortions in the machine translation led to confusion and misinterpretation of the medical context."
+  },
+  {
+    "id": 7508,
+    "question_zh": "关于数字疼痛评分法的叙述，正确的是",
+    "question_mt": "The description of the numeric pain scoring method is correct.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, leading to confusion about the pain rating scale's correct interpretation."
+  },
+  {
+    "id": 2722,
+    "question_zh": "28岁已婚女性，性生活正常，婚后3年未孕，护士在指导其提高受孕率技巧时应除外",
+    "question_mt": "Married women at the age of 28 who have a normal sexual life and who have not been pregnant for three years after marriage, except in the case of nurses who provide guidance on their skills to increase pregnancy rates",
+    "primary_cause": "T3",
+    "explanation": "The machine translation introduced semantic drift, altering the meaning of the original question and leading to confusion about the nurse's role in guiding the patient."
+  },
+  {
+    "id": 2777,
+    "question_zh": "患者，女，33岁。因卵巢功能障碍给予辅助生育技术治疗。使用促排卵药物后出现下腹胀痛、腹水，B型超声示卵巢明显增大，该患者首先考虑",
+    "question_mt": "The patient, female, is 33 years old.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, leading to a misunderstanding of the medical context and options."
+  },
+  {
+    "id": 9282,
+    "question_zh": "下列哪项不是肾失封藏的表现",
+    "question_mt": "Which of the following is not a sign of kidney loss?",
+    "primary_cause": "MIX",
+    "explanation": "Both terminology errors and syntactic distortions contributed to the failure, as the machine translation misrepresented key medical terms and produced awkward phrasing."
+  },
+  {
+    "id": 12,
+    "question_zh": "下列哪一项不是咳嗽变异性哮喘的诊断依据（ ）。",
+    "question_mt": "Which of the following is not the basis for the diagnosis of coughing mutant asthma ( ).",
+    "primary_cause": "MIX",
+    "explanation": "Both terminology errors and syntactic distortions in the machine translation led to confusion and misinterpretation of the medical question and options."
+  },
+  {
+    "id": 1948,
+    "question_zh": "慢性胆囊炎的诊断依据中，不包括",
+    "question_mt": "The basis for the diagnosis of chronic cyborgitis is not included.",
+    "primary_cause": "MIX",
+    "explanation": "C2 contains terminology errors (e.g., 'cyborgitis' instead of 'cholecystitis') and syntactic distortions (e.g., 'ultrasound cavity scrotum up or down'), leading to a failure in accurately conveying the medical context."
+  },
+  {
+    "id": 4277,
+    "question_zh": "中药甘草具有抗炎、抗过敏的成分是",
+    "question_mt": "The Chinese herb has anti-inflammation, anti-allergen component.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, leading to options that did not correspond to the correct medical components."
+  },
+  {
+    "id": 9324,
+    "question_zh": "瘰疬痰核形成的原因是",
+    "question_mt": "The reason why the nucleotide is formed is because...",
+    "primary_cause": "T1",
+    "explanation": "The machine translation incorrectly translated '痰核' as 'nucleotide', leading to a complete misunderstanding of the medical context."
+  },
+  {
+    "id": 2836,
+    "question_zh": "脑疝",
+    "question_mt": "Cerebral aphids.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation incorrectly translated '脑疝' as 'cerebral aphids,' which is a significant terminology error that led to the failure in retrieving the correct answer."
+  },
+  {
+    "id": 4686,
+    "question_zh": "属于毒性中药的是",
+    "question_mt": "It's a toxic drug.",
+    "primary_cause": "MIX",
+    "explanation": "Both terminology errors and syntactic distortions in the machine translation led to a misunderstanding of the original question and options."
+  },
+  {
+    "id": 11037,
+    "question_zh": "根据目与五脏的对应关系，则白睛属",
+    "question_mt": "It's white, according to the relationship between the eye and the blood.",
+    "primary_cause": "T3",
+    "explanation": "The machine translation introduced a semantic drift by misinterpreting the relationship between the eye and the internal organs, leading to an incorrect focus on 'blood' instead of the intended organs."
+  },
+  {
+    "id": 3740,
+    "question_zh": "在水溶液中不稳定但易溶于水的药物适合制成哪种注射剂",
+    "question_mt": "Unstable but soluble water-based drugs in water solutions are suitable for which injections",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, such as 'injectors' instead of 'injections', leading to confusion in the context of the question."
+  },
+  {
+    "id": 3513,
+    "question_zh": "老年患者护理要点除外",
+    "question_mt": "Except for the point of care for the elderly",
+    "primary_cause": "T3",
+    "explanation": "The machine translation altered the meaning of the original question, leading to a misunderstanding of the context and intent."
+  },
+  {
+    "id": 7563,
+    "question_zh": "以下关于胃的说法，错误的是",
+    "question_mt": "Here's what's wrong with the stomach.",
+    "primary_cause": "MIX",
+    "explanation": "The machine translation contains multiple errors, including terminology inaccuracies and syntactic distortions, leading to a significant loss of meaning."
+  },
+  {
+    "id": 9743,
+    "question_zh": "呼吸和呼吸暂停交替出现称为",
+    "question_mt": "It's called a staggering of breathing and breathing.",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, leading to confusion and misinterpretation of the medical terms."
+  },
+  {
+    "id": 128,
+    "question_zh": "在腹股沟内环处结扎鞘膜突的手术方式适用于（ ）。",
+    "question_mt": "The procedure for ligating the membrane around the groin is applicable ( ).",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, leading to confusion about the medical terms and their meanings."
+  },
+  {
+    "id": 1188,
+    "question_zh": "具有补火助阳功效的药物是",
+    "question_mt": "The drug with the effect of a fire booster is...",
+    "primary_cause": "T1",
+    "explanation": "The machine translation used incorrect terminology, leading to confusion about the meaning of the original question."
+  }
+]

@@ -1,0 +1,8416 @@
+{
+ "C1": [
+  {
+   "id": 1939,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 432,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4850,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4353,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3957,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2417,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1758,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 9582,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1467,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10651,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 7297,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 543,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 511,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1580,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3870,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4126,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 8827,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10930,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 457,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9886,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3460,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9575,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 7258,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3905,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 7745,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 10627,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4901,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 117,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 2746,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7309,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5928,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4896,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2678,
+   "score": 80.0,
+   "raw": "80",
+   "fallback": false
+  },
+  {
+   "id": 3806,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 5868,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1753,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 1564,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6608,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1642,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6256,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5989,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10963,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4677,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 734,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 7913,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 9394,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2176,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6585,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1327,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9708,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 5147,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6305,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10359,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3312,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1164,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 773,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4041,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 5085,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1343,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4129,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1731,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6611,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4898,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 7814,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6359,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 2795,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6449,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 6186,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 3697,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4718,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1194,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 11111,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 2934,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9350,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4351,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 2808,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7961,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6600,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4766,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9802,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3889,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 5667,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 940,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4062,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 548,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 5522,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6956,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4730,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1109,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3723,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10002,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 5509,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3755,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 8713,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6866,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 7903,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2471,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4683,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2418,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4384,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 9888,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9455,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4648,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10533,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 7404,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 10508,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6927,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6310,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3884,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2397,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 8903,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 8595,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1533,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 794,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 1906,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2635,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2752,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7301,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10783,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1065,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6688,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6636,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10774,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 8078,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9262,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4463,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 9729,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 203,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 2007,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 9413,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4715,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 5927,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1942,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5152,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 7508,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 2722,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 7819,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 61,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4659,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 8738,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3058,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 8872,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1840,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5235,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 11106,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3462,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6510,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 2777,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 9465,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9282,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 12,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 10842,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5664,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 8499,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 336,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 1948,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6328,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 5387,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 4252,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 974,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4277,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10006,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1325,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1445,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 8449,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1158,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9324,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 2191,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2234,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 8234,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 9667,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2836,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 4686,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 9235,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 11037,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 7317,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3740,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 9462,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3513,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 5459,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6921,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6502,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 7563,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9044,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7783,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2113,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4405,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3985,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1074,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 5893,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 364,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 10608,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9743,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4080,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10613,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3900,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 128,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1188,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 989,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4059,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  }
+ ],
+ "C1P": [
+  {
+   "id": 1939,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 432,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4850,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 4353,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3957,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 2417,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1758,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 9582,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1467,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 10651,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 7297,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 543,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 511,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1580,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 3870,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 4126,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 8827,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 10930,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 457,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9886,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3460,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9575,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7258,
+   "score": 80.0,
+   "raw": "80",
+   "fallback": false
+  },
+  {
+   "id": 3905,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 7745,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10627,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4901,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 117,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2746,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7309,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5928,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4896,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2678,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 3806,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 5868,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1753,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 1564,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6608,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1642,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6256,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 5989,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10963,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4677,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 734,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 7913,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 9394,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2176,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6585,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1327,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9708,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 5147,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6305,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10359,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3312,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1164,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 773,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4041,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5085,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1343,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4129,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1731,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6611,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4898,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 7814,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6359,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 2795,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6449,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6186,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3697,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4718,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1194,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 11111,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 2934,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 9350,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4351,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2808,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 7961,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6600,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4766,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9802,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3889,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 5667,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 940,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4062,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 548,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 5522,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6956,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4730,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1109,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 3723,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 10002,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 5509,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3755,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 8713,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6866,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 7903,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 2471,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4683,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2418,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4384,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9888,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9455,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4648,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 10533,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 7404,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 10508,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6927,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6310,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3884,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2397,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 8903,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 8595,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1533,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 794,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1906,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2635,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 2752,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7301,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10783,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1065,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6688,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6636,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10774,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 8078,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 9262,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4463,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 9729,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 203,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 2007,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 9413,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4715,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 5927,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1942,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5152,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7508,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 2722,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 7819,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 61,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4659,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 8738,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3058,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 8872,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1840,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5235,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 11106,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3462,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6510,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 2777,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 9465,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 9282,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 12,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10842,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5664,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 8499,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 336,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1948,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6328,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5387,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4252,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 974,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4277,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10006,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1325,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1445,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 8449,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1158,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 9324,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2191,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2234,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 8234,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 9667,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 2836,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 4686,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 9235,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 11037,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 7317,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3740,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9462,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3513,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 5459,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6921,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6502,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 7563,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 9044,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7783,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2113,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4405,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3985,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1074,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 5893,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 364,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 10608,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9743,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4080,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10613,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3900,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 128,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1188,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 989,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4059,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  }
+ ],
+ "C2": [
+  {
+   "id": 1939,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 432,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 4850,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4353,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 3957,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 2417,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1758,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 9582,
+   "score": 25.0,
+   "raw": "25",
+   "fallback": false
+  },
+  {
+   "id": 1467,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 10651,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 7297,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 543,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 511,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 1580,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 3870,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 4126,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 8827,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10930,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 457,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9886,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3460,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9575,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 7258,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3905,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 7745,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 10627,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4901,
+   "score": 80.0,
+   "raw": "80",
+   "fallback": false
+  },
+  {
+   "id": 117,
+   "score": 15.0,
+   "raw": "15",
+   "fallback": false
+  },
+  {
+   "id": 2746,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 7309,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 5928,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4896,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2678,
+   "score": 80.0,
+   "raw": "80",
+   "fallback": false
+  },
+  {
+   "id": 3806,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 5868,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 1753,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1564,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6608,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 1642,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6256,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 5989,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 10963,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 4677,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 734,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 7913,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 9394,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 2176,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 6585,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1327,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9708,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 5147,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6305,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 10359,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 3312,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 1164,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 773,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 4041,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 5085,
+   "score": 45.0,
+   "raw": "45",
+   "fallback": false
+  },
+  {
+   "id": 1343,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 4129,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 1731,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6611,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 4898,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7814,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6359,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2795,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 6449,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6186,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 3697,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 4718,
+   "score": 80.0,
+   "raw": "80",
+   "fallback": false
+  },
+  {
+   "id": 1194,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 11111,
+   "score": 45.0,
+   "raw": "45",
+   "fallback": false
+  },
+  {
+   "id": 2934,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 9350,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 4351,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2808,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7961,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6600,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 4766,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9802,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 3889,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 5667,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 940,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 4062,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 548,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 5522,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 6956,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 4730,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 1109,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 3723,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 10002,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 5509,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 3755,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 8713,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 6866,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7903,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2471,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4683,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2418,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 4384,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 9888,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 9455,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 4648,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 10533,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7404,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10508,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 6927,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 6310,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3884,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 2397,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 8903,
+   "score": 80.0,
+   "raw": "80",
+   "fallback": false
+  },
+  {
+   "id": 8595,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 1533,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 794,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1906,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2635,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2752,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 7301,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 10783,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 1065,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 6688,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 6636,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 10774,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 8078,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9262,
+   "score": 25.0,
+   "raw": "25",
+   "fallback": false
+  },
+  {
+   "id": 4463,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 9729,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 203,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 2007,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9413,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 4715,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 5927,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 1942,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 5152,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7508,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2722,
+   "score": 55.0,
+   "raw": "55",
+   "fallback": false
+  },
+  {
+   "id": 7819,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 61,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 4659,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 8738,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 3058,
+   "score": 45.0,
+   "raw": "45",
+   "fallback": false
+  },
+  {
+   "id": 8872,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 1840,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 5235,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 11106,
+   "score": 25.0,
+   "raw": "25",
+   "fallback": false
+  },
+  {
+   "id": 3462,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6510,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 2777,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 9465,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9282,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 12,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 10842,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 5664,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 8499,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 336,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 1948,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6328,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5387,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 4252,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 974,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4277,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 10006,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1325,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1445,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 8449,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 1158,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9324,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2191,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 2234,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 8234,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9667,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 2836,
+   "score": 0.0,
+   "raw": "0",
+   "fallback": false
+  },
+  {
+   "id": 4686,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9235,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 11037,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7317,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3740,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 9462,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 3513,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 5459,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 6921,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6502,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7563,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9044,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7783,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2113,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 4405,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 3985,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 1074,
+   "score": 55.0,
+   "raw": "55",
+   "fallback": false
+  },
+  {
+   "id": 5893,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 364,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 10608,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 9743,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 4080,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 10613,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 3900,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 128,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 1188,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 989,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4059,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  }
+ ],
+ "C3": [
+  {
+   "id": 1939,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 432,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4850,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4353,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 3957,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 2417,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1758,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 9582,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 1467,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 10651,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 7297,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 543,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 511,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1580,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 3870,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 4126,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 8827,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10930,
+   "score": 0.0,
+   "raw": "0",
+   "fallback": false
+  },
+  {
+   "id": 457,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9886,
+   "score": 80.0,
+   "raw": "80",
+   "fallback": false
+  },
+  {
+   "id": 3460,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9575,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7258,
+   "score": 80.0,
+   "raw": "80",
+   "fallback": false
+  },
+  {
+   "id": 3905,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 7745,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 10627,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4901,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 117,
+   "score": 55.0,
+   "raw": "55",
+   "fallback": false
+  },
+  {
+   "id": 2746,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 7309,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 5928,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4896,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2678,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3806,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 5868,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 1753,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1564,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6608,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 1642,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 6256,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 5989,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 10963,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 4677,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 734,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 7913,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 9394,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 2176,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 6585,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1327,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 9708,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 5147,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6305,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10359,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 3312,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 1164,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 773,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 4041,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 5085,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1343,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 4129,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 1731,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6611,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4898,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 7814,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6359,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2795,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6449,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6186,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3697,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 4718,
+   "score": 80.0,
+   "raw": "80",
+   "fallback": false
+  },
+  {
+   "id": 1194,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 11111,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 2934,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 9350,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 4351,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2808,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7961,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 6600,
+   "score": 80.0,
+   "raw": "80",
+   "fallback": false
+  },
+  {
+   "id": 4766,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9802,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 3889,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 5667,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 940,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 4062,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 548,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 5522,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 6956,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 4730,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 1109,
+   "score": 45.0,
+   "raw": "45",
+   "fallback": false
+  },
+  {
+   "id": 3723,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 10002,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5509,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 3755,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 8713,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 6866,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7903,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2471,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4683,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2418,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 4384,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9888,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 9455,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 4648,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 10533,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7404,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10508,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 6927,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 6310,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3884,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2397,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 8903,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 8595,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 1533,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 794,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1906,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2635,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2752,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7301,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 10783,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 1065,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6688,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 6636,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 10774,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 8078,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 9262,
+   "score": 45.0,
+   "raw": "45",
+   "fallback": false
+  },
+  {
+   "id": 4463,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 9729,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 203,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 2007,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9413,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 4715,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 5927,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 1942,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 5152,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7508,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2722,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 7819,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 61,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4659,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 8738,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 3058,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 8872,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1840,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 5235,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 11106,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 3462,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6510,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2777,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 9465,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9282,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 12,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 10842,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 5664,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 8499,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 336,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 1948,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6328,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5387,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 4252,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 974,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4277,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10006,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1325,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1445,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 8449,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 1158,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9324,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 2191,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 2234,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 8234,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9667,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 2836,
+   "score": 0.0,
+   "raw": "0",
+   "fallback": false
+  },
+  {
+   "id": 4686,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9235,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 11037,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 7317,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3740,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 9462,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 3513,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 5459,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 6921,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6502,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7563,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9044,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7783,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2113,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4405,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 3985,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 1074,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 5893,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 364,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10608,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 9743,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 4080,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 10613,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 3900,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 128,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 1188,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 989,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4059,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  }
+ ],
+ "C3B": [
+  {
+   "id": 1939,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 432,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 4850,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4353,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 3957,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 2417,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1758,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 9582,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 1467,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 10651,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 7297,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 543,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 511,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 1580,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 3870,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 4126,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 8827,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10930,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 457,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 9886,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3460,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9575,
+   "score": 25.0,
+   "raw": "25",
+   "fallback": false
+  },
+  {
+   "id": 7258,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3905,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 7745,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 10627,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4901,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 117,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2746,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 7309,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 5928,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4896,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2678,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3806,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 5868,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 1753,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1564,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 6608,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 1642,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 6256,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 5989,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 10963,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 4677,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 734,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 7913,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 9394,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 2176,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 6585,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 1327,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9708,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 5147,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 6305,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10359,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 3312,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 1164,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 773,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 4041,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 5085,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 1343,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 4129,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 1731,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6611,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 4898,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 7814,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 6359,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2795,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 6449,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 6186,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 3697,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 4718,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 1194,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 11111,
+   "score": 65.0,
+   "raw": "65",
+   "fallback": false
+  },
+  {
+   "id": 2934,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 9350,
+   "score": 25.0,
+   "raw": "25",
+   "fallback": false
+  },
+  {
+   "id": 4351,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2808,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7961,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 6600,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4766,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9802,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 3889,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 5667,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 940,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 4062,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 548,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 5522,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6956,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 4730,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1109,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 3723,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 10002,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5509,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 3755,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 8713,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 6866,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7903,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2471,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4683,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2418,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 4384,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9888,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 9455,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 4648,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 10533,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 7404,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10508,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 6927,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 6310,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 3884,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 2397,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 8903,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 8595,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 1533,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 794,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1906,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2635,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2752,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 7301,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 10783,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 1065,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6688,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6636,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 10774,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 8078,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9262,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 4463,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 9729,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 203,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 2007,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9413,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 4715,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 5927,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 1942,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 5152,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7508,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2722,
+   "score": 55.0,
+   "raw": "55",
+   "fallback": false
+  },
+  {
+   "id": 7819,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 61,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4659,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 8738,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 3058,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 8872,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 1840,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 5235,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 11106,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 3462,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6510,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2777,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 9465,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9282,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 12,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10842,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 5664,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 8499,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 336,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 1948,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6328,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5387,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 4252,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 974,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 4277,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 10006,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1325,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1445,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 8449,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 1158,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 9324,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2191,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 2234,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 8234,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 9667,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 2836,
+   "score": 0.0,
+   "raw": "0",
+   "fallback": false
+  },
+  {
+   "id": 4686,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9235,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 11037,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 7317,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3740,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 9462,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 3513,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 5459,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 6921,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6502,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7563,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 9044,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7783,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 2113,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 4405,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 3985,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 1074,
+   "score": 65.0,
+   "raw": "65",
+   "fallback": false
+  },
+  {
+   "id": 5893,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 364,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10608,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 9743,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 4080,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 10613,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 3900,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 128,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 1188,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 989,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4059,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  }
+ ],
+ "C4": [
+  {
+   "id": 1939,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 432,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 4850,
+   "score": 0.0,
+   "raw": "0",
+   "fallback": false
+  },
+  {
+   "id": 4353,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 3957,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 2417,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1758,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 9582,
+   "score": 25.0,
+   "raw": "25",
+   "fallback": false
+  },
+  {
+   "id": 1467,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 10651,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 7297,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 543,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 511,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 1580,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 3870,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 4126,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 8827,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10930,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 457,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9886,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3460,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9575,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 7258,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3905,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 7745,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 10627,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4901,
+   "score": 80.0,
+   "raw": "80",
+   "fallback": false
+  },
+  {
+   "id": 117,
+   "score": 15.0,
+   "raw": "15",
+   "fallback": false
+  },
+  {
+   "id": 2746,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 7309,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 5928,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4896,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2678,
+   "score": 80.0,
+   "raw": "80",
+   "fallback": false
+  },
+  {
+   "id": 3806,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 5868,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 1753,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1564,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6608,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 1642,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6256,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 5989,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 10963,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 4677,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 734,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 7913,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 9394,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 2176,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 6585,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1327,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9708,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 5147,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6305,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10359,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 3312,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 1164,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 773,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 4041,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 5085,
+   "score": 45.0,
+   "raw": "45",
+   "fallback": false
+  },
+  {
+   "id": 1343,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 4129,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 1731,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6611,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 4898,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7814,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6359,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2795,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 6449,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6186,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 3697,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 4718,
+   "score": 80.0,
+   "raw": "80",
+   "fallback": false
+  },
+  {
+   "id": 1194,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 11111,
+   "score": 45.0,
+   "raw": "45",
+   "fallback": false
+  },
+  {
+   "id": 2934,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 9350,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 4351,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2808,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7961,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6600,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4766,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9802,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 3889,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 5667,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 940,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 4062,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 548,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 5522,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 6956,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 4730,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 1109,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 3723,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10002,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 5509,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 3755,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 8713,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 6866,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7903,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2471,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4683,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2418,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 4384,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 9888,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 9455,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 4648,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 10533,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 7404,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10508,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 6927,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 6310,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3884,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 2397,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 8903,
+   "score": 80.0,
+   "raw": "80",
+   "fallback": false
+  },
+  {
+   "id": 8595,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 1533,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 794,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1906,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2635,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2752,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 7301,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 10783,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 1065,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 6688,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 6636,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 10774,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 8078,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9262,
+   "score": 25.0,
+   "raw": "25",
+   "fallback": false
+  },
+  {
+   "id": 4463,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 9729,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 203,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 2007,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9413,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 4715,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 5927,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 1942,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 5152,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7508,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2722,
+   "score": 55.0,
+   "raw": "55",
+   "fallback": false
+  },
+  {
+   "id": 7819,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 61,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 4659,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 8738,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 3058,
+   "score": 45.0,
+   "raw": "45",
+   "fallback": false
+  },
+  {
+   "id": 8872,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1840,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 5235,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 11106,
+   "score": 25.0,
+   "raw": "25",
+   "fallback": false
+  },
+  {
+   "id": 3462,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6510,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 2777,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 9465,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9282,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 12,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10842,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 5664,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 8499,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 336,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 1948,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6328,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5387,
+   "score": 0.0,
+   "raw": "0",
+   "fallback": false
+  },
+  {
+   "id": 4252,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 974,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4277,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 10006,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1325,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1445,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 8449,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 1158,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9324,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2191,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 2234,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 8234,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9667,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2836,
+   "score": 0.0,
+   "raw": "0",
+   "fallback": false
+  },
+  {
+   "id": 4686,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9235,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 11037,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7317,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3740,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 9462,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 3513,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 5459,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 6921,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6502,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7563,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 9044,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7783,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2113,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 4405,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 3985,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1074,
+   "score": 55.0,
+   "raw": "55",
+   "fallback": false
+  },
+  {
+   "id": 5893,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 364,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 10608,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 9743,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 4080,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 10613,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3900,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 128,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 1188,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 989,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4059,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  }
+ ],
+ "C5": [
+  {
+   "id": 1939,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 432,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4850,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 4353,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 3957,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 2417,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1758,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 9582,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 1467,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 10651,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 7297,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 543,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 511,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 1580,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 3870,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 4126,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 8827,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10930,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 457,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9886,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3460,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9575,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 7258,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3905,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 7745,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 10627,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4901,
+   "score": 80.0,
+   "raw": "80",
+   "fallback": false
+  },
+  {
+   "id": 117,
+   "score": 15.0,
+   "raw": "15",
+   "fallback": false
+  },
+  {
+   "id": 2746,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 7309,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 5928,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 4896,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2678,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 3806,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5868,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 1753,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1564,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6608,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 1642,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 6256,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 5989,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10963,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 4677,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 734,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 7913,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 9394,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2176,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 6585,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1327,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 9708,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 5147,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6305,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10359,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 3312,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1164,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 773,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 4041,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 5085,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1343,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 4129,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 1731,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6611,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4898,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7814,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6359,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2795,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6449,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 6186,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 3697,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 4718,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 1194,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 11111,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2934,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 9350,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 4351,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 2808,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7961,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6600,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4766,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 9802,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3889,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 5667,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 940,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4062,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 548,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 5522,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 6956,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 4730,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 1109,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3723,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10002,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 5509,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3755,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 8713,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 6866,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 7903,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2471,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4683,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 2418,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 4384,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9888,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 9455,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 4648,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10533,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 7404,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10508,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 6927,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 6310,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 3884,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2397,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 8903,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 8595,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 1533,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 794,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1906,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2635,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2752,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7301,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 10783,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1065,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6688,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 6636,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10774,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 8078,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 9262,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 4463,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 9729,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 203,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2007,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9413,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 4715,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 5927,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 1942,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 5152,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 7508,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2722,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 7819,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 61,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 4659,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 8738,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 3058,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 8872,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1840,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 5235,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 11106,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 3462,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 6510,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 2777,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 9465,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 9282,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 12,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10842,
+   "score": 50.0,
+   "raw": "50",
+   "fallback": false
+  },
+  {
+   "id": 5664,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 8499,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 336,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 1948,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6328,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 5387,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 4252,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 974,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 4277,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 10006,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 1325,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1445,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 8449,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 1158,
+   "score": 10.0,
+   "raw": "10",
+   "fallback": false
+  },
+  {
+   "id": 9324,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 2191,
+   "score": 60.0,
+   "raw": "60",
+   "fallback": false
+  },
+  {
+   "id": 2234,
+   "score": 100.0,
+   "raw": "100",
+   "fallback": false
+  },
+  {
+   "id": 8234,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 9667,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 2836,
+   "score": 0.0,
+   "raw": "0",
+   "fallback": false
+  },
+  {
+   "id": 4686,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 9235,
+   "score": 0.0,
+   "raw": "0",
+   "fallback": false
+  },
+  {
+   "id": 11037,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  },
+  {
+   "id": 7317,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 3740,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 9462,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 3513,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 5459,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 6921,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 6502,
+   "score": 40.0,
+   "raw": "40",
+   "fallback": false
+  },
+  {
+   "id": 7563,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 9044,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 7783,
+   "score": 20.0,
+   "raw": "20",
+   "fallback": false
+  },
+  {
+   "id": 2113,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4405,
+   "score": 0.0,
+   "raw": "0",
+   "fallback": false
+  },
+  {
+   "id": 3985,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 1074,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 5893,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 364,
+   "score": 90.0,
+   "raw": "90",
+   "fallback": false
+  },
+  {
+   "id": 10608,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 9743,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 4080,
+   "score": 30.0,
+   "raw": "30",
+   "fallback": false
+  },
+  {
+   "id": 10613,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 3900,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 128,
+   "score": 75.0,
+   "raw": "75",
+   "fallback": false
+  },
+  {
+   "id": 1188,
+   "score": 85.0,
+   "raw": "85",
+   "fallback": false
+  },
+  {
+   "id": 989,
+   "score": 95.0,
+   "raw": "95",
+   "fallback": false
+  },
+  {
+   "id": 4059,
+   "score": 70.0,
+   "raw": "70",
+   "fallback": false
+  }
+ ]
+}

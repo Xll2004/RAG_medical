@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1939,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 432,
+    "avg_option_score": 1.2,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 4850,
+    "avg_option_score": 1.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 4353,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 3957,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 2417,
+    "avg_option_score": 1.8,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 1758,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 9582,
+    "avg_option_score": 2.8,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 1467,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 10651,
+    "avg_option_score": 2.75,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 7297,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 543,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 511,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 1580,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 3870,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 4126,
+    "avg_option_score": 1.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 8827,
+    "avg_option_score": 1.2,
+    "worst_option_score": 2,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 10930,
+    "avg_option_score": 2.75,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 457,
+    "avg_option_score": 2.8,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 9886,
+    "avg_option_score": 1.6,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 3460,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 0
+  },
+  {
+    "id": 9575,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 7258,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 3905,
+    "avg_option_score": 1.2,
+    "worst_option_score": 2,
+    "c2_correct": 1,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 7745,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 10627,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 4901,
+    "avg_option_score": 1.6,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 117,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 2746,
+    "avg_option_score": 1.6,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 7309,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 5928,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 4896,
+    "avg_option_score": 1.8,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 2678,
+    "avg_option_score": 1.8,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 3806,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 5868,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 1753,
+    "avg_option_score": 1.8,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 1564,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 6608,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 1642,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 6256,
+    "avg_option_score": 1.8,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 5989,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 10963,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 4677,
+    "avg_option_score": 1.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 734,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 7913,
+    "avg_option_score": 1.4,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 9394,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 2176,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 0
+  },
+  {
+    "id": 6585,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 1327,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 9708,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 5147,
+    "avg_option_score": 1.4,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 6305,
+    "avg_option_score": 1.8,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 10359,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 3312,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 1164,
+    "avg_option_score": 1.6,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 773,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 4041,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 5085,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 1343,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 0
+  },
+  {
+    "id": 4129,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 1731,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 6611,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 4898,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 7814,
+    "avg_option_score": 1.4,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 6359,
+    "avg_option_score": 1.2,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 2795,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 6449,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 6186,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 3697,
+    "avg_option_score": 1.4,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 4718,
+    "avg_option_score": 1.6,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 1194,
+    "avg_option_score": 2.8,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 11111,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 2934,
+    "avg_option_score": 1.6,
+    "worst_option_score": 2,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 9350,
+    "avg_option_score": 1.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 0
+  },
+  {
+    "id": 4351,
+    "avg_option_score": 1.2,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 2808,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 7961,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 6600,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 4766,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 9802,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 3889,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 5667,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 940,
+    "avg_option_score": 1.6,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 4062,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 1,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 548,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 0
+  },
+  {
+    "id": 5522,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 6956,
+    "avg_option_score": 1.6,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 4730,
+    "avg_option_score": 1.6,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 1109,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 3723,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 10002,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 5509,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 3755,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 8713,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 6866,
+    "avg_option_score": 1.4,
+    "worst_option_score": 2,
+    "c2_correct": 1,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 7903,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 0
+  },
+  {
+    "id": 2471,
+    "avg_option_score": 1.4,
+    "worst_option_score": 2,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 4683,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 2418,
+    "avg_option_score": 1.6,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 4384,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 9888,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 9455,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 4648,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 0
+  },
+  {
+    "id": 10533,
+    "avg_option_score": 1.5,
+    "worst_option_score": 2,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 7404,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 10508,
+    "avg_option_score": 1.75,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 6927,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 6310,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 3884,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 2397,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 8903,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 8595,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 1533,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 794,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 1906,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 2635,
+    "avg_option_score": 1.8,
+    "worst_option_score": 2,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 2752,
+    "avg_option_score": 1.2,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 7301,
+    "avg_option_score": 1.8,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 0
+  },
+  {
+    "id": 10783,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 1065,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 6688,
+    "avg_option_score": 1.8,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 6636,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 10774,
+    "avg_option_score": 2.5,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 8078,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 0
+  },
+  {
+    "id": 9262,
+    "avg_option_score": 2.8,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 4463,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 9729,
+    "avg_option_score": 1.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 203,
+    "avg_option_score": 2.8,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 0
+  },
+  {
+    "id": 2007,
+    "avg_option_score": 1.8,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 9413,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 4715,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 5927,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 1942,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 5152,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 7508,
+    "avg_option_score": 1.6,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 0
+  },
+  {
+    "id": 2722,
+    "avg_option_score": 1.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 7819,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 61,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 4659,
+    "avg_option_score": 1.8,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 8738,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 0
+  },
+  {
+    "id": 3058,
+    "avg_option_score": 1.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 8872,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 1840,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 5235,
+    "avg_option_score": 2.17,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 11106,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 3462,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 6510,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 2777,
+    "avg_option_score": 1.4,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 9465,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 9282,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 12,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 10842,
+    "avg_option_score": 2.5,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 5664,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 8499,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 336,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 1948,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 6328,
+    "avg_option_score": 1.8,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 5387,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 4252,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 974,
+    "avg_option_score": 1.4,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 4277,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 10006,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 1325,
+    "avg_option_score": 1.25,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 1445,
+    "avg_option_score": 1.6,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 8449,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 1158,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 9324,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 2191,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 2234,
+    "avg_option_score": 2.8,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 8234,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 9667,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 2836,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 4686,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 9235,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 11037,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 7317,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 3740,
+    "avg_option_score": 1.8,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 9462,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 3513,
+    "avg_option_score": 1.4,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 5459,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 6921,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 6502,
+    "avg_option_score": 1.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 7563,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 9044,
+    "avg_option_score": 1.4,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 7783,
+    "avg_option_score": 1.0,
+    "worst_option_score": 1,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 2113,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 4405,
+    "avg_option_score": 1.4,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 3985,
+    "avg_option_score": 1.2,
+    "worst_option_score": 2,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 1074,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 5893,
+    "avg_option_score": 3.0,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 364,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 10608,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 9743,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 1
+  },
+  {
+    "id": 4080,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 10613,
+    "avg_option_score": 2.5,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 0
+  },
+  {
+    "id": 3900,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 1,
+    "c5_correct": 1
+  },
+  {
+    "id": 128,
+    "avg_option_score": 2.6,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 1188,
+    "avg_option_score": 2.4,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 1,
+    "c5_correct": 0
+  },
+  {
+    "id": 989,
+    "avg_option_score": 2.0,
+    "worst_option_score": 3,
+    "c2_correct": 1,
+    "c3_correct": 0,
+    "c5_correct": 0
+  },
+  {
+    "id": 4059,
+    "avg_option_score": 2.2,
+    "worst_option_score": 3,
+    "c2_correct": 0,
+    "c3_correct": 0,
+    "c5_correct": 0
+  }
+]

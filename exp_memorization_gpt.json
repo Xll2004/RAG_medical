@@ -1,0 +1,2002 @@
+[
+ {
+  "id": 1939,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "脑脊液压力增加",
+  "e_pred": "呼吸性碱中毒",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"呼吸性碱中毒\"}"
+ },
+ {
+  "id": 432,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "让医方拿出充分的证据证明自己的医疗行为无过错",
+  "e_pred": "根据法律规定，医院应当承担举证责任，鉴定专家应当对医疗行为进行全面评估",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"根据法律规定，医院应当承担举证责任，鉴定专家应当对医疗行为进行全面评估\"}"
+ },
+ {
+  "id": 4850,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "红细胞生成素",
+  "e_pred": "叶酸",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"叶酸\"}"
+ },
+ {
+  "id": 4353,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "金钱草",
+  "e_pred": "金银花",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"金银花\"}"
+ },
+ {
+  "id": 3957,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "EBDIE类",
+  "e_pred": "EBDIE类",
+  "e_exact": true,
+  "raw_complete": "{\"E\": \"EBDIE类\"}"
+ },
+ {
+  "id": 2417,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "伴随症状",
+  "e_pred": "伴随症状的表现",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"伴随症状的表现\"}"
+ },
+ {
+  "id": 1758,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "肝脓肿",
+  "e_pred": "右侧肺炎",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"右侧肺炎\"}"
+ },
+ {
+  "id": 9582,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "人参汤",
+  "e_pred": "栝楼薤白汤",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"栝楼薤白汤\"}"
+ },
+ {
+  "id": 1467,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "老年人",
+  "e_pred": "癫痫",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"癫痫\"}"
+ },
+ {
+  "id": 10651,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "",
+  "e_pred": "可侵袭周围组织",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"可侵袭周围组织\"}"
+ },
+ {
+  "id": 7297,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "处方剂量",
+  "e_pred": "放射剂量",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"放射剂量\"}"
+ },
+ {
+  "id": 543,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "2009年1月1日",
+  "e_pred": "2008年1月1日",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"2008年1月1日\"}"
+ },
+ {
+  "id": 511,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "乳酸循环中的乳酸在肝成糖后入血液",
+  "e_pred": "胰岛素促进血糖升高",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"胰岛素促进血糖升高\"}"
+ },
+ {
+  "id": 1580,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "节细胞-双极细胞-光感受器细胞",
+  "e_pred": "光感受器细胞-节细胞-视神经",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"光感受器细胞-节细胞-视神经\"}"
+ },
+ {
+  "id": 3870,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "阿卡波糖",
+  "e_pred": "利拉鲁肽",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"利拉鲁肽\"}"
+ },
+ {
+  "id": 4126,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "肝",
+  "e_pred": "胃",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"胃\"}"
+ },
+ {
+  "id": 8827,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "生物-心理-社会",
+  "e_pred": "生物-社会-心理",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"生物-社会-心理\"}"
+ },
+ {
+  "id": 10930,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "",
+  "e_pred": "《本草纲目》",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"《本草纲目》\"}"
+ },
+ {
+  "id": 457,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "外展骨折",
+  "e_pred": "无移位骨折",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"无移位骨折\"}"
+ },
+ {
+  "id": 9886,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "出现尸斑",
+  "e_pred": "脑死亡",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"脑死亡\"}"
+ },
+ {
+  "id": 3460,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "19～23日",
+  "e_pred": "21～28日",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"21～28日\"}"
+ },
+ {
+  "id": 9575,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "茯苓皮汤",
+  "e_pred": "平胃散",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"平胃散\"}"
+ },
+ {
+  "id": 7258,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "主磁场",
+  "e_pred": "脉冲序列",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"脉冲序列\"}"
+ },
+ {
+  "id": 3905,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "生物等效性试验",
+  "e_pred": "药物上市后监测",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"药物上市后监测\"}"
+ },
+ {
+  "id": 7745,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "500bp",
+  "e_pred": "500bp",
+  "e_exact": true,
+  "raw_complete": "{\"E\": \"500bp\"}"
+ },
+ {
+  "id": 10627,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "机构审查委员会",
+  "e_pred": "国家卫生健康委员会伦理委员会",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"国家卫生健康委员会伦理委员会\"}"
+ },
+ {
+  "id": 4901,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "供试品受热出现发毛收缩及软化等变化，均不作初熔判断",
+  "e_pred": "熔点测定应在恒定升温下进行",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"熔点测定应在恒定升温下进行\"}"
+ },
+ {
+  "id": 117,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "药疹",
+  "e_pred": "药物性皮疹",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"药物性皮疹\"}"
+ },
+ {
+  "id": 2746,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "灌肠后嘱患者保留溶液10〜20分钟再排便",
+  "e_pred": "灌肠时应让患者侧卧",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"灌肠时应让患者侧卧\"}"
+ },
+ {
+  "id": 7309,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "几何半影和散射半影",
+  "e_pred": "几何半影和散射半影",
+  "e_exact": true,
+  "raw_complete": "{\"E\": \"几何半影和散射半影\"}"
+ },
+ {
+  "id": 5928,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "靶向乳剂",
+  "e_pred": "抗体药物偶联物",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"抗体药物偶联物\"}"
+ },
+ {
+  "id": 4896,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "枸橼酸钠",
+  "e_pred": "直接口服抗凝药",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"直接口服抗凝药\"}"
+ },
+ {
+  "id": 2678,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "瘦肉",
+  "e_pred": "水果",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"水果\"}"
+ },
+ {
+  "id": 3806,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "加巴喷丁",
+  "e_pred": "拉莫三嗪",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"拉莫三嗪\"}"
+ },
+ {
+  "id": 5868,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "无臭，味淡",
+  "e_pred": "不具光泽，表面粗糙",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"不具光泽，表面粗糙\"}"
+ },
+ {
+  "id": 1753,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "耐疲劳性好",
+  "e_pred": "加工性能好",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"加工性能好\"}"
+ },
+ {
+  "id": 1564,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "真菌性阴道炎",
+  "e_pred": "其他阴道炎",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"其他阴道炎\"}"
+ },
+ {
+  "id": 6608,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "芒硝",
+  "e_pred": "决明子",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"决明子\"}"
+ },
+ {
+  "id": 1642,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "深浅静脉交通支瓣膜功能试验",
+  "e_pred": "下肢静脉功能检查",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"下肢静脉功能检查\"}"
+ },
+ {
+  "id": 6256,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "效价下降",
+  "e_pred": "氨苄西林的稳定性降低",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"氨苄西林的稳定性降低\"}"
+ },
+ {
+  "id": 5989,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "益智",
+  "e_pred": "决明子",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"决明子\"}"
+ },
+ {
+  "id": 10963,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "以上都不是",
+  "e_pred": "川牛膝偏于清热解毒，怀牛膝偏于补益肝肾",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"川牛膝偏于清热解毒，怀牛膝偏于补益肝肾\"}"
+ },
+ {
+  "id": 4677,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "逐级定期报告制度",
+  "e_pred": "其他报告制度",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"其他报告制度\"}"
+ },
+ {
+  "id": 734,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "睛明、肾俞、承山、光明",
+  "e_pred": "委中、承扶、膀胱俞、至阴",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"委中、承扶、膀胱俞、至阴\"}"
+ },
+ {
+  "id": 7913,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "补体结合试验",
+  "e_pred": "免疫荧光试验",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"免疫荧光试验\"}"
+ },
+ {
+  "id": 9394,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "以上均不对",
+  "e_pred": "耳痛",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"耳痛\"}"
+ },
+ {
+  "id": 2176,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "尿潴留",
+  "e_pred": "尿量正常",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"尿量正常\"}"
+ },
+ {
+  "id": 6585,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "微粉硅胶",
+  "e_pred": "聚乙烯吡咯烷酮",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"聚乙烯吡咯烷酮\"}"
+ },
+ {
+  "id": 1327,
+  "seen": "unsure",
+  "source": "",
+  "raw_ask": "{\"seen\": \"unsure\", \"source\": \"\"}",
+  "e_true": "5",
+  "e_pred": "5",
+  "e_exact": true,
+  "raw_complete": "{\"E\": \"5\"}"
+ },
+ {
+  "id": 9708,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "为保持管腔通畅，要常挤压引流管",
+  "e_pred": "在引流管插入前，需进行胸部X线检查确认",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"在引流管插入前，需进行胸部X线检查确认\"}"
+ },
+ {
+  "id": 5147,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "不超过药品质量标准对该药杂质限量的规定",
+  "e_pred": "符合药典的相关标准",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"符合药典的相关标准\"}"
+ },
+ {
+  "id": 6305,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "其他精神病",
+  "e_pred": "躁狂症",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"躁狂症\"}"
+ },
+ {
+  "id": 10359,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "",
+  "e_pred": "其他国家的工业化道路",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"其他国家的工业化道路\"}"
+ },
+ {
+  "id": 3312,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "血液不能加温、振荡",
+  "e_pred": "输血前进行交叉配血试验",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"输血前进行交叉配血试验\"}"
+ },
+ {
+  "id": 1164,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "地中海贫血",
+  "e_pred": "其他贫血",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"其他贫血\"}"
+ },
+ {
+  "id": 773,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "小肠俞、下巨虚",
+  "e_pred": "足三里、阴陵泉",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"足三里、阴陵泉\"}"
+ },
+ {
+  "id": 4041,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "晶莹如粟",
+  "e_pred": "色素减退",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"色素减退\"}"
+ },
+ {
+  "id": 5085,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "氨苯蝶啶",
+  "e_pred": "氨苯蝶啶",
+  "e_exact": true,
+  "raw_complete": "{\"E\": \"氨苯蝶啶\"}"
+ },
+ {
+  "id": 1343,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "黏液样、水肿状疏松的结缔组织",
+  "e_pred": "肿瘤细胞中可见大量的血管和出血",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"肿瘤细胞中可见大量的血管和出血\"}"
+ },
+ {
+  "id": 4129,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "紫苏",
+  "e_pred": "芦荟",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"芦荟\"}"
+ },
+ {
+  "id": 1731,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "以上都是",
+  "e_pred": "自身免疫性甲状腺炎",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"自身免疫性甲状腺炎\"}"
+ },
+ {
+  "id": 6611,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "三倍以上五倍以下",
+  "e_pred": "一倍以下",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"一倍以下\"}"
+ },
+ {
+  "id": 4898,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "乙酰CoA",
+  "e_pred": "葡萄糖",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"葡萄糖\"}"
+ },
+ {
+  "id": 7814,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "别构抑制",
+  "e_pred": "不可逆抑制",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"不可逆抑制\"}"
+ },
+ {
+  "id": 6359,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "制剂品种必须经省级药品监督管理部门批准后方可配制",
+  "e_pred": "医疗机构配制的制剂可以用于临床研究",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"医疗机构配制的制剂可以用于临床研究\"}"
+ },
+ {
+  "id": 2795,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "多普勒超声检查听取胎心",
+  "e_pred": "定期监测HCG水平",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"定期监测HCG水平\"}"
+ },
+ {
+  "id": 6449,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "缩泉丸",
+  "e_pred": "八味肾气丸",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"八味肾气丸\"}"
+ },
+ {
+  "id": 6186,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "可乐定",
+  "e_pred": "依那普利",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"依那普利\"}"
+ },
+ {
+  "id": 3697,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "半极性溶剂",
+  "e_pred": "抗氧化剂",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"抗氧化剂\"}"
+ },
+ {
+  "id": 4718,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "所在地的县级药监部门批准，发给证明",
+  "e_pred": "药品广告不得虚假宣传，需符合相关法律法规",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"药品广告不得虚假宣传，需符合相关法律法规\"}"
+ },
+ {
+  "id": 1194,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "气海俞",
+  "e_pred": "气海",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"气海\"}"
+ },
+ {
+  "id": 11111,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "",
+  "e_pred": "小柴胡汤",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"小柴胡汤\"}"
+ },
+ {
+  "id": 2934,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "化验血常规",
+  "e_pred": "胃排空试验",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"胃排空试验\"}"
+ },
+ {
+  "id": 9350,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "甘",
+  "e_pred": "甜",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"甜\"}"
+ },
+ {
+  "id": 4351,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "波状",
+  "e_pred": "不规则形",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"不规则形\"}"
+ },
+ {
+  "id": 2808,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "凝血因子Ⅶ、Ⅸ、Ⅺ缺乏可导致血液凝固障碍",
+  "e_pred": "血友病甲为VIII因子缺乏，血友病乙为IX因子缺乏",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"血友病甲为VIII因子缺乏，血友病乙为IX因子缺乏\"}"
+ },
+ {
+  "id": 7961,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "快速充盈期",
+  "e_pred": "心室收缩期",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"心室收缩期\"}"
+ },
+ {
+  "id": 6600,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "红花",
+  "e_pred": "青黛",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"青黛\"}"
+ },
+ {
+  "id": 4766,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "氯丙嗪",
+  "e_pred": "氟西汀",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"氟西汀\"}"
+ },
+ {
+  "id": 9802,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "重度营养不良",
+  "e_pred": "正常体温",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"正常体温\"}"
+ },
+ {
+  "id": 3889,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "容易被氧化生成多聚糠醛，这也是其变色的主要原因",
+  "e_pred": "参与细胞呼吸和能量代谢",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"参与细胞呼吸和能量代谢\"}"
+ },
+ {
+  "id": 5667,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "25kg",
+  "e_pred": "5～10kg",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"5～10kg\"}"
+ },
+ {
+  "id": 940,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "乳腺纤维瘤",
+  "e_pred": "乳腺纤维腺瘤",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"乳腺纤维腺瘤\"}"
+ },
+ {
+  "id": 4062,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "0～0.01",
+  "e_pred": "0.15～0.30",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"0.15～0.30\"}"
+ },
+ {
+  "id": 548,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "猪苓",
+  "e_pred": "泽泻",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"泽泻\"}"
+ },
+ {
+  "id": 5522,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "葛根",
+  "e_pred": "白芍",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"白芍\"}"
+ },
+ {
+  "id": 6956,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "给患者心理安慰",
+  "e_pred": "改善下肢的血液循环",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"改善下肢的血液循环\"}"
+ },
+ {
+  "id": 4730,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "罕见药品不良反应",
+  "e_pred": "药品致死不良反应",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"药品致死不良反应\"}"
+ },
+ {
+  "id": 1109,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "湿热壅阻，银甲丸",
+  "e_pred": "气虚血瘀，四物汤",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"气虚血瘀，四物汤\"}"
+ },
+ {
+  "id": 3723,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "抗癌药",
+  "e_pred": "抗生素",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"抗生素\"}"
+ },
+ {
+  "id": 10002,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "",
+  "e_pred": "广州起义",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"广州起义\"}"
+ },
+ {
+  "id": 5509,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "赤石脂",
+  "e_pred": "龙骨",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"龙骨\"}"
+ },
+ {
+  "id": 3755,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "含有钙、镁、铝等离子的抗酸药与四环素合用",
+  "e_pred": "氟氯噻嗪与氨苄青霉素合用",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"氟氯噻嗪与氨苄青霉素合用\"}"
+ },
+ {
+  "id": 8713,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "右上叶或左上叶出现代偿性肺气肿",
+  "e_pred": "肺纹理增多",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"肺纹理增多\"}"
+ },
+ {
+  "id": 6866,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "脉压下降",
+  "e_pred": "晕厥",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"晕厥\"}"
+ },
+ {
+  "id": 7903,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "未达最大目标心率",
+  "e_pred": "心脏功能不全",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"心脏功能不全\"}"
+ },
+ {
+  "id": 2471,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "文字式评估工具",
+  "e_pred": "视觉模拟评分法",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"视觉模拟评分法\"}"
+ },
+ {
+  "id": 4683,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "四环素类",
+  "e_pred": "其他类",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"其他类\"}"
+ },
+ {
+  "id": 2418,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "遗传因素",
+  "e_pred": "遗传因素",
+  "e_exact": true,
+  "raw_complete": "{\"E\": \"遗传因素\"}"
+ },
+ {
+  "id": 4384,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "清心，安神",
+  "e_pred": "益气，安神",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"益气，安神\"}"
+ },
+ {
+  "id": 9888,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "12-15ml",
+  "e_pred": "5-15ml",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"5-15ml\"}"
+ },
+ {
+  "id": 9455,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "阴损及阳，阳损及阴",
+  "e_pred": "阴阳相互依存，互为表里",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"阴阳相互依存，互为表里\"}"
+ },
+ {
+  "id": 4648,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "乙酰CoA",
+  "e_pred": "葡萄糖",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"葡萄糖\"}"
+ },
+ {
+  "id": 10533,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "",
+  "e_pred": "预防气性坏疽的疫苗接种",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"预防气性坏疽的疫苗接种\"}"
+ },
+ {
+  "id": 7404,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "4096",
+  "e_pred": "4096",
+  "e_exact": true,
+  "raw_complete": "{\"E\": \"4096\"}"
+ },
+ {
+  "id": 10508,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "",
+  "e_pred": "仰卧位，头偏向一侧",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"仰卧位，头偏向一侧\"}"
+ },
+ {
+  "id": 6927,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "在硬膜外隙段和硬膜下隙段有脊神经根穿过",
+  "e_pred": "脊髓被膜的主要功能是保护脊髓和提供营养",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"脊髓被膜的主要功能是保护脊髓和提供营养\"}"
+ },
+ {
+  "id": 6310,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "6.5",
+  "e_pred": "6.5",
+  "e_exact": true,
+  "raw_complete": "{\"E\": \"6.5\"}"
+ },
+ {
+  "id": 3884,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "四氮唑比色法",
+  "e_pred": "气相色谱法",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"气相色谱法\"}"
+ },
+ {
+  "id": 2397,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "氯霉素",
+  "e_pred": "氟尿嘧啶",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"氟尿嘧啶\"}"
+ },
+ {
+  "id": 8903,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "医患关系的客体是社会",
+  "e_pred": "医患关系是基于信任和合作的关系",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"医患关系是基于信任和合作的关系\"}"
+ },
+ {
+  "id": 8595,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "代谢性骨病",
+  "e_pred": "骨肿瘤术后随访",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"骨肿瘤术后随访\"}"
+ },
+ {
+  "id": 1533,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "青霉素",
+  "e_pred": "肾上腺皮质激素",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"肾上腺皮质激素\"}"
+ },
+ {
+  "id": 794,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "脆脚",
+  "e_pred": "水肿",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"水肿\"}"
+ },
+ {
+  "id": 1906,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "无排卵型功能失调性子宫出血",
+  "e_pred": "多囊卵巢综合症",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"多囊卵巢综合症\"}"
+ },
+ {
+  "id": 2635,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "应用强心药以增加心肌收缩力",
+  "e_pred": "监测生命体征和尿量",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"监测生命体征和尿量\"}"
+ },
+ {
+  "id": 2752,
+  "seen": "unsure",
+  "source": "",
+  "raw_ask": "{\"seen\": \"unsure\", \"source\": \"\"}",
+  "e_true": "呼吸衰竭",
+  "e_pred": "意识丧失",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"意识丧失\"}"
+ },
+ {
+  "id": 7301,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "血流",
+  "e_pred": "患者的焦虑",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"患者的焦虑\"}"
+ },
+ {
+  "id": 10783,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "",
+  "e_pred": "75mmHg",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"75mmHg\"}"
+ },
+ {
+  "id": 1065,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "异烟肼+乙胺丁醇",
+  "e_pred": "利福平+链霉素",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"利福平+链霉素\"}"
+ },
+ {
+  "id": 6688,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "槲皮素",
+  "e_pred": "氨基酸",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"氨基酸\"}"
+ },
+ {
+  "id": 6636,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "0.09",
+  "e_pred": "0.05",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"0.05\"}"
+ },
+ {
+  "id": 10774,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "",
+  "e_pred": "急性胰腺炎",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"急性胰腺炎\"}"
+ },
+ {
+  "id": 8078,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "将鼠源抗体可变区与人抗体恒定区融合形成的抗体",
+  "e_pred": "由两种不同来源的抗体片段组合而成的抗体",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"由两种不同来源的抗体片段组合而成的抗体\"}"
+ },
+ {
+  "id": 9262,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "风寒感冒",
+  "e_pred": "感冒夹湿",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"感冒夹湿\"}"
+ },
+ {
+  "id": 4463,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "苯妥英钠",
+  "e_pred": "美托洛尔",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"美托洛尔\"}"
+ },
+ {
+  "id": 9729,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "前列腺肥大尿灌留",
+  "e_pred": "前列腺增生",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"前列腺增生\"}"
+ },
+ {
+  "id": 203,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "呼出气中有特殊的臭味，患者本人常可闻到",
+  "e_pred": "可有鼻出血",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"可有鼻出血\"}"
+ },
+ {
+  "id": 2007,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "用平车送入病区",
+  "e_pred": "监测胎心音",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"监测胎心音\"}"
+ },
+ {
+  "id": 9413,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "肝气疏泄",
+  "e_pred": "肾气充盈",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"肾气充盈\"}"
+ },
+ {
+  "id": 4715,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "可以给不服药的患者给药",
+  "e_pred": "不适合用于肠道吸收的药物",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"不适合用于肠道吸收的药物\"}"
+ },
+ {
+  "id": 5927,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "木通",
+  "e_pred": "白茅根",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"白茅根\"}"
+ },
+ {
+  "id": 1942,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "无特殊要求",
+  "e_pred": "月经第1日",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"月经第1日\"}"
+ },
+ {
+  "id": 5152,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "对大多数厌氧菌也有作用",
+  "e_pred": "与青霉素类药物有协同作用",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"与青霉素类药物有协同作用\"}"
+ },
+ {
+  "id": 7508,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "评价者选择一个数字来代表患者感受的痛",
+  "e_pred": "适用于评测各种类型的疼痛，包括急性和慢性疼痛",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"适用于评测各种类型的疼痛，包括急性和慢性疼痛\"}"
+ },
+ {
+  "id": 2722,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "排卵期适当增加性交次数",
+  "e_pred": "选择合适的受孕时机",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"选择合适的受孕时机\"}"
+ },
+ {
+  "id": 7819,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "尤因肉瘤",
+  "e_pred": "神经鞘瘤",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"神经鞘瘤\"}"
+ },
+ {
+  "id": 61,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "子宫内膜钙化",
+  "e_pred": "子宫内膜增生",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"子宫内膜增生\"}"
+ },
+ {
+  "id": 4659,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "吸入",
+  "e_pred": "静脉输液",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"静脉输液\"}"
+ },
+ {
+  "id": 8738,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "每隔一个正常搏动后出现一次期前收缩",
+  "e_pred": "脉搏快而弱",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"脉搏快而弱\"}"
+ },
+ {
+  "id": 3058,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "阴道后穹隆穿刺",
+  "e_pred": "腹部CT检查",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"腹部CT检查\"}"
+ },
+ {
+  "id": 8872,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "大于11",
+  "e_pred": "大于11",
+  "e_exact": true,
+  "raw_complete": "{\"E\": \"大于11\"}"
+ },
+ {
+  "id": 1840,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "选择性动脉造影",
+  "e_pred": "空腹血糖测定",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"空腹血糖测定\"}"
+ },
+ {
+  "id": 5235,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "生地黄",
+  "e_pred": "黄连",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"黄连\"}"
+ },
+ {
+  "id": 11106,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "",
+  "e_pred": "脾虚证",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"脾虚证\"}"
+ },
+ {
+  "id": 3462,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "信任关系",
+  "e_pred": "信任关系",
+  "e_exact": true,
+  "raw_complete": "{\"E\": \"信任关系\"}"
+ },
+ {
+  "id": 6510,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "解痉",
+  "e_pred": "对心脏有直接抑制作用",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"对心脏有直接抑制作用\"}"
+ },
+ {
+  "id": 2777,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "卵巢肿瘤",
+  "e_pred": "卵巢肿瘤",
+  "e_exact": true,
+  "raw_complete": "{\"E\": \"卵巢肿瘤\"}"
+ },
+ {
+  "id": 9465,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "汗出多少的不同",
+  "e_pred": "腹痛的性质不同",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"腹痛的性质不同\"}"
+ },
+ {
+  "id": 9282,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "带下",
+  "e_pred": "肾虚",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"肾虚\"}"
+ },
+ {
+  "id": 12,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "常在白天发作，运动后减轻",
+  "e_pred": "咳嗽伴有明显的喘息或呼吸困难",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"咳嗽伴有明显的喘息或呼吸困难\"}"
+ },
+ {
+  "id": 10842,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "",
+  "e_pred": "柴胡疏肝汤",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"柴胡疏肝汤\"}"
+ },
+ {
+  "id": 5664,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "枳实",
+  "e_pred": "枳实",
+  "e_exact": true,
+  "raw_complete": "{\"E\": \"枳实\"}"
+ },
+ {
+  "id": 8499,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "镜像伪像",
+  "e_pred": "声束效应",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"声束效应\"}"
+ },
+ {
+  "id": 336,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "胃镜检查标本",
+  "e_pred": "肝脏活检",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"肝脏活检\"}"
+ },
+ {
+  "id": 1948,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "脂肪泻",
+  "e_pred": "胆囊壁增厚或有胆囊内息肉",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"胆囊壁增厚或有胆囊内息肉\"}"
+ },
+ {
+  "id": 6328,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "实行分区分类管理有利于缩短药品收发作业时间",
+  "e_pred": "药品的分区分类管理与药品的有效期无关",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"药品的分区分类管理与药品的有效期无关\"}"
+ },
+ {
+  "id": 5387,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "重楼",
+  "e_pred": "枸杞子",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"枸杞子\"}"
+ },
+ {
+  "id": 4252,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "风热证候",
+  "e_pred": "阴虚火旺",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"阴虚火旺\"}"
+ },
+ {
+  "id": 974,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "离散程度",
+  "e_pred": "变异程度",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"变异程度\"}"
+ },
+ {
+  "id": 4277,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "纤维素",
+  "e_pred": "多糖类成分",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"多糖类成分\"}"
+ },
+ {
+  "id": 10006,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "",
+  "e_pred": "如何维护公平、合理的贸易秩序、管控分歧",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"如何维护公平、合理的贸易秩序、管控分歧\"}"
+ },
+ {
+  "id": 1325,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "",
+  "e_pred": "县级以上地方人民政府食品药品监督管理部门",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"县级以上地方人民政府食品药品监督管理部门\"}"
+ },
+ {
+  "id": 1445,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "肺病及心",
+  "e_pred": "肾病及心",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"肾病及心\"}"
+ },
+ {
+  "id": 8449,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "挛缩膀胱和对侧肾积水",
+  "e_pred": "肾功能衰竭",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"肾功能衰竭\"}"
+ },
+ {
+  "id": 1158,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "9~10岁",
+  "e_pred": "6~7岁",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"6~7岁\"}"
+ },
+ {
+  "id": 9324,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "痰犯咽喉",
+  "e_pred": "痰浊阻滞于肺",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"痰浊阻滞于肺\"}"
+ },
+ {
+  "id": 2191,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "代谢性酸中毒合并呼吸性碱中毒",
+  "e_pred": "高位肠梗阻导致的酸碱失衡",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"高位肠梗阻导致的酸碱失衡\"}"
+ },
+ {
+  "id": 2234,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "咳粉红色泡沫痰，心前区闻及响亮、 持续的水泡音",
+  "e_pred": "呼吸急促，咳嗽，双肺满布干啰音",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"呼吸急促，咳嗽，双肺满布干啰音\"}"
+ },
+ {
+  "id": 8234,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "序列分析",
+  "e_pred": "基因编辑",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"基因编辑\"}"
+ },
+ {
+  "id": 9667,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "输血过量",
+  "e_pred": "长期呕吐",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"长期呕吐\"}"
+ },
+ {
+  "id": 2836,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "颈项强直、克氏征（+)",
+  "e_pred": "意识障碍、四肢肌张力增高",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"意识障碍、四肢肌张力增高\"}"
+ },
+ {
+  "id": 4686,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "士的宁",
+  "e_pred": "水蛭",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"水蛭\"}"
+ },
+ {
+  "id": 9235,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "黑睛翳障状如秤星，荧光素染色阳性",
+  "e_pred": "黑睛混浊，视力减退，伴有眼痛",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"黑睛混浊，视力减退，伴有眼痛\"}"
+ },
+ {
+  "id": 11037,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "",
+  "e_pred": "肾",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"肾\"}"
+ },
+ {
+  "id": 7317,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "QI",
+  "e_pred": "CQI",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"CQI\"}"
+ },
+ {
+  "id": 3740,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "注射用无菌粉末",
+  "e_pred": "气雾剂型注射剂",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"气雾剂型注射剂\"}"
+ },
+ {
+  "id": 9462,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "筋赖心养",
+  "e_pred": "筋生于心",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"筋生于心\"}"
+ },
+ {
+  "id": 3513,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "经常洗温水澡",
+  "e_pred": "避免过度活动",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"避免过度活动\"}"
+ },
+ {
+  "id": 5459,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "木通",
+  "e_pred": "金银花",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"金银花\"}"
+ },
+ {
+  "id": 6921,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "10〜30keV康普顿效应占优势，30keV〜25MeV电子对效应占优势，25〜 100MeV光电效应占优势",
+  "e_pred": "10〜30keV电子对效应占优势，30keV〜25MeV光电效应占优势，25〜100MeV康普顿效应占优势",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"10〜30keV电子对效应占优势，30keV〜25MeV光电效应占优势，25〜100MeV康普顿效应占优势\"}"
+ },
+ {
+  "id": 6502,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "H",
+  "e_pred": "IVD",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"IVD\"}"
+ },
+ {
+  "id": 7563,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "正常人胃型多为钩型",
+  "e_pred": "幽门管的主要功能是调节胃内容物排入十二指肠的速度",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"幽门管的主要功能是调节胃内容物排入十二指肠的速度\"}"
+ },
+ {
+  "id": 9044,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "以上都是",
+  "e_pred": "支持",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"支持\"}"
+ },
+ {
+  "id": 7783,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "电脑中频",
+  "e_pred": "激光治疗",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"激光治疗\"}"
+ },
+ {
+  "id": 2113,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "以上都不是",
+  "e_pred": "胎儿心跳监测",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"胎儿心跳监测\"}"
+ },
+ {
+  "id": 4405,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "第二代磺酰脲类药物",
+  "e_pred": "磺脲类降糖药",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"磺脲类降糖药\"}"
+ },
+ {
+  "id": 3985,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "1.000～1.010",
+  "e_pred": "1.020～1.030",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"1.020～1.030\"}"
+ },
+ {
+  "id": 1074,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "选择性迷走神经切除术",
+  "e_pred": "胃部分切除术（幽门保留）",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"胃部分切除术（幽门保留）\"}"
+ },
+ {
+  "id": 5893,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "阴跷脉、阳跷脉、阴维脉",
+  "e_pred": "任脉、冲脉、阴维脉",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"任脉、冲脉、阴维脉\"}"
+ },
+ {
+  "id": 364,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "视神经病",
+  "e_pred": "糖尿病视网膜病变",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"糖尿病视网膜病变\"}"
+ },
+ {
+  "id": 10608,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "动脉脉搏压",
+  "e_pred": "心率减慢会导致心输出量减少",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"心率减慢会导致心输出量减少\"}"
+ },
+ {
+  "id": 9743,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "浮浅氏呼吸",
+  "e_pred": "潮式呼吸",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"潮式呼吸\"}"
+ },
+ {
+  "id": 4080,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "止汗药",
+  "e_pred": "温补药",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"温补药\"}"
+ },
+ {
+  "id": 10613,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "",
+  "e_pred": "胰腺结石",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"胰腺结石\"}"
+ },
+ {
+  "id": 3900,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "格列齐特",
+  "e_pred": "青霉素",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"青霉素\"}"
+ },
+ {
+  "id": 128,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "交通性鞘膜积液",
+  "e_pred": "鞘膜囊肿",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"鞘膜囊肿\"}"
+ },
+ {
+  "id": 1188,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "高良姜",
+  "e_pred": "肉桂",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"肉桂\"}"
+ },
+ {
+  "id": 989,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "淋巴结",
+  "e_pred": "淋巴结",
+  "e_exact": true,
+  "raw_complete": "{\"E\": \"淋巴结\"}"
+ },
+ {
+  "id": 4059,
+  "seen": "no",
+  "source": "",
+  "raw_ask": "{\"seen\": \"no\", \"source\": \"\"}",
+  "e_true": "以上皆非",
+  "e_pred": "伤气",
+  "e_exact": false,
+  "raw_complete": "{\"E\": \"伤气\"}"
+ }
+]

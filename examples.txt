@@ -1,0 +1,66 @@
+15 flip items (C2 query: correct with C1 docs and random, wrong with C2 docs)
+
+==========================================================================================
+id 3460 | gold C: 10～14日 | C2 chose A: 3～4日
+ZH: 新生儿生理性黄疸自然消退的时间为
+C1: The time for physiological jaundice in newborns to naturally resolve is...
+C2: The time of natural degeneration of a newborn's physiology
+  C2 doc1: The live birth of one or more neonates.
+  C2 doc2: The time of birth is multifactorial and, in most cases, can neither be predicted nor influenced. Stable respiratory and metabolic parameters in the majority of patients allow a surgical intervention within a limited time
+  C2 doc3: All 43 had cerebral cortical and subcortical brain damage of the type produced by late gestational ischemia and hypoxemia. The time between the onset of injury and birth ranged from 2-38 hours. The neonates were severely
+==========================================================================================
+id 7745 | gold B: 200bp | C2 chose C: 300bp
+ZH: 平均每个核小体重复单位占DNA的长度约为
+C1: The average length of each nucleosome repeat unit occupies approximately of the DNA length.
+C2: The average amount of DNA per nuclear small repeat unit is about
+  C2 doc1: The study was conducted on 265 nuclear families comprised of a total of 904 individuals. DNA samples were available for 705 individuals, belonging to 212 nuclear families. Three different transmission disequilibrium test
+  C2 doc2: DNA histograms were constructed following nuclear suspension analysis.
+  C2 doc3: Five hundred fifty DNA samples, 134 with PVR secondary to primary RD and 416 with RD without PVR.
+==========================================================================================
+id 9708 | gold C: 病人取平卧位 | C2 chose B: 如为气体，在锁骨中线第2肋间前上方部引流为宜
+ZH: 行胸腔闭式引流术，哪项是错误的
+C1: Which of the following is incorrect regarding the procedure of closed chest drainage?
+C2: What's wrong with the closed flow of the chest cavity?
+  C2 doc1: Repeated measurements in the laboratory demonstrated that in three-chamber chest drainage systems with small water-seals a negative pressure below -30.4 cmH(2)O led to emptying of the water-seal with retrograde flow of a
+  C2 doc2: We encountered a case whereby an 18-year-old boy presented to the Emergency Department with a stab wound to the left posterior chest. Chest X-ray (CXR) showed what appeared to be a pneumothorax and chest drain insertion 
+  C2 doc3: Nineteen patients were studied. PA flow was measured by pulse-wave Doppler during the surgery after chest closure. Patients were divided into 2 groups according to patterns of PA flow: group 1, positive (biphasic or cont
+==========================================================================================
+id 548 | gold E: 猪苓 | C2 chose C: 革薜
+ZH: 利水渗湿作用较强，治疗水湿停滞所致小便不利，水肿，泄泻，带下，宜首选
+C1: The diuretic and damp-draining effect is quite strong, and it is suitable as the first choice for treating urinary difficulties caused by water and damp stagnation, edema, diarrhea, and leukorrhea.
+C2: The leaching effect is strong, treating urinal disadvantages caused by the stagnating of water, swelling, leaking, carrying, preferred.
+  C2 doc1: The intention is to assess whether the fundamental principle ("the solution to pollution is dilution") should be the guide for the initial medical management of corrosive dermal exposures.
+  C2 doc2: Laundry pod toxicity is more severe. The chemical composition of laundry pods has a higher concentration of surfactants and ethoxylated alcohols; they have a higher viscosity and hydrotropic power. The addition of water 
+  C2 doc3: Seepage water was of much better quality than surface water, but this did not translate into less diarrhoea. This could only be partially explained by the generally poor quality of water in the in-house storage vessels, 
+==========================================================================================
+id 6956 | gold E: 给患者心理安慰 | C2 chose C: 弥补下肢缺失，代替人体支撑和行走
+ZH: 下肢假肢安装的目的不包括
+C1: The purpose of installing lower limb prosthetics does not include...
+C2: The purpose of the prostheses is not included.
+  C2 doc1: A drawback of active prostheses is that they detach the subject from the produced forces, thereby preventing direct mechanical feedback. This can be compensated by providing somatosensory feedback to the user through mec
+  C2 doc2: To determine the reason why 79% of knee disarticulation amputees had not received a prosthesis.
+  C2 doc3: Through photographic and electron microscopic assessment, the authors studied nine Provox 2 voice prostheses, which were removed due to malfunctioning.
+==========================================================================================
+id 4730 | gold B: 药品严重不良反应 | C2 chose D: 药品不良反应
+ZH: 对器官能产生永久损伤的不良反应是
+C1: The adverse reactions that can cause permanent damage to organs are
+C2: The negative response to permanent damage to organs is:
+  C2 doc1: Irradiation toxic effects in vital organs.
+  C2 doc2: It is well known that sepsis causes damage in different organs, including kidneys. However, few studies have been conducted on the magnitude of the long-term effects of sepsis on the surviving population, in particular, 
+  C2 doc3: As mortality of septic shock decreases, new therapies focus on improving short-term organ dysfunction. However, it is not known whether short-term organ dysfunction is associated with long-term mortality of septic shock.
+==========================================================================================
+id 1109 | gold C: 阴虚血热，慢盆方 | C2 chose B: 气滞血瘀，血府逐瘀汤
+ZH: 患者，女，32岁，已婚。下腹疼痛反复发作2个月，午后潮热，手足心热、月经量少，舌红，苔薄黄，脉细数。医证型、首选方药是下列哪一个
+C1: Patient: female, 32 years old, married. Reports recurrent lower abdominal pain for 2 months, afternoon heat sensations, heat in the palms and soles, scanty menstrual flow, red tongue, thin yellow coating, fine and rapid pulse. Which is the preferred diagnosis and formula among the following options?
+C2: Patients, women, 32 years old, married. The lower abdominal pain is repeated for two months, with heat in the middle of the day, a low amount of heart and menstruation, tweed, mossy yellow, veins.
+  C2 doc1: During the past 10 years, 217 patients have been evaluated in our office for chronic lower abdominal pain. Six patients in this group were unusual in that no diagnosis could be made after a complete history, physical exa
+  C2 doc2: A 40-year-old multipara presented at 30 weeks and 6 days with abdominal pain. The cause was not discovered until the time of cesarean delivery several days after admission.
+  C2 doc3: Fifty-one patients (25 girls; median age 14.2 years; range 8.4-17.6) with abdominal pain >2 months underwent a series of rectal distensions with an electronic barostat. RSTP and viscerosomatic referrals were assessed. Th
+==========================================================================================
+id 5509 | gold C: 朱砂 | C2 chose E: 赤石脂
+ZH: 需要采用水飞法炮制的药材是
+C1: The medicinal materials that need to be processed using the aqueous extraction method are:
+C2: The medicine that needs to be made by hydro-flying is...
+  C2 doc1: The development of synthetic surfactants for the treatment of lung pulmonary diseases has been going on for many years.
+  C2 doc2: Retrospective review of patients that underwent ABD at Thomas Jefferson University from 2000 to 2007. In all cases, dilation was performed with Hurricane RX hydrostatic balloons (Boston Scientific, Natick MA) or CRE esop
+  C2 doc3: To compare the in vivo relative bioavailability to the lung of Hydrofluoroalkane(HFA) Seretide delivered via Synchro-Breathe (SB); an optimally prepared 750 ml large volume plastic spacer, Volumatic (VM); and conventiona

@@ -1,0 +1,422 @@
+[
+  {
+    "item_no": 1,
+    "original_id": 11037,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 2,
+    "original_id": 4405,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 3,
+    "original_id": 61,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 4,
+    "original_id": 7309,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 5,
+    "original_id": 9455,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 6,
+    "original_id": 1939,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 7,
+    "original_id": 6611,
+    "gpt4o_mini_T1": false,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 8,
+    "original_id": 3723,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 9,
+    "original_id": 6866,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": false
+  },
+  {
+    "item_no": 10,
+    "original_id": 128,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 11,
+    "original_id": 3884,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 12,
+    "original_id": 3058,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 13,
+    "original_id": 5387,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 14,
+    "original_id": 3312,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 15,
+    "original_id": 1840,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 16,
+    "original_id": 12,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": false
+  },
+  {
+    "item_no": 17,
+    "original_id": 8499,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 18,
+    "original_id": 10627,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": false
+  },
+  {
+    "item_no": 19,
+    "original_id": 7258,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 20,
+    "original_id": 5085,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 21,
+    "original_id": 6510,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 22,
+    "original_id": 203,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 23,
+    "original_id": 2007,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": false
+  },
+  {
+    "item_no": 24,
+    "original_id": 2635,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": false
+  },
+  {
+    "item_no": 25,
+    "original_id": 364,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 26,
+    "original_id": 8872,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 27,
+    "original_id": 3460,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 28,
+    "original_id": 4730,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 29,
+    "original_id": 2777,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 30,
+    "original_id": 5927,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 31,
+    "original_id": 3513,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 32,
+    "original_id": 9886,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 33,
+    "original_id": 9465,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 34,
+    "original_id": 5667,
+    "gpt4o_mini_T1": false,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 35,
+    "original_id": 4463,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 36,
+    "original_id": 1533,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": false
+  },
+  {
+    "item_no": 37,
+    "original_id": 7301,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 38,
+    "original_id": 6310,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": false
+  },
+  {
+    "item_no": 39,
+    "original_id": 1758,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 40,
+    "original_id": 9235,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 41,
+    "original_id": 4351,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 42,
+    "original_id": 5928,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 43,
+    "original_id": 1445,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 44,
+    "original_id": 6359,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": false
+  },
+  {
+    "item_no": 45,
+    "original_id": 8713,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 46,
+    "original_id": 1158,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 47,
+    "original_id": 1564,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 48,
+    "original_id": 2471,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": false
+  },
+  {
+    "item_no": 49,
+    "original_id": 9350,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 50,
+    "original_id": 10783,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": false
+  },
+  {
+    "item_no": 51,
+    "original_id": 974,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 52,
+    "original_id": 4850,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": false
+  },
+  {
+    "item_no": 53,
+    "original_id": 4648,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 54,
+    "original_id": 5509,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 55,
+    "original_id": 3905,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 56,
+    "original_id": 9413,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 57,
+    "original_id": 2746,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 58,
+    "original_id": 4901,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": false
+  },
+  {
+    "item_no": 59,
+    "original_id": 9802,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": false,
+    "gpt4o_mini_T3": true
+  },
+  {
+    "item_no": 60,
+    "original_id": 3889,
+    "gpt4o_mini_T1": true,
+    "gpt4o_mini_T2": true,
+    "gpt4o_mini_T3": true
+  }
+]
