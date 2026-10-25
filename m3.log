@@ -1,50 +1,0 @@
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-Loading weights:   0%|          | 0/512 [00:00<?, ?it/s]Loading weights: 100%|██████████| 512/512 [00:00<00:00, 51529.30it/s]
-NLLB 8/200
-NLLB 16/200
-NLLB 24/200
-NLLB 32/200
-NLLB 40/200
-NLLB 48/200
-NLLB 56/200
-NLLB 64/200
-NLLB 72/200
-NLLB 80/200
-NLLB 88/200
-NLLB 96/200
-NLLB 104/200
-NLLB 112/200
-NLLB 120/200
-NLLB 128/200
-NLLB 136/200
-NLLB 144/200
-NLLB 152/200
-NLLB 160/200
-NLLB 168/200
-NLLB 176/200
-NLLB 184/200
-NLLB 192/200
-NLLB 200/200
-Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 9275.31it/s]
-Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 13045.85it/s]
-Loading pubmed_index_mminilm.faiss
-Loading pubmed_index.faiss
-zhq_c0docs run 1: 0.575
-zhq_c0docs run 2: 0.570
-zhq_c0docs run 3: 0.565
-=== zhq_c0docs majority: 0.570 ===
-c6q_c6docs run 1: 0.385
-c6q_c6docs run 2: 0.390
-c6q_c6docs run 3: 0.385
-=== c6q_c6docs majority: 0.390 ===
-c6q_c1docs run 1: 0.430
-c6q_c1docs run 2: 0.440
-c6q_c1docs run 3: 0.420
-=== c6q_c1docs majority: 0.430 ===
-zhq_c6docs run 1: 0.550
-zhq_c6docs run 2: 0.550
-zhq_c6docs run 3: 0.550
-=== zhq_c6docs majority: 0.550 ===
-QE C6 (claude): mean 39.8
-QE C6 (gpt): mean 49.7
-M3 done
